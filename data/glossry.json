@@ -1,21 +1,66 @@
 {
-    "A": [
+    "B": [
         {
             "intro_title": "Bitcoin",
-            "intro_desc": "<p>Bitcoin is digital currency released in 2008. It is the world’s first and biggest cryptocurrency [<a href='#Bitcoin'>link1.2</a>], since its operation, functioning and issuance are based on the principles of cryptography.</p>",
+            "intro_desc": "<p>Bitcoin is digital currency released in 2008. It is the world’s first and biggest [<a href='#Bitcoin'>cryptocurrency</a>], since its operation, functioning and issuance are based on the principles of cryptography.</p>",
             "description": [
                 {
-                    "title": "Additional information",
+                    "title": "Additional Information",
                     "paragraphs": [
-                        "<p>Bitcoin is digital currency released in 2008. It is the world’s first and biggest cryptocurrency [<a href='#Bitcoin'>link1.2</a>], since its operation, functioning and issuance are based on the principles of cryptography.</p>",
-                        "<p>Bitcoin is digital currency released in 2008. It is the world’s first and biggest cryptocurrency [<a href='#Bitcoin'>link1.2</a>], since its operation, functioning and issuance are based on the principles of cryptography.</p>"
+                        "<p>Bitcoin was released in 2008, on the heels of the housing bubble and crash, by an individual or group of people working under the pseudonym Satoshi Nakamoto [link 1.4]. The Bitcoin whitepaper released by Satoshi Nakamoto elaborated on the principles and motivations behind Bitcoin’s introduction and its real-world utility.</p>",
+                        "<p>Since the housing bubble crisis was majorly attributed to the abuse of financial power by big banks and financial entities, Bitcoin’s launch was based on the ideals of eradicating this centralized power and giving people power over their money.</p>"
                     ]
                 },
                 {
-                    "title": "Additional information",
+                    "title": "",
                     "paragraphs": [
-                        "<p>Bitcoin is digital currency released in 2008. It is the world’s first and biggest cryptocurrency [<a href='#Bitcoin'>link1.2</a>], since its operation, functioning and issuance are based on the principles of cryptography.</p>",
-                        "<p>Bitcoin is digital currency released in 2008. It is the world’s first and biggest cryptocurrency [<a href='#Bitcoin'>link1.2</a>], since its operation, functioning and issuance are based on the principles of cryptography.</p>"
+                        "<p>This is why Bitcoin is a decentralized currency. No single authority can govern Bitcoin. Instead, it operates as a peer-to-peer network. Each network entity is called a 'node' and exerts equal power in the network. All this is enabled by blockchain technology, which forms the bedrock of Bitcoin’s functioning.</p>",
+                        "<p>The blockchain is immutable, and transparent. So all nodes in a network can see every transaction, and every wallet/s balance. Simultaneously, they are also practically prohibited from changing these, since any change requires the consensus of a majority (51%+) of the network. Every node in the Bitcoin network saves its copy of the blockchain.</p>"
+                    ]
+                }
+            ]
+        }       
+    ],
+    "C": [
+        {
+            "intro_title": "Cryptocurrency",
+            "intro_desc": "<p>A cryptocurrency is a virtual asset secured and operated on the principles of cryptography and often decentralized i.e run without any single authority or entity’s influence.</p>",
+            "description": [
+                {
+                    "title": "Additional Information",
+                    "paragraphs": [
+                        "<p>Typically, cryptocurrencies are based on a blockchain, and the cryptocurrency network features a group of connected devices called 'nodes.’ Every transaction initiated and completed using a cryptocurrency network is saved in this blockchain.</p>",
+                        "<p>A cryptocurrency is usually a community-driven decentralized network for exchange of monetary value, ownership and other analogues. Since it is decentralized, there is no influence of central authorities like governments and financial institutions in the day to day functioning of the cryptocurrency. Instead, a cryptocurrency relies on its ‘blockchain’ for basic operations such as transaction processing, coin issuance, etc.</p>"
+                    ]
+                },
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p>These operations on the blockchain are governed by predefined protocols that determine the fate of all activities on the network. </p>",
+                        "<p>Bitcoin is the first, and biggest cryptocurrency. Ethereum is another popular cryptocurrency.</p>"
+                    ]
+                }
+            ]
+        }       
+    ],
+    "B": [
+        {
+            "intro_title": "Bitcoin Mining",
+            "intro_desc": "<p>New bitcoins are introduced into the Bitcoin network via a process called mining, and thus into circulation. Simultaneously, transactions are validated, confirmed and propagated on the network. It is the only process of its kind on the Bitcoin network, with no alternative.</p>",
+            "description": [
+                {
+                    "title": "Additional Information",
+                    "paragraphs": [
+                        "<p>Bitcoin is based on a form of distributed ledger technology, called the blockchain. A blockchain is essentially a set of unique blocks of information, where each block is connected to its predecessor, forming a chain. To add a new block to the Bitcoin blockchain, nodes compete to solve complex cryptographic puzzles via their computing hardware. This process is based on a consensus algorithm called 'Proof of Work', which rewards new bitcoins to those nodes that successfully complete the puzzle, and get the opportunity to add new blocks to the Bitcoin blockchain.</p>",
+                        "<p>Individuals engaging in this process are called Bitcoin miners, since the process is akin to hunting for bitcoins and finding a reward. Since Bitcoin is decentralized and has no central authority, the network requires a way to determine the legitimacy of each transaction. The Bitcoin miners do this by verifying the transactions based on the rules of the network, and then putting together them in a block. This block is then added to the blockchain and is then forever available for everyone to verify and confirm.</p>"
+                    ]
+                },
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p>The cryptographic problems are complex in nature and cannot be practically solved manually. They require specialized, high-performance computing devices, and since the first miner to verify the transactions is rewarded with new Bitcoin units for their efforts, this system incentivizes increasingly powerful systems.
+</p>",
+                        "<p></p>"
                     ]
                 }
             ]
