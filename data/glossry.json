@@ -1,26 +1,24 @@
 {
     "A": [
         {
-            "title": "ABC Wave Theory",
-            "description": "ABC Wave Theory Elliott Wave Theory, or ABC wave theory, is a term for three-wave counter trend price movement. Here, wave A is the first price wave that is against the trend of..."
-        },
-        {
-            "title": "Abridged Prospectus",
-            "description": "An Abridged Prospectus is a memorandum provided in Section 2(1) of the Companies Act, 2013. It includes all the significant features of a prospectus, specified by the Securities and Exchange"
+            "intro_title": "Bitcoin",
+            "intro_desc": "<p>Bitcoin is digital currency released in 2008. It is the world’s first and biggest cryptocurrency [<a href='#Bitcoin'>link1.2</a>], since its operation, functioning and issuance are based on the principles of cryptography.</p>",
+            "description": [
+                {
+                    "title": "Additional information",
+                    "paragraphs": [
+                        "<p>Bitcoin is digital currency released in 2008. It is the world’s first and biggest cryptocurrency [<a href='#Bitcoin'>link1.2</a>], since its operation, functioning and issuance are based on the principles of cryptography.</p>",
+                        "<p>Bitcoin is digital currency released in 2008. It is the world’s first and biggest cryptocurrency [<a href='#Bitcoin'>link1.2</a>], since its operation, functioning and issuance are based on the principles of cryptography.</p>"
+                    ]
+                },
+                {
+                    "title": "Additional information",
+                    "paragraphs": [
+                        "<p>Bitcoin is digital currency released in 2008. It is the world’s first and biggest cryptocurrency [<a href='#Bitcoin'>link1.2</a>], since its operation, functioning and issuance are based on the principles of cryptography.</p>",
+                        "<p>Bitcoin is digital currency released in 2008. It is the world’s first and biggest cryptocurrency [<a href='#Bitcoin'>link1.2</a>], since its operation, functioning and issuance are based on the principles of cryptography.</p>"
+                    ]
+                }
+            ]
         }       
-    ],
-    "B": [
-        {
-            "title": "Bitcoin",
-            "description": "Best crypto"
-        },
-        {
-            "title": "BAC Wave Theory",
-            "description": "ABC Wave Theory Elliott Wave Theory, or ABC wave theory, is a term for three-wave counter trend price movement. Here, wave A is the first price wave that is against the trend of..."
-        },
-        {
-            "title": "Bbridged Prospectus",
-            "description": "An Abridged Prospectus is a memorandum provided in Section 2(1) of the Companies Act, 2013. It includes all the significant features of a prospectus, specified by the Securities and Exchange"
-        }       
-    ],
+    ]
 }
