@@ -39,6 +39,46 @@
                     ]
                 }
             ]
+        },   
+        {
+            "intro_title": "Blockchain",
+            "intro_desc": "<p>A blockchain is essentially a digital ledger that stores records of transactions, duplicated and distributed across a network of computer systems. Each block in the chain accommodates several transactions. Once a transaction is added or validated, every block in the network adds the transaction into their ledger. </p>",
+            "description": [
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p>If one of the blocks in the network has been compromised due to a malicious transaction, the blockchain will immediately know that one of the blocks has been tampered with and hence can be terminated. To successfully hack the network, the attackers need to change every block across the distributed versions of the chain. Therefore, it is almost impossible to hack an entire blockchain.</p>",
+                        "<p>Bitcoin and Ethereum are some of the most famous blockchain networks in the world. The addition of new blocks in these systems adds up the security of the blockchain.</p>"
+                    ]
+                },
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p></p>",
+                        "<p></p>"
+                    ]
+                }
+            ]
+        },
+        {
+            "intro_title": "Bitcoin Futures",
+            "intro_desc": "<p>Just like stock or commodities futures, Bitcoin futures is a legal agreement of trading a cryptocurrency at a predetermined date and price. Bitcoin futures allow investors to speculate on the future prices of a given cryptocurrency.</p>",
+            "description": [
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p>The introduction of Bitcoin futures has affected markets in a significant way. Investors can carry out leverage trading and benefit from cryptocurrency's volatility without holding Bitcoin.</p>",
+                        "<p>There are a number of benefits of futures trading instead of holding or trading in the spot market. Primarily, the contracts are traded on the regulated exchange; these Bitcoin futures are regulated by Commodity Futures Trading Commission, giving institutional investors confidence to participate. Since Bitcoin futures are cash-settled, there no need for a Bitcoin wallet or any kind of physical exchange.</p>"
+                    ]
+                },
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p></p>",
+                        "<p></p>"
+                    ]
+                }
+            ]
         }
     ],
     "C": [
@@ -58,6 +98,50 @@
                     "paragraphs": [
                         "<p>These operations on the blockchain are governed by predefined protocols that determine the fate of all activities on the network. </p>",
                         "<p>Bitcoin is the first, and biggest cryptocurrency. Ethereum is another popular cryptocurrency.</p>"
+                    ]
+                }
+            ]
+        }       
+    ],
+    "E": [
+        {
+            "intro_title": "Ether",
+            "intro_desc": "<p>Ether is the native currency of the Ethereum blockchain; Ether is generally referred to as Ethereum or by its ticker ETH. Ether pays for the computing power and other services offered by Ethereum, a type of decentralized internet and app system.</p>",
+            "description": [
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p>Ether does not require a third party to process a transaction since it is a blockchain and hence is not owned by anyone. Ether should be considered as fuel for building the apps on the decentralized Ethereum network.</p>",
+                        "<p>Considering Ether as digital money can be misleading since Ether follows the same underlying principle of demand and supply. If more people use it, Ether's demand shall rise, and so will the price, just like oil. Therefore Ether should be considered a commodity or programmable money.</p>"
+                    ]
+                },
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p></p>",
+                        "<p></p>"
+                    ]
+                }
+            ]
+        }       
+    ],
+    "M": [
+        {
+            "intro_title": "Margin Trading",
+            "intro_desc": "<p>Margin trading is a method of trading cryptocurrencies using funds provided by a third party; compared to spot or regular trading, a margin account allows traders to trade with a larger sum of capital and adjust leverage to their positions. This way, traders can have a chance of earning more profits than usual on successful trades. But with greater chances of profits comes greater chances of loss.</p>",
+            "description": [
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p>In traditional markets, the margin funds are usually provided by institutional investors in return for interests; however, in the cryptocurrency market, these funds are provided by other traders who earn interest based on market demand.</p>",
+                        "<p></p>"
+                    ]
+                },
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p></p>",
+                        "<p></p>"
                     ]
                 }
             ]
