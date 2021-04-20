@@ -79,6 +79,26 @@
                     ]
                 }
             ]
+        },
+        {
+            "intro_title": "Bollinger band",
+            "intro_desc": "<p>A Bollinger Band is a technical analysis indicator that is defined by a set of trendlines plotted by two standard deviations and a Simple Moving Average(SMA). Both of these deviations are plotted above (positively) and below (negatively) the SMA of a cryptocurrency's price.</p>",
+            "description": [
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p>Bollinger Bands are copyrighted by its developer - John Bollinger, who is an accomplished technical trader. Bollinger Bands give investors a higher sense of market understanding and hence can be proved to be very useful.</p>",
+                        "<p></p>"
+                    ]
+                },
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p></p>",
+                        "<p></p>"
+                    ]
+                }
+            ]
         }
     ],
     "C": [
@@ -96,12 +116,32 @@
                 {
                     "title": "",
                     "paragraphs": [
-                        "<p>These operations on the blockchain are governed by predefined protocols that determine the fate of all activities on the network. </p>",
+                        "<p>These operations on the blockchain are governed by predefined protocols that determine the fate of all activities on the network.</p>",
                         "<p>Bitcoin is the first, and biggest cryptocurrency. Ethereum is another popular cryptocurrency.</p>"
                     ]
                 }
             ]
-        }       
+        },
+        {
+            "intro_title": "Candlesticks",
+            "intro_desc": "<p>A candlestick is a method of plotting prices on a graph or a chart; a single candlestick can show the open, high, low, and closing price of a cryptocurrency in a pre-defined period. Even though it was first used in the 18th century, candlestick charts are used by almost everyone for technical and financial analysis in financial markets.</p>",
+            "description": [
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p>Candlesticks are colored red and green to indicate a bearish or bullish nature in that given time period. If the price at the time of opening is lower than the price at the time of closing, the candle is of green color, indicating a bullish nature in that time period; also, the inverse is also true.</p>",
+                        "<p></p>"
+                    ]
+                },
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p></p>",
+                        "<p></p>"
+                    ]
+                }
+            ]
+        }   
     ],
     "E": [
         {
@@ -134,6 +174,28 @@
                     "title": "",
                     "paragraphs": [
                         "<p>In traditional markets, the margin funds are usually provided by institutional investors in return for interests; however, in the cryptocurrency market, these funds are provided by other traders who earn interest based on market demand.</p>",
+                        "<p></p>"
+                    ]
+                },
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p></p>",
+                        "<p></p>"
+                    ]
+                }
+            ]
+        }       
+    ],
+    "L": [
+        {
+            "intro_title": "Leverage",
+            "intro_desc": "<p>The term leverage simply refers to how many times the trader has increased the position. For example, if you open a 100x long position on Bitcoin, you will get 100x times the profits you invested. In cryptocurrency high leverage, trading is risky since they can liquidate your funds.</p>",
+            "description": [
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p></p>",
                         "<p></p>"
                     ]
                 },
