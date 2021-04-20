@@ -19,7 +19,27 @@
                     ]
                 }
             ]
-        }       
+        },
+        {
+            "intro_title": "Bitcoin Mining",
+            "intro_desc": "<p>New bitcoins are introduced into the Bitcoin network via a process called mining, and thus into circulation. Simultaneously, transactions are validated, confirmed and propagated on the network. It is the only process of its kind on the Bitcoin network, with no alternative.</p>",
+            "description": [
+                {
+                    "title": "Additional Information",
+                    "paragraphs": [
+                        "<p>Bitcoin is based on a form of distributed ledger technology, called the blockchain. A blockchain is essentially a set of unique blocks of information, where each block is connected to its predecessor, forming a chain. To add a new block to the Bitcoin blockchain, nodes compete to solve complex cryptographic puzzles via their computing hardware. This process is based on a consensus algorithm called 'Proof of Work', which rewards new bitcoins to those nodes that successfully complete the puzzle, and get the opportunity to add new blocks to the Bitcoin blockchain.</p>",
+                        "<p>Individuals engaging in this process are called Bitcoin miners, since the process is akin to hunting for bitcoins and finding a reward. Since Bitcoin is decentralized and has no central authority, the network requires a way to determine the legitimacy of each transaction. The Bitcoin miners do this by verifying the transactions based on the rules of the network, and then putting together them in a block. This block is then added to the blockchain and is then forever available for everyone to verify and confirm.</p>"
+                    ]
+                },
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p>The cryptographic problems are complex in nature and cannot be practically solved manually. They require specialized, high-performance computing devices, and since the first miner to verify the transactions is rewarded with new Bitcoin units for their efforts, this system incentivizes increasingly powerful systems.</p>",
+                        "<p></p>"
+                    ]
+                }
+            ]
+        }
     ],
     "C": [
         {
@@ -38,28 +58,6 @@
                     "paragraphs": [
                         "<p>These operations on the blockchain are governed by predefined protocols that determine the fate of all activities on the network. </p>",
                         "<p>Bitcoin is the first, and biggest cryptocurrency. Ethereum is another popular cryptocurrency.</p>"
-                    ]
-                }
-            ]
-        }       
-    ],
-    "B": [
-        {
-            "intro_title": "Bitcoin Mining",
-            "intro_desc": "<p>New bitcoins are introduced into the Bitcoin network via a process called mining, and thus into circulation. Simultaneously, transactions are validated, confirmed and propagated on the network. It is the only process of its kind on the Bitcoin network, with no alternative.</p>",
-            "description": [
-                {
-                    "title": "Additional Information",
-                    "paragraphs": [
-                        "<p>Bitcoin is based on a form of distributed ledger technology, called the blockchain. A blockchain is essentially a set of unique blocks of information, where each block is connected to its predecessor, forming a chain. To add a new block to the Bitcoin blockchain, nodes compete to solve complex cryptographic puzzles via their computing hardware. This process is based on a consensus algorithm called 'Proof of Work', which rewards new bitcoins to those nodes that successfully complete the puzzle, and get the opportunity to add new blocks to the Bitcoin blockchain.</p>",
-                        "<p>Individuals engaging in this process are called Bitcoin miners, since the process is akin to hunting for bitcoins and finding a reward. Since Bitcoin is decentralized and has no central authority, the network requires a way to determine the legitimacy of each transaction. The Bitcoin miners do this by verifying the transactions based on the rules of the network, and then putting together them in a block. This block is then added to the blockchain and is then forever available for everyone to verify and confirm.</p>"
-                    ]
-                },
-                {
-                    "title": "",
-                    "paragraphs": [
-                        "<p>The cryptographic problems are complex in nature and cannot be practically solved manually. They require specialized, high-performance computing devices, and since the first miner to verify the transactions is rewarded with new Bitcoin units for their efforts, this system incentivizes increasingly powerful systems.</p>",
-                        "<p></p>"
                     ]
                 }
             ]
