@@ -1,4 +1,26 @@
 {
+    "A": [
+        {
+            "intro_title": "Altcoin",
+            "intro_desc": "<p>Ever since Bitcoin’s launch and quick success in 2009, the world witnessed the launch of several other cryptocurrencies. All these cryptocurrencies, developed and launched after Bitcoin are collectively called altcoins.</p>",
+            "description": [
+                {
+                    "title": "Additional Information:",
+                    "paragraphs": [
+                        "<p>The word 'altcoin' is a portmanteau of 'alt' (short for alternative) and 'coin' (referring to crypto-tokens or ‘coins’). Most altcoins attempt to replicate the decentralized, peer-to-peer (P2P) structure of Bitcoin while also trying to fix pertinent issues with Bitcoin, with varying results.</p>",
+                        "<p>Some major issues with Bitcoin that altcoins have tried to address are slow transactions, which can take upto 10 minutes to be fully processed, and high fees for transactions or trades. Ethereum, an altcoin with a fairly large user base, has managed to offer faster transaction speeds with lower fees and increased security.</p>"
+                    ]
+                },
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p>Launched in April 2011, Namecoin was one of the first Bitcoin alternatives, and used the same proof-of-work algorithm. Namecoin allowed miners to generate an individual .bit domain for mining, having an increased focus on user anonymity. Litecoin, another early alternative to Bitcoin, was launched in October of the same year, and instead of being a direct competitor was touted more as the 'silver to Bitcoin's gold.' Litecoin has much faster transaction speeds compared to Bitcoin.</p>",
+                        "<p>While altcoins have a multitude of classifications, the two basic types are stablecoins and mining-based cryptocurrencies. Altcoins like Ethereum are mining-based, complex cryptographic puzzles are solved to generate, or mine, new blocks aka coins. On the other hand for stablecoins, the values of altcoins like USDC, USDT, and DAI are pegged to another commodity, which can be another cryptocurrency, a fiat (non-digital) currency, or even a exchange-traded physical commodity such as gold which reduces market volatility and price uncertainty.</p>"
+                    ]
+                }
+            ]
+        }       
+    ],
     "B": [
         {
             "intro_title": "Bitcoin",
@@ -7,7 +29,7 @@
                 {
                     "title": "Additional Information",
                     "paragraphs": [
-                        "<p>Bitcoin was released in 2008, on the heels of the housing bubble and crash, by an individual or group of people working under the pseudonym Satoshi Nakamoto [link 1.4]. The Bitcoin whitepaper released by Satoshi Nakamoto elaborated on the principles and motivations behind Bitcoin’s introduction and its real-world utility.</p>",
+                        "<p>Bitcoin was released in 2008, on the heels of the housing bubble and crash, by an individual or group of people working under the pseudonym Satoshi Nakamoto. The Bitcoin whitepaper released by Satoshi Nakamoto elaborated on the principles and motivations behind Bitcoin’s introduction and its real-world utility.</p>",
                         "<p>Since the housing bubble crisis was majorly attributed to the abuse of financial power by big banks and financial entities, Bitcoin’s launch was based on the ideals of eradicating this centralized power and giving people power over their money.</p>"
                     ]
                 },
@@ -143,6 +165,28 @@
             ]
         }   
     ],
+    "D": [
+        {
+            "intro_title": "DEX / Decentralized Exchange",
+            "intro_desc": "<p>A cryptocurrency exchange that operates on a peer-to-peer model instead of having a central authority with full access and authority over the exchange is called a DEX or decentralized exchange.</p>",
+            "description": [
+                {
+                    "title": "Additional information:",
+                    "paragraphs": [
+                        "<p>Since a DEX works on the principles of peer-to-peer trading, a DEX never holds custody of any traders’ coins or acts as a wallet to store trade profits in. This effectively limits the security risk that users face with stored crypto deposits on centralized exchanges.</p>",
+                        "<p>Usually DEXs are pro-anonymity, and a Know Your Customer (KYC) process is typically not required of traders. A transaction occurs between two entities, with cryptocurrencies moving from a seller’s wallet to the buyer’s. Since there is no central authority controlling the trades (except for running the portal and facilitating aggregation), there is typically no way to reverse transactions made on a DEX.</p>"
+                    ]
+                },
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p></p>",
+                        "<p></p>"
+                    ]
+                }
+            ]
+        }       
+    ],
     "E": [
         {
             "intro_title": "Ether",
@@ -204,6 +248,28 @@
                     "paragraphs": [
                         "<p></p>",
                         "<p></p>"
+                    ]
+                }
+            ]
+        }       
+    ],
+    "S": [
+        {
+            "intro_title": "Satoshi Nakamoto",
+            "intro_desc": "<p>Satoshi Nakamoto is the assumed pseudonym of the person or group who invented Bitcoin, wrote the Bitcoin white paper, and deployed Bitcoin's original reference implementation. Their real identity remains unknown, even more than a decade after Bitcoin’s invention.</p>",
+            "description": [
+                {
+                    "title": "Additional information:",
+                    "paragraphs": [
+                        "<p>Bitcoin first came into existence in October 2008 when its creator, Satoshi Nakamoto, published a paper on virtual cryptocurrency entitled 'Bitcoin: A Peer-to-Peer Electronic Cash System' on the mailing list for cryptography at metzdowd.com. According to some reports, Nakamoto started working on Bitcoin in 2007 and also registered the domain 'bitcoin.org'. In 2009, with Bitcoin's version 0.1 release, Satoshi mined the genesis block (the first block) of the Bitcoin network.</p>",
+                        "<p>In mid-2010, Gavin Andresen was given control of the network alert key and source code repository by Satoshi. He also transferred domains to various prominent members of the Bitcoin community. Today, Satoshi’s bitcoins remain unspent.</p>"
+                    ]
+                },
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p>There has been much speculation regarding Satoshi’s real identity. While Satoshi himself claimed to be Japanese, this remains an unconfirmed attribute.</p>",
+                        "<p>In the crypto price boom of 2020, the total valuation of Satoshi’s bitcoins crossed US$40 billion.</p>"
                     ]
                 }
             ]
