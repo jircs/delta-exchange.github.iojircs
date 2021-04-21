@@ -185,7 +185,27 @@
                     ]
                 }
             ]
-        }       
+        },
+        {
+            "intro_title": "DeFi",
+            "intro_desc": "<p>Decentralized Finance or DeFi is a collective term for the entire range of financial applications based on blockchain networks. The main aim of this methodology is to promote a financial system that is distributed and decentralized, with any central authority figure. This is in-line with the core concept of cryptocurrencies - open-source and permissionless means of transacting on a peer-to-peer basis.</p>",
+            "description": [
+                {
+                    "title": "Additional information:",
+                    "paragraphs": [
+                        "<p>DeFi protocols, similar to the cryptocurrencies they are inspired from, constitute anonymous and peer-to-peer blockchain networks, which allows unrestricted access to all apps on a DeFi system for anyone with a connection to the internet. An open-source code-base allows for public auditing and verification of the DeFi’s security measures, as well as transparency and accountability.</p>",
+                        "<p>While Bitcoin is one of the first instances of a widely used DeFi application, current DeFi systems use Ethereum, due to its support for a multitude of peer-to-peer based applications instead of a simple transaction-based model like Bitcoin. Decentralized exchanges, or DEXs, a host of protocols that enable a system of credit (akin to loans) and even peer-to-peer insurance protocols are some major applications of DeFi methodologies.</p>"
+                    ]
+                },
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p></p>",
+                        "<p></p>"
+                    ]
+                }
+            ]
+        } 
     ],
     "E": [
         {
@@ -197,6 +217,50 @@
                     "paragraphs": [
                         "<p>Ether does not require a third party to process a transaction since it is a blockchain and hence is not owned by anyone. Ether should be considered as fuel for building the apps on the decentralized Ethereum network.</p>",
                         "<p>Considering Ether as digital money can be misleading since Ether follows the same underlying principle of demand and supply. If more people use it, Ether's demand shall rise, and so will the price, just like oil. Therefore Ether should be considered a commodity or programmable money.</p>"
+                    ]
+                },
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p></p>",
+                        "<p></p>"
+                    ]
+                }
+            ]
+        }       
+    ],
+    "H": [
+        {
+            "intro_title": "Halving",
+            "intro_desc": "<p>Halving is a phenomena exclusive to Bitcoin, where on a cycle of 4 years, the number of bitcoins given as a reward for successfully mining a new block is reduced by half. This means every 4 years, miners get a 50% reduction in their rewards.</p>",
+            "description": [
+                {
+                    "title": "Additional Information:",
+                    "paragraphs": [
+                        "<p>Satoshi had initially set 50 bitcoins as the reward for being the first to mine and add a new block to the blockchain. Halving the number of bitcoins received as a reward will continue after an interval of 210,000 blocks until the last bitcoin will be mined, projected to be the year 2140. The last halving for Bitcoin was on 11 May 2020, at around 3 pm, with the reward dropping to 6.25 bitcoins from 12.5.</p>",
+                        "<p>Halvings generally cause a steep rise in Bitcoin’s value due to a bullish market trend. Bitcoin’s price went up to $20,000 after halving from $650, and then settled down to $3,200 as the year progressed. The idea of halving is to ensure inflation in Bitcoin’s economy, as the reduced supply of Bitcoins (capped at 21 million) causes greater demand and subsequently higher prices and incentive for miners to keep mining Bitcoin. However, this also leads to a very volatile market that encourages speculation and unpredictability.</p>"
+                    ]
+                },
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p></p>",
+                        "<p></p>"
+                    ]
+                }
+            ]
+        }       
+    ],
+    "L": [
+        {
+            "intro_title": "Leverage",
+            "intro_desc": "<p>The term leverage simply refers to how many times the trader has increased the position. For example, if you open a 100x long position on Bitcoin, you will get 100x times the profits you invested. In cryptocurrency high leverage, trading is risky since they can liquidate your funds.</p>",
+            "description": [
+                {
+                    "title": "",
+                    "paragraphs": [
+                        "<p></p>",
+                        "<p></p>"
                     ]
                 },
                 {
@@ -231,16 +295,16 @@
             ]
         }       
     ],
-    "L": [
+    "R": [
         {
-            "intro_title": "Leverage",
-            "intro_desc": "<p>The term leverage simply refers to how many times the trader has increased the position. For example, if you open a 100x long position on Bitcoin, you will get 100x times the profits you invested. In cryptocurrency high leverage, trading is risky since they can liquidate your funds.</p>",
+            "intro_title": "REKT",
+            "intro_desc": "<p>REKT is a commonly used internet slang, which is a phonetic spelling of the word ‘wrecked’. It means the same thing as the original word it is based upon, which means ‘to be completely destroyed or defeated’. In the world of cryptocurrencies, it is taken to mean total or significant financial loss.</p>",
             "description": [
                 {
-                    "title": "",
+                    "title": "Additional information:",
                     "paragraphs": [
-                        "<p></p>",
-                        "<p></p>"
+                        "<p>While the term can change in meaning slightly depending on the context it is used in, in the crypto space, someone could be described as rekt when they make a dubious investment decision or transaction and incur a severe financial loss. Originally the term was used in the gaming community to refer to a player who had been embarrassingly or easily defeated in a game.</p>",
+                        "<p>For example, if an altcoin highly valued during its IPO had a much lower price upon being traded on the open market, we could say the token was ‘rekt’, and, in-fact, any investor of the coin could also be ‘rekt’ due to a poor investment choice.</p>"
                     ]
                 },
                 {
