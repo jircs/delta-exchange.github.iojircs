@@ -56,8 +56,7 @@
                 {
                     "title": "",
                     "paragraphs": [
-                        "<p>The cryptographic problems are complex in nature and cannot be practically solved manually. They require specialized, high-performance computing devices, and since the first miner to verify the transactions is rewarded with new Bitcoin units for their efforts, this system incentivizes increasingly powerful systems.</p>",
-                        "<p></p>"
+                        "<p>The cryptographic problems are complex in nature and cannot be practically solved manually. They require specialized, high-performance computing devices, and since the first miner to verify the transactions is rewarded with new Bitcoin units for their efforts, this system incentivizes increasingly powerful systems.</p>"
                     ]
                 }
             ]
@@ -72,13 +71,6 @@
                         "<p>If one of the blocks in the network has been compromised due to a malicious transaction, the blockchain will immediately know that one of the blocks has been tampered with and hence can be terminated. To successfully hack the network, the attackers need to change every block across the distributed versions of the chain. Therefore, it is almost impossible to hack an entire blockchain.</p>",
                         "<p>Bitcoin and Ethereum are some of the most famous blockchain networks in the world. The addition of new blocks in these systems adds up the security of the blockchain.</p>"
                     ]
-                },
-                {
-                    "title": "",
-                    "paragraphs": [
-                        "<p></p>",
-                        "<p></p>"
-                    ]
                 }
             ]
         },
@@ -92,13 +84,6 @@
                         "<p>The introduction of Bitcoin futures has affected markets in a significant way. Investors can carry out leverage trading and benefit from cryptocurrency's volatility without holding Bitcoin.</p>",
                         "<p>There are a number of benefits of futures trading instead of holding or trading in the spot market. Primarily, the contracts are traded on the regulated exchange; these Bitcoin futures are regulated by Commodity Futures Trading Commission, giving institutional investors confidence to participate. Since Bitcoin futures are cash-settled, there no need for a Bitcoin wallet or any kind of physical exchange.</p>"
                     ]
-                },
-                {
-                    "title": "",
-                    "paragraphs": [
-                        "<p></p>",
-                        "<p></p>"
-                    ]
                 }
             ]
         },
@@ -110,13 +95,6 @@
                     "title": "",
                     "paragraphs": [
                         "<p>Bollinger Bands are copyrighted by its developer - John Bollinger, who is an accomplished technical trader. Bollinger Bands give investors a higher sense of market understanding and hence can be proved to be very useful.</p>",
-                        "<p></p>"
-                    ]
-                },
-                {
-                    "title": "",
-                    "paragraphs": [
-                        "<p></p>",
                         "<p></p>"
                     ]
                 }
@@ -151,15 +129,7 @@
                 {
                     "title": "",
                     "paragraphs": [
-                        "<p>Candlesticks are colored red and green to indicate a bearish or bullish nature in that given time period. If the price at the time of opening is lower than the price at the time of closing, the candle is of green color, indicating a bullish nature in that time period; also, the inverse is also true.</p>",
-                        "<p></p>"
-                    ]
-                },
-                {
-                    "title": "",
-                    "paragraphs": [
-                        "<p></p>",
-                        "<p></p>"
+                        "<p>Candlesticks are colored red and green to indicate a bearish or bullish nature in that given time period. If the price at the time of opening is lower than the price at the time of closing, the candle is of green color, indicating a bullish nature in that time period; also, the inverse is also true.</p>"
                     ]
                 }
             ]
@@ -176,13 +146,6 @@
                         "<p>Since a DEX works on the principles of peer-to-peer trading, a DEX never holds custody of any traders’ coins or acts as a wallet to store trade profits in. This effectively limits the security risk that users face with stored crypto deposits on centralized exchanges.</p>",
                         "<p>Usually DEXs are pro-anonymity, and a Know Your Customer (KYC) process is typically not required of traders. A transaction occurs between two entities, with cryptocurrencies moving from a seller’s wallet to the buyer’s. Since there is no central authority controlling the trades (except for running the portal and facilitating aggregation), there is typically no way to reverse transactions made on a DEX.</p>"
                     ]
-                },
-                {
-                    "title": "",
-                    "paragraphs": [
-                        "<p></p>",
-                        "<p></p>"
-                    ]
                 }
             ]
         },
@@ -195,13 +158,6 @@
                     "paragraphs": [
                         "<p>DeFi protocols, similar to the cryptocurrencies they are inspired from, constitute anonymous and peer-to-peer blockchain networks, which allows unrestricted access to all apps on a DeFi system for anyone with a connection to the internet. An open-source code-base allows for public auditing and verification of the DeFi’s security measures, as well as transparency and accountability.</p>",
                         "<p>While Bitcoin is one of the first instances of a widely used DeFi application, current DeFi systems use Ethereum, due to its support for a multitude of peer-to-peer based applications instead of a simple transaction-based model like Bitcoin. Decentralized exchanges, or DEXs, a host of protocols that enable a system of credit (akin to loans) and even peer-to-peer insurance protocols are some major applications of DeFi methodologies.</p>"
-                    ]
-                },
-                {
-                    "title": "",
-                    "paragraphs": [
-                        "<p></p>",
-                        "<p></p>"
                     ]
                 }
             ]
@@ -218,13 +174,6 @@
                         "<p>Ether does not require a third party to process a transaction since it is a blockchain and hence is not owned by anyone. Ether should be considered as fuel for building the apps on the decentralized Ethereum network.</p>",
                         "<p>Considering Ether as digital money can be misleading since Ether follows the same underlying principle of demand and supply. If more people use it, Ether's demand shall rise, and so will the price, just like oil. Therefore Ether should be considered a commodity or programmable money.</p>"
                     ]
-                },
-                {
-                    "title": "",
-                    "paragraphs": [
-                        "<p></p>",
-                        "<p></p>"
-                    ]
                 }
             ]
         }       
@@ -240,13 +189,6 @@
                         "<p>Satoshi had initially set 50 bitcoins as the reward for being the first to mine and add a new block to the blockchain. Halving the number of bitcoins received as a reward will continue after an interval of 210,000 blocks until the last bitcoin will be mined, projected to be the year 2140. The last halving for Bitcoin was on 11 May 2020, at around 3 pm, with the reward dropping to 6.25 bitcoins from 12.5.</p>",
                         "<p>Halvings generally cause a steep rise in Bitcoin’s value due to a bullish market trend. Bitcoin’s price went up to $20,000 after halving from $650, and then settled down to $3,200 as the year progressed. The idea of halving is to ensure inflation in Bitcoin’s economy, as the reduced supply of Bitcoins (capped at 21 million) causes greater demand and subsequently higher prices and incentive for miners to keep mining Bitcoin. However, this also leads to a very volatile market that encourages speculation and unpredictability.</p>"
                     ]
-                },
-                {
-                    "title": "",
-                    "paragraphs": [
-                        "<p></p>",
-                        "<p></p>"
-                    ]
                 }
             ]
         }       
@@ -255,22 +197,7 @@
         {
             "intro_title": "Leverage",
             "intro_desc": "<p>The term leverage simply refers to how many times the trader has increased the position. For example, if you open a 100x long position on Bitcoin, you will get 100x times the profits you invested. In cryptocurrency high leverage, trading is risky since they can liquidate your funds.</p>",
-            "description": [
-                {
-                    "title": "",
-                    "paragraphs": [
-                        "<p></p>",
-                        "<p></p>"
-                    ]
-                },
-                {
-                    "title": "",
-                    "paragraphs": [
-                        "<p></p>",
-                        "<p></p>"
-                    ]
-                }
-            ]
+            "description": []
         }       
     ],
     "M": [
@@ -281,15 +208,7 @@
                 {
                     "title": "",
                     "paragraphs": [
-                        "<p>In traditional markets, the margin funds are usually provided by institutional investors in return for interests; however, in the cryptocurrency market, these funds are provided by other traders who earn interest based on market demand.</p>",
-                        "<p></p>"
-                    ]
-                },
-                {
-                    "title": "",
-                    "paragraphs": [
-                        "<p></p>",
-                        "<p></p>"
+                        "<p>In traditional markets, the margin funds are usually provided by institutional investors in return for interests; however, in the cryptocurrency market, these funds are provided by other traders who earn interest based on market demand.</p>"
                     ]
                 }
             ]
@@ -305,13 +224,6 @@
                     "paragraphs": [
                         "<p>While the term can change in meaning slightly depending on the context it is used in, in the crypto space, someone could be described as rekt when they make a dubious investment decision or transaction and incur a severe financial loss. Originally the term was used in the gaming community to refer to a player who had been embarrassingly or easily defeated in a game.</p>",
                         "<p>For example, if an altcoin highly valued during its IPO had a much lower price upon being traded on the open market, we could say the token was ‘rekt’, and, in-fact, any investor of the coin could also be ‘rekt’ due to a poor investment choice.</p>"
-                    ]
-                },
-                {
-                    "title": "",
-                    "paragraphs": [
-                        "<p></p>",
-                        "<p></p>"
                     ]
                 }
             ]
