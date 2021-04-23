@@ -24,7 +24,7 @@
     "B": [
         {
             "intro_title": "Bitcoin",
-            "intro_desc": "<p>Bitcoin is digital currency released in 2008. It is the world’s first and biggest [<a href='#Cryptocurrency'>cryptocurrency</a>], since its operation, functioning and issuance are based on the principles of cryptography.</p>",
+            "intro_desc": "<p>Bitcoin is digital currency released in 2008. It is the world’s first and biggest <a href='#Cryptocurrency'>cryptocurrency</a>, since its operation, functioning and issuance are based on the principles of cryptography.</p>",
             "description": [
                 {
                     "title": "Additional Information",
