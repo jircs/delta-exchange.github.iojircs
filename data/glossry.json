@@ -3,6 +3,7 @@
         {
             "intro_title": "Altcoin",
             "intro_desc": "<p>Ever since Bitcoin’s launch and quick success in 2009, the world witnessed the launch of several other cryptocurrencies. All these cryptocurrencies, developed and launched after Bitcoin are collectively called altcoins.</p>",
+            "short_description": "<p>Ever since Bitcoin’s launch and quick success in 2009, the world witnessed the launch of several other cryptocurrencies. All these cryptocurrencies, developed and launched after Bitcoin are collectively called altcoins.</p>",
             "description": [
                 {
                     "title": "Additional Information:",
@@ -25,6 +26,7 @@
         {
             "intro_title": "Bitcoin",
             "intro_desc": "<p>Bitcoin is digital currency released in 2008. It is the world’s first and biggest <a href='#Cryptocurrency'>cryptocurrency</a>, since its operation, functioning and issuance are based on the principles of cryptography.</p>",
+            "short_description": "<p>Bitcoin is digital currency released in 2008. It is the world’s first and biggest <a href='#Cryptocurrency'>cryptocurrency</a>, since its operation, functioning and issuance are based on the principles of cryptography.</p>",
             "description": [
                 {
                     "title": "Additional Information",
@@ -45,6 +47,7 @@
         {
             "intro_title": "Bitcoin Mining",
             "intro_desc": "<p>New bitcoins are introduced into the Bitcoin network via a process called mining, and thus into circulation. Simultaneously, transactions are validated, confirmed and propagated on the network. It is the only process of its kind on the Bitcoin network, with no alternative.</p>",
+            "short_description": "<p>New bitcoins are introduced into the Bitcoin network via a process called mining, and thus into circulation. Simultaneously, transactions are validated, confirmed and propagated on the network. It is the only process of its kind on the Bitcoin network, with no alternative.</p>",
             "description": [
                 {
                     "title": "Additional Information",
@@ -64,6 +67,7 @@
         {
             "intro_title": "Blockchain",
             "intro_desc": "<p>A blockchain is essentially a digital ledger that stores records of transactions, duplicated and distributed across a network of computer systems. Each block in the chain accommodates several transactions. Once a transaction is added or validated, every block in the network adds the transaction into their ledger. </p>",
+            "short_description": "<p>A blockchain is essentially a digital ledger that stores records of transactions, duplicated and distributed across a network of computer systems. Each block in the chain accommodates several transactions. Once a transaction is added or validated, every block in the network adds the transaction into their ledger. </p>",
             "description": [
                 {
                     "title": "",
@@ -77,6 +81,7 @@
         {
             "intro_title": "Bitcoin Futures",
             "intro_desc": "<p>Just like stock or commodities futures, Bitcoin futures is a legal agreement of trading a cryptocurrency at a predetermined date and price. Bitcoin futures allow investors to speculate on the future prices of a given cryptocurrency.</p>",
+            "short_description": "<p>Just like stock or commodities futures, Bitcoin futures is a legal agreement of trading a cryptocurrency at a predetermined date and price. Bitcoin futures allow investors to speculate on the future prices of a given cryptocurrency.</p>",
             "description": [
                 {
                     "title": "",
@@ -90,6 +95,7 @@
         {
             "intro_title": "Bollinger band",
             "intro_desc": "<p>A Bollinger Band is a technical analysis indicator that is defined by a set of trendlines plotted by two standard deviations and a Simple Moving Average(SMA). Both of these deviations are plotted above (positively) and below (negatively) the SMA of a cryptocurrency's price.</p>",
+            "short_description": "<p>A Bollinger Band is a technical analysis indicator that is defined by a set of trendlines plotted by two standard deviations and a Simple Moving Average(SMA). Both of these deviations are plotted above (positively) and below (negatively) the SMA of a cryptocurrency's price.</p>",
             "description": [
                 {
                     "title": "",
@@ -104,6 +110,7 @@
         {
             "intro_title": "Cryptocurrency",
             "intro_desc": "<p>A cryptocurrency is a virtual asset secured and operated on the principles of cryptography and often decentralized i.e run without any single authority or entity’s influence.</p>",
+            "short_description": "<p>A cryptocurrency is a virtual asset secured and operated on the principles of cryptography and often decentralized i.e run without any single authority or entity’s influence.</p>",
             "description": [
                 {
                     "title": "Additional Information",
@@ -124,6 +131,7 @@
         {
             "intro_title": "Candlesticks",
             "intro_desc": "<p>A candlestick is a method of plotting prices on a graph or a chart; a single candlestick can show the open, high, low, and closing price of a cryptocurrency in a pre-defined period. Even though it was first used in the 18th century, candlestick charts are used by almost everyone for technical and financial analysis in financial markets.</p>",
+            "short_description": "<p>A candlestick is a method of plotting prices on a graph or a chart; a single candlestick can show the open, high, low, and closing price of a cryptocurrency in a pre-defined period. Even though it was first used in the 18th century, candlestick charts are used by almost everyone for technical and financial analysis in financial markets.</p>",
             "description": [
                 {
                     "title": "",
@@ -138,6 +146,7 @@
         {
             "intro_title": "DEX / Decentralized Exchange",
             "intro_desc": "<p>A cryptocurrency exchange that operates on a peer-to-peer model instead of having a central authority with full access and authority over the exchange is called a DEX or decentralized exchange.</p>",
+            "short_description": "<p>A cryptocurrency exchange that operates on a peer-to-peer model instead of having a central authority with full access and authority over the exchange is called a DEX or decentralized exchange.</p>",
             "description": [
                 {
                     "title": "Additional information:",
@@ -151,6 +160,7 @@
         {
             "intro_title": "DeFi",
             "intro_desc": "<p>Decentralized Finance or DeFi is a collective term for the entire range of financial applications based on blockchain networks. The main aim of this methodology is to promote a financial system that is distributed and decentralized, with any central authority figure. This is in-line with the core concept of cryptocurrencies - open-source and permissionless means of transacting on a peer-to-peer basis.</p>",
+            "short_description": "<p>Decentralized Finance or DeFi is a collective term for the entire range of financial applications based on blockchain networks. The main aim of this methodology is to promote a financial system that is distributed and decentralized, with any central authority figure. This is in-line with the core concept of cryptocurrencies - open-source and permissionless means of transacting on a peer-to-peer basis.</p>",
             "description": [
                 {
                     "title": "Additional information:",
@@ -166,6 +176,7 @@
         {
             "intro_title": "Ether",
             "intro_desc": "<p>Ether is the native currency of the Ethereum blockchain; Ether is generally referred to as Ethereum or by its ticker ETH. Ether pays for the computing power and other services offered by Ethereum, a type of decentralized internet and app system.</p>",
+            "short_description": "<p>Ether is the native currency of the Ethereum blockchain; Ether is generally referred to as Ethereum or by its ticker ETH. Ether pays for the computing power and other services offered by Ethereum, a type of decentralized internet and app system.</p>",
             "description": [
                 {
                     "title": "",
@@ -181,6 +192,7 @@
         {
             "intro_title": "Halving",
             "intro_desc": "<p>Halving is a phenomena exclusive to Bitcoin, where on a cycle of 4 years, the number of bitcoins given as a reward for successfully mining a new block is reduced by half. This means every 4 years, miners get a 50% reduction in their rewards.</p>",
+            "short_description": "<p>Halving is a phenomena exclusive to Bitcoin, where on a cycle of 4 years, the number of bitcoins given as a reward for successfully mining a new block is reduced by half. This means every 4 years, miners get a 50% reduction in their rewards.</p>",
             "description": [
                 {
                     "title": "Additional Information:",
@@ -196,6 +208,7 @@
         {
             "intro_title": "Leverage",
             "intro_desc": "<p>The term leverage simply refers to how many times the trader has increased the position. For example, if you open a 100x long position on Bitcoin, you will get 100x times the profits you invested. In cryptocurrency high leverage, trading is risky since they can liquidate your funds.</p>",
+            "short_description": "<p>The term leverage simply refers to how many times the trader has increased the position. For example, if you open a 100x long position on Bitcoin, you will get 100x times the profits you invested. In cryptocurrency high leverage, trading is risky since they can liquidate your funds.</p>",
             "description": []
         }       
     ],
@@ -203,6 +216,7 @@
         {
             "intro_title": "Margin Trading",
             "intro_desc": "<p>Margin trading is a method of trading cryptocurrencies using funds provided by a third party; compared to spot or regular trading, a margin account allows traders to trade with a larger sum of capital and adjust leverage to their positions. This way, traders can have a chance of earning more profits than usual on successful trades. But with greater chances of profits comes greater chances of loss.</p>",
+            "short_description": "<p>Margin trading is a method of trading cryptocurrencies using funds provided by a third party; compared to spot or regular trading, a margin account allows traders to trade with a larger sum of capital and adjust leverage to their positions. This way, traders can have a chance of earning more profits than usual on successful trades. But with greater chances of profits comes greater chances of loss.</p>",
             "description": [
                 {
                     "title": "",
@@ -217,6 +231,7 @@
         {
             "intro_title": "REKT",
             "intro_desc": "<p>REKT is a commonly used internet slang, which is a phonetic spelling of the word ‘wrecked’. It means the same thing as the original word it is based upon, which means ‘to be completely destroyed or defeated’. In the world of cryptocurrencies, it is taken to mean total or significant financial loss.</p>",
+            "short_description": "<p>REKT is a commonly used internet slang, which is a phonetic spelling of the word ‘wrecked’. It means the same thing as the original word it is based upon, which means ‘to be completely destroyed or defeated’. In the world of cryptocurrencies, it is taken to mean total or significant financial loss.</p>",
             "description": [
                 {
                     "title": "Additional information:",
@@ -232,6 +247,7 @@
         {
             "intro_title": "Satoshi Nakamoto",
             "intro_desc": "<p>Satoshi Nakamoto is the assumed pseudonym of the person or group who invented Bitcoin, wrote the Bitcoin white paper, and deployed Bitcoin's original reference implementation. Their real identity remains unknown, even more than a decade after Bitcoin’s invention.</p>",
+            "short_description": "<p>Satoshi Nakamoto is the assumed pseudonym of the person or group who invented Bitcoin, wrote the Bitcoin white paper, and deployed Bitcoin's original reference implementation. Their real identity remains unknown, even more than a decade after Bitcoin’s invention.</p>",
             "description": [
                 {
                     "title": "Additional information:",
