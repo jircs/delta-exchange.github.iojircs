@@ -1,14 +1,5 @@
 [
-  {
-    id: 34,
-    text: `<div class="details">
-    Get upto 2500$ Trading Bonus Free!
-    <br/><br/>
-    Hurry, Limited period Offer! Get 25% Bonus up to 2500 USDT on deposit of 10, 000 USDT or more. Get 12% Bonus upto 1200 USDT on deposit of 5000 USDT to 9999 USDT. Applicable only on USDT deposits made by KYC verified user. For T&C, Visit <a href=${`https://www.delta.exchange/offers`}>Offers</a> and Claim Now 
-    <br/>
-    <span class="notif-time">29 June, 12:00 PM UTC</span>
-    </div>`,
-  },
+  
   {
     id: 32,
     text: `<div class="details">
