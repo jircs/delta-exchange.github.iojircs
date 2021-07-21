@@ -1,7 +1,7 @@
 [
   {
     "id": 6,
-    "text": "<div class='details'> This is new title <br/><br/> this is the description <a href='https://www.delta.exchange/app/account/profile'>Hyperlink</a>. follow up text <br/> <span class='notif-time'>20th Jul, 12:00 PM UTC</span></div>"
+    "text": "<div class='details'> This is new title <br/><br/> this is the description <a href='https://www.delta.exchange/app/account/profile'>Hyperlink</a>. follow up text <br/> &#127873; <span class='notif-time'>20th Jul, 12:00 PM UTC</span></div>"
   },
   {
     "id": 5,
