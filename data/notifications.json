@@ -1,4 +1,4 @@
-
+[
   {
     "id": 3,
     "text": "<div class='details'> Set your username. <br/><br/> We have rolled out support for usernames. You can see your username in the <a href='https://www.delta.exchange/app/account/profile'>profile page</a>. Feel free to change it to something more snazzy. For now, usernames will be displayed only in leaderboards. <br/> <span class='notif-time'>9 June, 12:00 PM UTC</span></div>"
@@ -13,4 +13,4 @@
     "id": 1,
     "text": "<div class='details'> Set your username. <br/><br/> We have rolled out support for usernames. You can see your username in the <a href='https://www.delta.exchange/app/account/profile'>profile page</a>. Feel free to change it to something more snazzy. For now, usernames will be displayed only in leaderboards. <br/> <span class='notif-time'>9 June, 12:00 PM UTC</span></div>"
   }
-
+]
