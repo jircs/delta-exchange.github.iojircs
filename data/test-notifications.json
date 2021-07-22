@@ -8,7 +8,28 @@
     "id": 27,
     "text": "<div class='details'> Get up to 60% Fee Rebate in our new <a target='_blank' href=${`https://www.delta.exchange/blog/support/vip-program/?utm_source=delta_website_alert&utm_campaign=VIP60_bell_alert`}>VIP Program</a>! <br/><br/>Special VIP levels for high volume traders & higher fee rebate for DETO holders. <a href=${`https://www.delta.exchange/blog/support/vip-program/?utm_source=delta_website_alert&utm_campaign=VIP60_bell_alert`} target='_blank'>Learn More.</a><br/><span class='notif-time'>20th Jul, 12:00 PM UTC</span></div>"
   },    
+  
+  {
+    "id": 26,
+    "text": "<div class='details'> Get upto 2500$ Trading Bonus Free!<br/><br/>Hurry, Limited period Offer! Get 25% Bonus up to 2500 USDT on deposit of 10, 000 USDT or more. Get 12% Bonus upto 1200 USDT on deposit of 5000 USDT to 9999 USDT. Applicable only on USDT deposits made by KYC verified user. For T&C, Visit <a href=${`https://www.delta.exchange/offers`}>Offers</a> and Claim Now <br/><span class='notif-time'>20th Jul, 12:00 PM UTC</span></div>"
+  },    
+ 
+  {
+    "id": 25,
+    "text": "<div class='details'> Set your username.<br/><br/> We have rolled out support for usernames. You can see your username in the <a href=${profileRoute}>profile page</a>. Feel free to change it to something more snazzy. For now, usernames will be displayed only in leaderboards.<br/><br/><span class='notif-time'>20th Jul, 12:00 PM UTC</span></div>"
+  },   
+  
+  {
+    "id": 24,
+    "text": "<div class=‘details’>Contracts discontinuation notice.<br/><br/>EOSBTC and XMRUSDT contracts are being discontinued. Trading in these contracts will stop at 15pm UTC on 1st June. At this time, any open positions in these contracts will be closed at the prevailing mark price.<br/><span class=‘notif-time’>31 May, 04:00 PM UTC</span></div>"
+  },
+  
+  {
+    "id": 23,
+    "text": "<div class=‘details’>Get up to 40% Deposit Bonus Offer<br/><br/>Trade going into BTC halving and get up to 40% deposit bonus. Max bonus = 0.07BTC. See this <a rel='noreferrer' target='_blank' href='https://delta.exchange/blog/support/bitcoin-halving-offer/'>page</a> for details.<br/><span class=‘notif-time’>6 May, 11:15 AM UTC</span></div>"
+  }, 
 
+  
   {
     "id": 7,
     "text": "<div class='details'> This is new title for testing <br/><br/> this is the description <a href='https://www.delta.exchange/app/account/profile'>Hyperlink</a>. follow up text <br/> &#127873; <span class='notif-time'>20th Jul, 12:00 PM UTC</span></div>"
