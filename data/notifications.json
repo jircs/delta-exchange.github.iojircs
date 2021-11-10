@@ -1,5 +1,10 @@
 [
    {
+      "id":78,
+      "text":"<div class='details'> &#128736; &#9888; We will be performing a scheduled maintenance tomorrow; i.e. on Thursday, 11th November 2021 from 3:00 AM UTC to 3:35 AM UTC. During this time, trading in all markets will be suspended. Trading should resume in 30 minutes. <span class='notif-time'> 10th Nov, 6:30 PM UTC</span></div>",
+      "type":"system"
+   },
+   {
       "id":77,
       "text":"<div class='details'> <b> <span style= 'color : #55B987'> Earn more $DETO </span></b>&#10084;&#65039; <br/> <br/> &#10004;&#65039; 16% APY on DETO staking. <br/> &#10004;&#65039; Up to 101% APY on investing in Robo stratagies. <br/> &#10004;&#65039; Trade for more than $2500 and claim 200 DETO (for new users only) <br/> <br/>  💰 <a target='_blank' href='https://www.delta.exchange/invest/staking-pools?utm_source=bell_alert&utm_campaign=det_pool'>Start Earning </a> <span class='notif-time'>10th Nov, 9:00 AM UTC</span></div>",
       "type":"announcement"
