@@ -1,4 +1,9 @@
 [
+      {
+      "id":80,
+      "text":"<div class='details'> &#128736; &#9888; We will be doing a short maintenance today; i.e. on Saturday, 20th November 2021 from 11:40 AM UTC to 12:00 PM UTC. During this time, trading in all markets will be suspended. Trading should resume in 30 minutes. <span class='notif-time'> 20th Nov, 11:00 AM UTC</span></div>",
+      "type":"system"
+   },
    {
       "id":79,
       "text":"<div class='details'> Due to high volatility in market we have postponed the maintenance scheduled at 11th November2021 from 3:00 AM UTC to 3:35 AM UTC. Happy Trading <span class='notif-time'> 11th Nov, 3:15 AM UTC</span></div>",
