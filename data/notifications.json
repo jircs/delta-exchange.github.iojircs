@@ -1,4 +1,9 @@
 [
+               {
+      "id":82,
+      "text":"<div class='details'> &#128736; &#9888; We will be performing a scheduled maintenance on Thursday, 24th November 2021 from 3:00 AM UTC to 3:15 AM UTC. During this time, trading in all markets will be suspended. Trading should resume in 15 minutes. <span class='notif-time'> 24th Nov, 1:30 PM UTC</span></div>",
+      "type":"system"
+   },
             {
       "id":81,
       "text":"<div class='details'> 🛠🔧 We will be discontinuing the following trading pairs from 26th November (Friday), 12pm UTC onwards:  XEM-USDT, XAUT-USDT Please close your open positions in the above contracts before hand; otherwise they'll be closed automatically after 12pm UTC. <span class='notif-time'> 24th Nov, 6:30 AM UTC</span></div>",
