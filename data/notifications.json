@@ -4,11 +4,6 @@
       "text":"<div class='details'> &#128736; &#9888; We will be doing a short maintenance today; i.e. on Sunday, 5th December 2021 from 7:30 AM UTC to 7:50 AM UTC. During this time, trading in all markets will be suspended. Trading should resume in 20 minutes. <span class='notif-time'> 4th Dec, 8:20 PM UTC</span></div>",
       "type":"system"
    },
-               {
-      "id":83,
-      "text":"<div class='details'> &#128736; &#9888; We will be performing a scheduled maintenance on Friday, 26th November 2021 from 2:30 AM UTC to 3:15 AM UTC. During this time, trading in all markets will be suspended. Trading should resume in 15 minutes. <span class='notif-time'> 25th Nov, 1:30 PM UTC</span></div>",
-      "type":"system"
-   },
             {
       "id":81,
       "text":"<div class='details'> 🛠🔧 We will be discontinuing the following trading pairs from 26th November (Friday), 12pm UTC onwards:  XEM-USDT, XAUT-USDT Please close your open positions in the above contracts before hand; otherwise they'll be closed automatically after 12pm UTC. <span class='notif-time'> 24th Nov, 6:30 AM UTC</span></div>",
@@ -22,11 +17,6 @@
    {
       "id":79,
       "text":"<div class='details'> Due to high volatility in market we have postponed the maintenance scheduled at 11th November2021 from 3:00 AM UTC to 3:35 AM UTC. Happy Trading <span class='notif-time'> 11th Nov, 3:15 AM UTC</span></div>",
-      "type":"system"
-   },
-   {
-      "id":78,
-      "text":"<div class='details'> &#128736; &#9888; We will be performing a scheduled maintenance tomorrow; i.e. on Thursday, 11th November 2021 from 3:00 AM UTC to 3:35 AM UTC. During this time, trading in all markets will be suspended. Trading should resume in 30 minutes. <span class='notif-time'> 10th Nov, 6:30 PM UTC</span></div>",
       "type":"system"
    },
    {
@@ -50,11 +40,6 @@
       "type":"announcement"
    },
    {
-      "id":73,
-      "text":"<div class='details'> &#128736; &#9888; We will be performing a scheduled maintenance tomorrow; i.e. on Wednesday, 20th October 2021 from 3:30 AM UTC to 3:45 AM UTC. During this time, trading in all markets will be suspended. Trading should resume in 15 minutes. <span class='notif-time'> 19th Oct, 3:18 PM UTC</span></div>",
-      "type":"system"
-   },
-   {
       "id":72,
       "text":"<div class='details'> Last chance to win <b> <span style= 'color : #55B987'> $25,000 💰 </span></b> <br/>  <br/>&#10004;&#65039; Simply trade the DETO-USDT Spot contract and get rewarded. </br> </br> &#128073; Click here to <a target='_blank' href='https://www.delta.exchange/app/deto_trading_competition?utm_source=bell_alert&utm_campaign=competition'> Know More </a><span class='notif-time'> 16th Oct, 6:00 PM UTC</span></div>",
       "type":"announcement"
@@ -63,11 +48,6 @@
       "id":71,
       "text":"<div class='details'> <b> <span style= 'color : #55B987'> Delta Staking </span></b>&#10084;&#65039; <br/> <br/> &#10004;&#65039; Earn up to 16% APY. <br/> &#10004;&#65039; No lock-ups <br/> &#10004;&#65039; 24hr payouts. <br/> &#10004;&#65039; Trading bonus can be used in staking.<br/> <br/>  💰 <a target='_blank' href='https://www.delta.exchange/invest/staking-pools?utm_source=bell_alert&utm_campaign=staking_pool'>Stake Now </a> <span class='notif-time'>15th Oct, 6:00 PM UTC</span></div>",
       "type":"announcement"
-   },
-   {
-      "id":70,
-      "text":"<div class='details'> &#128736; &#9888; We will be performing a scheduled maintenance tomorrow; i.e. on Friday, 15th October 2021 from 3:30 AM UTC to 3:45 AM UTC. During this time, trading in all markets will be suspended. Trading should resume in 15 minutes. <span class='notif-time'> 15th Oct, 7:00 PM UTC</span></div>",
-      "type":"system"
    },
    {
       "id":69,
@@ -100,11 +80,6 @@
       "type":"announcement"
    },
    {
-      "id":62,
-      "text":"<div class='details'> &#128736; &#9888; We will be performing a scheduled maintenance tomorrow; i.e. on Wednesday, 29th September 2021 from 7:00 AM UTC to 8:00 AM UTC. During this time, trading in all markets will be suspended. </br> </br> &#9888; Also, trading in the following contracts will be paused tomorrow from 7am UTC to ~2 hours; till Binance's Spot Trading maintenance (https://www.binance.com/en/support/announcement/e2f674fc961d48af9b28edd82896607c) is over. </br> </br> 👉 LINKBTC, AAVEBTC, BNBBTC, KNCBTC, ETHBTC, YFIBTC, ATOMBTC, XLMBTC, ADABTC, XRPBTC, TOMOBTC, FTMBTC. </br> </br>👉 MTLUSDT, COTIUSDT, RAYUSDT, AUDIOUSDT, WRXUSDT, TLMUSDT, ALICEUSDT, CAKEUSDT, RUNEUSDT, BANDUSDT, TOMOUSDT. </br> </br>👉 BTC_USDT & ETH_USDT. </br> <span class='notif-time'> 29th Sep, 7:00 PM UTC</span></div>",
-      "type":"system"
-   },
-   {
       "id":61,
       "text":"<div class='details'> <b> $DETO 🚀 trading competition is live. </b><br/><br/> 💰 <b> Win $25,000 in Prizes! </b> <br/><br/> Competition will last for 30 Days; you can join it at any time.<br/> <br/>📈 <a target='_blank' href='https://www.delta.exchange/app/deto_trading_competition?utm_source=bell_alert&utm_campaign=Competition_Start'>Trade here </a> <span class='notif-time'>23rd Sep, 12:00 PM UTC</span></div>",
       "type":"announcement"
@@ -120,11 +95,6 @@
       "type":"announcement"
    },
    {
-      "id":58,
-      "text":"<div class='details'> &#128736; &#9888; We will be performing a scheduled maintenance tomorrow; i.e. on Wednesday, 22nd September 2021 from 3:30 AM UTC to 4:00 AM UTC. During this time, trading in all markets will be suspended. Trading should resume in 30 minutes. <span class='notif-time'> 21st Sep, 3:20 PM UTC</span></div>",
-      "type":"system"
-   },
-   {
       "id":56,
       "text":"<div class='details'> ITD returns of Momentum strategies of Delta Exchange: <br/> <br/> &#10004;&#65039; ALTBTC Momentum : <span style= 'color : #55B987'> <b> 45% </b> </span> <br/> &#10004;&#65039;Top 20 Momentum : <span style= 'color : #55B987'> <b> 82% </b> </span> <br/> &#10004;&#65039; Top 20 Momentum (DETO) : <span style= 'color : #55B987'> <b> 9.0% + 29.7% DETO APY </b> </span> <br/><br/> &#128073; <a target='_blank' href='https://www.delta.exchange/invest/robo-strategies?utm_source=bell_alert&utm_campaign=momentum_strategy'> Try Now </a> <span class='notif-time'>  </span>  <span class='notif-time'>18th Sep, 3:00 PM UTC</span></div>",
       "type":"announcement"
@@ -133,16 +103,6 @@
       "id":55,
       "text":"<div class='details'> <b> <span style= 'color : #55B987'> Weekly Delights </span></b>&#10084;&#65039; <br/> <br/> &#128226; We have launched new contracts: <br/>&#10004;&#65039; $ZENUSDT Prepetual Swaps with up to 20x leverage. <br/> &#10004;&#65039; $PERPUSDT Prepetual Swaps with up to 20x leverage. <br/> &#10004;&#65039; $DYDX Prepetual Swaps with up to 20x leverage. <br/> <br/> Get <b> <span style= 'color : #FFDE7A'> 1000 DETO </span> by doing $100,000 volume in 7 days. <br/><br/> &#127873; &nbsp <a target='_blank' href='https://www.delta.exchange/offers/?utm_source=bell_alert&utm_campaign=Weekly_Delight_17'>Claim Offer Now </a> <span class='notif-time'>17th Sep, 5:00 PM UTC</span></div>",
       "type":"announcement"
-   },
-   {
-      "id":54,
-      "text":"<div class='details'> &#128736; &#9888; We will be performing a scheduled maintenance tomorrow; i.e. on Sunday, 12th September 2021 from 6:30 AM UTC to 7:00 AM UTC. During this time, trading in all markets will be suspended. Trading should resume in 30 minutes. <span class='notif-time'> 11th Sep, 9:00 AM UTC</span></div>",
-      "type":"system"
-   },
-   {
-      "id":53,
-      "text":"<div class='details'> &#128736; &#9888; We will be performing a scheduled maintenance today i.e Thurday, 9th September 2021 from 4:30 PM UTC to 5:15 PM UTC. During this time trading in all markets will be suspended. Trading should resume in 45 minutes. <span class='notif-time'> 9th Sep, 11:30 AM UTC</span></div>",
-      "type":"system"
    },
    {
       "id":51,
@@ -158,11 +118,6 @@
       "id":48,
       "text":"<div class='details'> &#127911; Last 30 day returns of Momentum strategies of Delta Exchange: <br/> <br/> &#10004;&#65039; ALTBTC Momentum : <span style= 'color : #55B987'> <b> 13.2% </b> </span> <br/> &#10004;&#65039;Top 20 Momentum : <span style= 'color : #55B987'> <b> 9.2% </b> </span> <br/> &#10004;&#65039; Top 20 Momentum (DETO) : <span style= 'color : #55B987'> <b> 9.0% </b> </span> <br/><br/> &#128073; <a target='_blank' href='https://www.delta.exchange/invest/robo-strategies?utm_source=bell_alert&utm_campaign=robo strategy'> Try Now </a> <span class='notif-time'>  </span>  <span class='notif-time'>1st Sep, 1:00 PM UTC</span></div>",
       "type":"announcement"
-   },
-   {
-      "id":47,
-      "text":"<div class='details'> &#128736; &#9888; We will be performing a scheduled maintenance tomorrow i.e Thurday, 2nd September 2021 from 4:00 AM UTC to 4:30 AM UTC. During this time trading in all markets will be suspended. It will be a short deployment and platform will be up soon.<span class='notif-time'>1st Sep, 10:00 AM UTC</span></div>",
-      "type":"system"
    },
    {
       "id":46,
