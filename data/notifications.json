@@ -10,11 +10,6 @@
       "type":"system"
    },
    {
-      "id":79,
-      "text":"<div class='details'> Due to high volatility in market we have postponed the maintenance scheduled at 11th November2021 from 3:00 AM UTC to 3:35 AM UTC. Happy Trading <span class='notif-time'> 11th Nov, 3:15 AM UTC</span></div>",
-      "type":"system"
-   },
-   {
       "id":77,
       "text":"<div class='details'> <b> <span style= 'color : #55B987'> Earn more $DETO </span></b>&#10084;&#65039; <br/> <br/> &#10004;&#65039; 16% APY on DETO staking. <br/> &#10004;&#65039; Up to 101% APY on investing in Robo stratagies. <br/> &#10004;&#65039; Trade for more than $25000 and claim 200 DETO (for new users only) <br/> <br/>  💰 <a target='_blank' href='https://www.delta.exchange/invest/staking-pools?utm_source=bell_alert&utm_campaign=det_pool'>Start Earning </a> <span class='notif-time'>10th Nov, 9:00 AM UTC</span></div>",
       "type":"announcement"
@@ -53,11 +48,6 @@
       "id":68,
       "text":"<div class='details'>Last few hours to buy Bitcoin or Ethereum or DETO on Spot without paying any trading fee. </br> </br> Claim $30,000 in Trading bonus and avail as much benefit as you can. Promtion will end at 4:00 PM UTC today. </br> </br> &#127873; &nbsp <a target='_blank' href='https://www.delta.exchange/offers/?utm_source=bell_alert&utm_campaign=spot_ending'>Claim Offer Now </a> <span class='notif-time'>  7th Oct, 2:30 PM UTC</span></div>",
       "type":"announcement"
-   },
-   {
-      "id":67,
-      "text":"<div class='details'> &#128736; &#9888; We will be performing a scheduled maintenance on Thursday, 7th October 2021 from 3:30 AM UTC to 4:00 AM UTC. During this time, trading in all markets will be suspended. Trading should resume in 30 minutes. <span class='notif-time'> 6th Oct, 7:15 PM UTC</span></div>",
-      "type":"system"
    },
    {
       "id":66,
