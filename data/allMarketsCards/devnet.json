@@ -60,27 +60,19 @@
     {
       "type": "zero_fee",
       "cardName": "Zero Fee",
-      "imageURL": "https://www.delta.exchange/app/static/media/stakingPoolMobile.533637de.png",
+      "imageURL": "https://www.delta.exchange/app/static/media/mobilezerowithdrawal.623fc0a5.png",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
       "openInNewTab": true,
       "showWhenLogin": "post"
     },
     {
-      "type": "zero_fee",
-      "cardName": "Zero Fee",
-      "imageURL": "https://www.delta.exchange/app/static/media/stakingPoolMobile.533637de.png",
+      "type": "crypto_mania",
+      "cardName": "Crypto Mania",
+      "imageURL": "https://www.delta.exchange/app/static/media/mobile_crypto_mania.a4ddfe87.png",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
       "openInNewTab": true,
       "showWhenLogin": "pre",
       "showWhenMobile": "browser"
-    },
-    {
-      "type": "zero_fee",
-      "cardName": "Zero Fee",
-      "imageURL": "https://www.delta.exchange/app/static/media/stakingPoolMobile.533637de.png",
-      "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
-      "openInNewTab": true,
-      "showWhenMobile": "app"
     }
   ]
 }
