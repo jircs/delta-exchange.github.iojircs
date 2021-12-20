@@ -1,86 +1,86 @@
 {
-	"desktop": [
-		{
-			"type": "tradeFarming",
-			"cardName": "Trade Farming"
-		},
-		{
-			"type": "topOptions",
-			"cardName": "Top Options"
-		},
-		{
-			"type": "staking_pool",
-			"cardName": "Staking Pool",
-			"imageURL": "https://www.delta.exchange/wp-content/uploads/2021/10/Staking.png",
-			"redirectURL": "https://www.delta.exchange/invest/staking-pools",
-			"openInNewTab": true
-		},
-		{
-			"type": "crypto_mania",
-			"cardName": "Crypto Mania",
-			"imageURL": "https://www.delta.exchange/wp-content/uploads/2021/09/crypto_mania_hp_new-2.png",
-			"redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSD",
-			"openInNewTab": false
-		},
-		{
-			"type": "offerTimeline",
-			"cardName": "Offer Timeline"
-		},
-		{
-			"type": "zero_fee",
-			"cardName": "Zero Fee",
-			"imageURL": "https://www.delta.exchange/wp-content/uploads/2021/07/hp_zero_wfee.jpg",
-			"redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
-			"openInNewTab": true
-		}
-	],
-	"mobile": [
-		{
-			"type": "tradeFarming",
-			"cardName": "Trade Farming",
-			"hideInMobileApp": false
-		},
-		{
-			"type": "offerTimeline",
-			"cardName": "Offer Timeline",
-			"hideInMobileApp": false
-		},
-		{
-			"type": "topOptions",
-			"cardName": "Top Options",
-			"hideInMobileApp": false
-		},
-		{
-			"type": "zero_fee",
-			"cardName": "Zero Fee",
-			"imageURL": "https://www.delta.exchange/app/static/media/stakingPoolMobile.533637de.png",
-			"redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
-			"openInNewTab": true,
-			"hideInMobileApp": false
-		},
-		{
-			"type": "zero_fee",
-			"cardName": "Zero Fee",
-			"imageURL": "https://www.delta.exchange/app/static/media/stakingPoolMobile.533637de.png",
-			"redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
-			"openInNewTab": true,
-			"hideInMobileApp": false
-		},
-		{
-			"type": "zero_fee",
-			"cardName": "Zero Fee",
-			"imageURL": "https://www.delta.exchange/app/static/media/stakingPoolMobile.533637de.png",
-			"redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
-			"openInNewTab": true,
-			"hideInMobileApp": false
-		},
-		{
-			"type": "zero_fee",
-			"cardName": "Zero Fee",
-			"imageURL": "https://www.delta.exchange/app/static/media/stakingPoolMobile.533637de.png",
-			"redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
-			"openInNewTab": true,
-			"hideInMobileApp": false
-		}
-	]
+  "desktop": [
+    {
+      "type": "tradeFarming",
+      "cardName": "Trade Farming"
+    },
+    {
+      "type": "topOptions",
+      "cardName": "Top Options"
+    },
+    {
+      "type": "staking_pool",
+      "cardName": "Staking Pool",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/10/Staking.png",
+      "redirectURL": "https://www.delta.exchange/invest/staking-pools",
+      "openInNewTab": true,
+      "showWhenLogin": "post"
+    },
+    {
+      "type": "crypto_mania",
+      "cardName": "Crypto Mania",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/09/crypto_mania_hp_new-2.png",
+      "redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSD",
+      "openInNewTab": false,
+      "showWhenLogin": "pre"
+    },
+    {
+      "type": "offerTimeline",
+      "cardName": "Offer Timeline"
+    },
+    {
+      "type": "zero_fee",
+      "cardName": "Zero Fee",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/07/hp_zero_wfee.jpg",
+      "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
+      "openInNewTab": true
+    }
+  ],
+  "mobile": [
+    {
+      "type": "tradeFarming",
+      "cardName": "Trade Farming"
+    },
+    {
+      "type": "offerTimeline",
+      "cardName": "Offer Timeline"
+    },
+    {
+      "type": "topOptions",
+      "cardName": "Top Options"
+    },
+    {
+      "type": "zero_fee",
+      "cardName": "Zero Fee",
+      "imageURL": "https://www.delta.exchange/app/static/media/stakingPoolMobile.533637de.png",
+      "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
+      "openInNewTab": true,
+      "showWhenLogin": "pre"
+    },
+    {
+      "type": "zero_fee",
+      "cardName": "Zero Fee",
+      "imageURL": "https://www.delta.exchange/app/static/media/stakingPoolMobile.533637de.png",
+      "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
+      "openInNewTab": true,
+      "showWhenLogin": "post"
+    },
+    {
+      "type": "zero_fee",
+      "cardName": "Zero Fee",
+      "imageURL": "https://www.delta.exchange/app/static/media/stakingPoolMobile.533637de.png",
+      "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
+      "openInNewTab": true,
+      "showWhenLogin": "pre",
+      "showWhenMobile": "browser"
+    },
+    {
+      "type": "zero_fee",
+      "cardName": "Zero Fee",
+      "imageURL": "https://www.delta.exchange/app/static/media/stakingPoolMobile.533637de.png",
+      "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
+      "openInNewTab": true,
+      "showWhenMobile": "app"
+    }
+  ]
 }
