@@ -5,10 +5,6 @@
 			"cardName": "Trade Farming"
 		},
 		{
-			"type": "offerTimeline",
-			"cardName": "Offer Timeline"
-		},
-		{
 			"type": "topOptions",
 			"cardName": "Top Options"
 		},
@@ -25,6 +21,10 @@
 			"imageURL": "https://www.delta.exchange/wp-content/uploads/2021/09/crypto_mania_hp_new-2.png",
 			"redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSD",
 			"openInNewTab": false
+		},
+		{
+			"type": "offerTimeline",
+			"cardName": "Offer Timeline"
 		},
 		{
 			"type": "zero_fee",
