@@ -9,8 +9,7 @@
       "cardName": "Staking Pool",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/10/Staking.png",
       "redirectURL": "https://www.delta.exchange/invest/staking-pools",
-      "openInNewTab": true,
-      "showWhenLogin": "post"
+      "openInNewTab": true
     },
     {
       "type": "crypto_mania",
