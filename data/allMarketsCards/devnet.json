@@ -1,10 +1,6 @@
 {
   "desktop": [
     {
-      "type": "tradeFarming",
-      "cardName": "Trade Farming"
-    },
-    {
       "type": "topOptions",
       "cardName": "Top Options"
     },
@@ -34,6 +30,10 @@
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/07/hp_zero_wfee.jpg",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
       "openInNewTab": true
+    },
+    {
+      "type": "tradeFarming",
+      "cardName": "Trade Farming"
     }
   ],
   "mobile": [
