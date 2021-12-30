@@ -2,18 +2,18 @@
   "desktop": [
     {
       "type": "topOptions",
-      "cardName": "Top Options"
+      "analyticsTag": "Top Options"
     },
     {
       "type": "staking_pool",
-      "cardName": "Staking Pool",
+      "analyticsTag": "Staking Pool",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/10/Staking.png",
       "redirectURL": "https://www.delta.exchange/invest/staking-pools",
       "openInNewTab": true
     },
     {
       "type": "crypto_mania",
-      "cardName": "Crypto Mania",
+      "analyticsTag": "Crypto Mania",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/09/crypto_mania_hp_new-2.png",
       "redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSD",
       "openInNewTab": false,
@@ -21,64 +21,64 @@
     },
     {
       "type": "offerTimeline",
-      "cardName": "Offer Timeline"
+      "analyticsTag": "Offer Timeline"
     },
     {
       "type": "zero_fee",
-      "cardName": "Zero Fee",
+      "analyticsTag": "Zero Fee",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/07/hp_zero_wfee.jpg",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
       "openInNewTab": true
     },
     {
       "type": "zero_fee",
-      "cardName": "Zero Fee",
+      "analyticsTag": "Zero Fee",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/07/hp_zero_wfee.jpg",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
       "openInNewTab": true
     },
     {
       "type": "zero_fee",
-      "cardName": "Zero Fee",
+      "analyticsTag": "Zero Fee",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/07/hp_zero_wfee.jpg",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
       "openInNewTab": true
     },
     {
       "type": "zero_fee",
-      "cardName": "Zero Fee",
+      "analyticsTag": "Zero Fee",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/07/hp_zero_wfee.jpg",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
       "openInNewTab": true
     },
     {
       "type": "zero_fee",
-      "cardName": "Zero Fee",
+      "analyticsTag": "Zero Fee",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/07/hp_zero_wfee.jpg",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
       "openInNewTab": true
     },
     {
       "type": "tradeFarming",
-      "cardName": "Trade Farming"
+      "analyticsTag": "Trade Farming"
     }
   ],
   "mobile": [
     {
       "type": "tradeFarming",
-      "cardName": "Trade Farming"
+      "analyticsTag": "Trade Farming"
     },
     {
       "type": "offerTimeline",
-      "cardName": "Offer Timeline"
+      "analyticsTag": "Offer Timeline"
     },
     {
       "type": "topOptions",
-      "cardName": "Top Options"
+      "analyticsTag": "Top Options"
     },
     {
       "type": "zero_fee",
-      "cardName": "Zero Fee",
+      "analyticsTag": "Zero Fee",
       "imageURL": "https://www.delta.exchange/app/static/media/stakingPoolMobile.533637de.png",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
       "openInNewTab": true,
@@ -86,7 +86,7 @@
     },
     {
       "type": "zero_fee",
-      "cardName": "Zero Fee",
+      "analyticsTag": "Zero Fee",
       "imageURL": "https://www.delta.exchange/app/static/media/mobilezerowithdrawal.623fc0a5.png",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
       "openInNewTab": true,
@@ -95,7 +95,7 @@
     },
     {
       "type": "crypto_mania",
-      "cardName": "Crypto Mania",
+      "analyticsTag": "Crypto Mania",
       "imageURL": "https://www.delta.exchange/app/static/media/mobile_crypto_mania.a4ddfe87.png",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
       "openInNewTab": true,
