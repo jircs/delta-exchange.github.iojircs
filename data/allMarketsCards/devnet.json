@@ -1,67 +1,45 @@
 {
   "desktop": [
     {
-      "type": "topOptions",
-      "analyticsTag": "Top Options"
+      "type": "tradeFarming",
+      "analyticsTag": "Trade Farming"
     },
-    {
-      "type": "staking_pool",
-      "analyticsTag": "Staking Pool",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/10/Staking.png",
-      "redirectURL": "https://www.delta.exchange/invest/staking-pools",
-      "openInNewTab": true
-    },
-    {
-      "type": "crypto_mania",
-      "analyticsTag": "Crypto Mania",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/09/crypto_mania_hp_new-2.png",
-      "redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSD",
-      "openInNewTab": false,
-      "showWhenLogin": "pre"
-    },
-    {
+     {
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
     },
     {
-      "type": "zero_fee",
-      "analyticsTag": "Zero Fee",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/07/hp_zero_wfee.jpg",
-      "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
+      "type": "topOptions",
+      "analyticsTag": "Top Options"
+    },
+    {
+      "type": "xrp_card",
+      "analyticsTag": "Xrp_launch",
+      "imageURL": "https://www.delta.exchange/app/static/media/xrp-desktop.7d876cd4.png",
+      "redirectURL": "https://www.delta.exchange/app/spot/trade/XRP/XRP_USDT",
+      "openInNewTab": true
+    },
+    {
+      "type": "staking_pool",
+      "analyticsTag": "Staking_Pool",
+      "imageURL": "https://www.delta.exchange/app/static/media/stakingPoolDesktop.aa6fa9be.png",
+      "redirectURL": "https://www.delta.exchange/invest/staking-pools",
+      "openInNewTab": true,
+    },
+    {
+      "type": "crypto_mania",
+      "analyticsTag": "crypto_mania",
+      "imageURL": "https://www.delta.exchange/app/static/media/crypto_mania.2af22133.png",
+      "redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSD",
       "openInNewTab": true
     },
     {
       "type": "zero_fee",
       "analyticsTag": "Zero Fee",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/07/hp_zero_wfee.jpg",
+      "imageURL": "https://www.delta.exchange/app/static/media/desktopZeroWithdrawal.6863840c.jpg",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
       "openInNewTab": true
     },
-    {
-      "type": "zero_fee",
-      "analyticsTag": "Zero Fee",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/07/hp_zero_wfee.jpg",
-      "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
-      "openInNewTab": true
-    },
-    {
-      "type": "zero_fee",
-      "analyticsTag": "Zero Fee",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/07/hp_zero_wfee.jpg",
-      "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
-      "openInNewTab": true
-    },
-    {
-      "type": "zero_fee",
-      "analyticsTag": "Zero Fee",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/07/hp_zero_wfee.jpg",
-      "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
-      "openInNewTab": true
-    },
-    {
-      "type": "tradeFarming",
-      "analyticsTag": "Trade Farming"
-    }
   ],
   "mobile": [
     {
@@ -76,31 +54,33 @@
       "type": "topOptions",
       "analyticsTag": "Top Options"
     },
+     {
+      "type": "xrp_card",
+      "analyticsTag": "Xrp_launch",
+      "imageURL": "https://www.delta.exchange/app/static/media/xrp-mobile.5e1902ba.png",
+      "redirectURL": "https://www.delta.exchange/app/spot/trade/XRP/XRP_USDT",
+      "openInNewTab": true
+    },
     {
-      "type": "zero_fee",
-      "analyticsTag": "Zero Fee",
+      "type": "staking_pool",
+      "analyticsTag": "Staking_Pool",
       "imageURL": "https://www.delta.exchange/app/static/media/stakingPoolMobile.533637de.png",
-      "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
+      "redirectURL": "https://www.delta.exchange/invest/staking-pools",
       "openInNewTab": true,
-      "showWhenLogin": "pre"
+    },
+    {
+      "type": "crypto_mania",
+      "analyticsTag": "crypto_mania",
+      "imageURL": "https://www.delta.exchange/app/static/media/mobile_crypto_mania.a4ddfe87.png",
+      "redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSD",
+      "openInNewTab": true
     },
     {
       "type": "zero_fee",
       "analyticsTag": "Zero Fee",
       "imageURL": "https://www.delta.exchange/app/static/media/mobilezerowithdrawal.623fc0a5.png",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
-      "openInNewTab": true,
-      "showWhenLogin": "post",
-      "showWhenMobile": "app"
-    },
-    {
-      "type": "crypto_mania",
-      "analyticsTag": "Crypto Mania",
-      "imageURL": "https://www.delta.exchange/app/static/media/mobile_crypto_mania.a4ddfe87.png",
-      "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
-      "openInNewTab": true,
-      "showWhenLogin": "pre",
-      "showWhenMobile": "browser"
+      "openInNewTab": true
     }
   ]
 }
