@@ -15,21 +15,21 @@
     {
       "type": "xrp_card",
       "analyticsTag": "Xrp_launch",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/12/XRP_spot.png",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/xrp-desktop.png",
       "redirectURL": "https://www.delta.exchange/app/spot/trade/XRP/XRP_USDT",
       "openInNewTab": true
     },
     {
       "type": "staking_pool",
       "analyticsTag": "Staking_Pool",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/10/Staking.png",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/delta-staking-desktop.png",
       "redirectURL": "https://www.delta.exchange/invest/staking-pools",
       "openInNewTab": true
     },
     {
       "type": "crypto_mania",
       "analyticsTag": "crypto_mania",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/09/crypto_mania_hp_new-3.png",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/crypto-mania-desktop.png",
       "redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSD",
       "openInNewTab": true
     },
@@ -57,21 +57,21 @@
     {
       "type": "xrp_card",
       "analyticsTag": "Xrp_launch",
-      "imageURL": "https://www.delta.exchange/app/static/media/xrp-mobile.5e1902ba.png",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/xrp-mobile.png",
       "redirectURL": "https://www.delta.exchange/app/spot/trade/XRP/XRP_USDT",
       "openInNewTab": true
     },
     {
       "type": "staking_pool",
       "analyticsTag": "Staking_Pool",
-      "imageURL": "https://www.delta.exchange/app/static/media/stakingPoolMobile.533637de.png",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/delta-staking-mobile.png",
       "redirectURL": "https://www.delta.exchange/invest/staking-pools",
       "openInNewTab": true
     },
     {
       "type": "crypto_mania",
       "analyticsTag": "crypto_mania",
-      "imageURL": "https://www.delta.exchange/app/static/media/mobile_crypto_mania.a4ddfe87.png",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/crypto-mania-mobile.png",
       "redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSD",
       "openInNewTab": true
     },
