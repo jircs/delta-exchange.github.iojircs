@@ -5,15 +5,15 @@
       "analyticsTag": "Trade Farming"
     },
     {
+      "type": "topOptions",
+      "analyticsTag": "Top Options"
+    },
+     {
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
     },
     {
-      "type": "topOptions",
-      "analyticsTag": "Top Options"
-    },
-    {
-      "type": "xrp_card",
+      "type": "offerTimeline",
       "analyticsTag": "Xrp_launch",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/xrp-desktop.png",
       "redirectURL": "https://www.delta.exchange/app/spot/trade/XRP/XRP_USDT",
