@@ -13,7 +13,7 @@
       "analyticsTag": "Offer Timeline"
     },
     {
-      "type": "offerTimeline",
+      "type": "xrp_launch",
       "analyticsTag": "Xrp_launch",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/xrp-desktop.png",
       "redirectURL": "https://www.delta.exchange/app/spot/trade/XRP/XRP_USDT",
@@ -22,7 +22,7 @@
     {
       "type": "staking_pool",
       "analyticsTag": "Staking_Pool",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/delta-staking-desktop.pngg",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/delta-staking-desktop.png",
       "redirectURL": "https://www.delta.exchange/invest/staking-pools",
       "openInNewTab": true
     },
