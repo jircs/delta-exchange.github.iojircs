@@ -8,10 +8,6 @@
       "type": "topOptions",
       "analyticsTag": "Top Options"
     },
-     {
-      "type": "offerTimeline",
-      "analyticsTag": "Offer Timeline"
-    },
     {
       "type": "xrp_launch",
       "analyticsTag": "Xrp_launch",
@@ -29,9 +25,13 @@
     {
       "type": "crypto_mania",
       "analyticsTag": "crypto_mania",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/crypto-mania-desktop.png",
-      "redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSDT",
-      "openInNewTab": true
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/09/Download_App_hp.png",
+      "redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSD_24Jun",
+      "openInNewTab": false
+    },
+     {
+      "type": "offerTimeline",
+      "analyticsTag": "Offer Timeline"
     },
     {
       "type": "zero_fee",
