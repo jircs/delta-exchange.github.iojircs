@@ -28,7 +28,7 @@
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/xrp-desktop.png",
       "redirectURL": "https://www.delta.exchange/app/spot/trade/XRP/XRP_USDT",
       "openInNewTab": true,
-      "showWhenLogin": "postLogin1"
+      "showWhenLogin": "postLogin"
     },
 	{
       "type": "offerTimeline",
@@ -84,7 +84,7 @@
       "imageURL": "https://www.delta.exchange/app/static/media/mobilezerowithdrawal.623fc0a5.png",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
       "openInNewTab": true,
-      "showWhenMobile": "app1"
+      "showWhenMobile": "browser"
     }
   ]
 }
