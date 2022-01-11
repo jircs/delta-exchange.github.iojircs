@@ -78,7 +78,7 @@
     {
       "type": "zero_fee",
       "analyticsTag": "0_withdrawal",
-      "imageURL": "https://www.delta.exchange/app/static/media/mobilezerowithdrawal.623fc0a5.png",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/zero-fee-withdrawal-mobile.png",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
       "openInNewTab": false
     }
