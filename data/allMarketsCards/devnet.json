@@ -68,7 +68,7 @@
       "analyticsTag": "Staking_Pool",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/delta-staking-mobile.png",
       "redirectURL": "https://www.delta.exchange/invest/staking-pools",
-      "openInNewTab": true
+      "openInNewTab": true,
        "showWhenMobile": "browser"    
     },
     {
