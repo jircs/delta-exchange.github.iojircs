@@ -6,7 +6,7 @@
       "analyticsTag": "Zero Fee",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/07/hp_zero_wfee.jpg",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
-      "openInNewTab": false
+      "openInNewTab": true
     },
 	  {
       "type": "crypto_mania",
@@ -23,7 +23,7 @@
       "openInNewTab": true
     },
 	{
-      "type": "crypto_mania",
+      "type": "xrp_launch",
       "analyticsTag": "Xrp_launch",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/xrp-desktop.png",
       "redirectURL": "https://www.delta.exchange/app/spot/trade/XRP/XRP_USDT",
@@ -33,7 +33,7 @@
 	  {
       "type": "xrp_launch",
       "analyticsTag": "Xrp_launch",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/xrp-desktop.png",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/xrp-desktop.png1",
       "redirectURL": "https://www.delta.exchange/app/spot/trade/XRP/XRP_USDT",
       "openInNewTab": true,
       "showWhenLogin": "postLogin"
