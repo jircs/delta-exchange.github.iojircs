@@ -69,6 +69,7 @@
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/delta-staking-mobile.png",
       "redirectURL": "https://www.delta.exchange/invest/staking-pools",
       "openInNewTab": true
+       "showWhenMobile": "browser"    
     },
     {
       "type": "crypto_mania",
@@ -76,7 +77,7 @@
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/crypto-mania-mobile.png",
       "redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSD",
       "openInNewTab": true,
-      "showWhenLogin": "postLogin"
+      "showWhenMobile": "app"
     },
     {
       "type": "zero_fee",
@@ -84,7 +85,7 @@
       "imageURL": "https://www.delta.exchange/app/static/media/mobilezerowithdrawal.623fc0a5.png",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
       "openInNewTab": true,
-      "showWhenMobile": "browser1"
+      "showWhenMobile": "browser"
     }
   ]
 }
