@@ -28,14 +28,6 @@
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/xrp-desktop.png",
       "redirectURL": "https://www.delta.exchange/app/spot/trade/XRP/XRP_USDT",
       "openInNewTab": true,
-      "showWhenLogin": "preLogin"
-    },
-	  {
-      "type": "xrp_launch",
-      "analyticsTag": "Xrp_launch",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/xrp-desktop.png1",
-      "redirectURL": "https://www.delta.exchange/app/spot/trade/XRP/XRP_USDT",
-      "openInNewTab": true,
       "showWhenLogin": "postLogin"
     },
 	{
@@ -83,14 +75,16 @@
       "analyticsTag": "crypto_mania",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/crypto-mania-mobile.png",
       "redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSD",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "showWhenLogin": "postLogin"
     },
     {
       "type": "zero_fee",
       "analyticsTag": "Zero Fee",
       "imageURL": "https://www.delta.exchange/app/static/media/mobilezerowithdrawal.623fc0a5.png",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "showWhenMobile": "app"
     }
   ]
 }
