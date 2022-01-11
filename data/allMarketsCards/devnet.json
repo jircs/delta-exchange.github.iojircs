@@ -23,6 +23,14 @@
       "openInNewTab": true
     },
 	{
+      "type": "crypto_mania",
+      "analyticsTag": "Xrp_launch",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/xrp-desktop.png",
+      "redirectURL": "https://www.delta.exchange/app/spot/trade/XRP/XRP_USDT",
+      "openInNewTab": true,
+      "showWhenLogin": "preLogin"
+    },
+	  {
       "type": "xrp_launch",
       "analyticsTag": "Xrp_launch",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/xrp-desktop.png",
