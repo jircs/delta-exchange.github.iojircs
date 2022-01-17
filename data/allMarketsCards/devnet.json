@@ -52,11 +52,8 @@
       "analyticsTag": "Top Options"
     },
     {
-      "type": "xrp_card",
-      "analyticsTag": "Xrp_launch",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/xrp-mobile.png",
-      "redirectURL": "https://www.delta.exchange/app/spot/trade/XRP/XRP_USDT",
-      "openInNewTab": false
+      "type": "productDiscovery",
+      "analyticsTag": "Product Discovery"
     },
     {
       "type": "staking_pool",
