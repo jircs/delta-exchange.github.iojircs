@@ -1,0 +1,80 @@
+{
+  "desktop": [
+    {
+      "type": "tradeFarming",
+      "analyticsTag": "Trade Farming"
+    },
+    {
+      "type": "offerTimeline",
+      "analyticsTag": "Offer Timeline"
+    },
+    {
+      "type": "topOptions",
+      "analyticsTag": "Top Options"
+    },
+    {
+      "type": "productDiscovery",
+      "analyticsTag": "Product Discovery"
+    },
+    {
+      "type": "staking_pool",
+      "analyticsTag": "Staking_Pool",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/delta-staking-desktop.png",
+      "redirectURL": "https://www.delta.exchange/invest/staking-pools",
+      "openInNewTab": true
+    },
+    {
+      "type": "crypto_mania",
+      "analyticsTag": "crypto_mania",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/crypto-mania-desktop.png",
+      "redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSD",
+      "openInNewTab": false
+    },
+    {
+      "type": "zero_fee",
+      "analyticsTag": "0_withdrawal",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/07/hp_zero_wfee.jpg",
+      "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
+      "openInNewTab": true
+    }
+  ],
+  "mobile": [
+    {
+      "type": "tradeFarming",
+      "analyticsTag": "Trade Farming"
+    },
+    {
+      "type": "offerTimeline",
+      "analyticsTag": "Offer Timeline"
+    },
+    {
+      "type": "topOptions",
+      "analyticsTag": "Top Options"
+    },
+    {
+      "type": "productDiscovery",
+      "analyticsTag": "Product Discovery"
+    },
+    {
+      "type": "staking_pool",
+      "analyticsTag": "Staking_Pool",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/delta-staking-mobile.png",
+      "redirectURL": "https://www.delta.exchange/invest/staking-pools",
+      "openInNewTab": false
+    },
+    {
+      "type": "crypto_mania",
+      "analyticsTag": "crypto_mania",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/crypto-mania-mobile.png",
+      "redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSD",
+      "openInNewTab": false
+    },
+    {
+      "type": "zero_fee",
+      "analyticsTag": "0_withdrawal",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/zero-fee-withdrawal-mobile.png",
+      "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
+      "openInNewTab": false
+    }
+  ]
+}
