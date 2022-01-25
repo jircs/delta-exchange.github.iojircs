@@ -1,10 +1,6 @@
 {
   "desktop": [
     {
-      "type": "tradeFarming",
-      "analyticsTag": "Trade Farming"
-    },
-    {
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
     },
@@ -39,10 +35,6 @@
     }
   ],
   "mobile": [
-    {
-      "type": "tradeFarming",
-      "analyticsTag": "Trade Farming"
-    },
     {
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
