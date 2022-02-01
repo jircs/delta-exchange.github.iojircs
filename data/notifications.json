@@ -1,17 +1,19 @@
 [
   
          {
+      "id":94,
+      "text":"<div class='details'> <b> 🎁 <span style= 'color : #55B987'> Get $100 on First Options Trade. Deposit Now! T&C:</span></b> <br/> <br/> &#10004;&#65039; 10% cashback on first premium paid to buy option <br/> &#10004;&#65039; Cashback will be in form of $DETO worth 10% of premium . <br/> &#10004;&#65039; $DETO rewarded under offer will be released linearly over 180 days<br/><br/> User need to have minimum balance of $25 for 30 day period from day of buying first option till day of release of $DETO Reward <span class='notif-time'>1st Feb, 7:00 AM UTC</span></div>",
+      "type":"announcement"
+   },
+  
+         {
       "id":93,
       "text":"<div class='details'> <b> We will be performing a short scheduled maintenance on Friday, 28th January 2022 from 5:30 pm UTC to 6:00 pm UTC. During this time, trading in all markets will be paused. <span class='notif-time'>28th Jan, 12:30 PM UTC</span></div>",
       "type":"system"
    },
   
   
-       {
-      "id":92,
-      "text":"<div class='details'> <b> 🎁 <span style= 'color : #55B987'> Earn maximum cashback before the offer ends.</span></b> <br/><br/> Earn $DETO cashback on your every trade and accumulate as much $DETO as you can. <br/>  <br/> Following can be done with earned $DETO: <br/> <br/> &#10004;&#65039; Pay Fees at msp of $1 <br/> &#10004;&#65039; Enjoy unlimited free withdrawals*. <br/> &#10004;&#65039; Invest in Robo Statagies & Staking Pool.<br/><br/> <a target='_blank' href='https://www.delta.exchange/tradeFarming?utm_source=bell_alert&utm_campaign=TF'>Offer Details</a><span class='notif-time'>21st Jan, 9:45 AM UTC</span></div>",
-      "type":"announcement"
-   },
+
   
   
      {
