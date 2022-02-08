@@ -1,7 +1,14 @@
 [
+         
+         {
+      "id":96,
+      "text":"<div class='details'> <b> We will be performing a short scheduled maintenance on Wednesday, 9th February 2022 from 3:30 am UTC to 4:00 am UTC. During this time, trading in all markets will be paused. <span class='notif-time'>8th Feb, 4:00 PM UTC</span></div>",
+      "type":"system"
+   },
+      
          {
       "id":95,
-      "text":"<div class='details'> <b> We will be revising requirements for VIP customers on Wednesday, 9th Feburary 2022 at 00:00 AM UTC. Trading volume requirements, DETO requirements and Fee rebate structure are being revised. For more details please follow : <a target='_blank' href='https://www.delta.exchange/blog/support/vip-program'>VIP Program </a>  <span class='notif-time'>8th Feb, 8:00 AM UTC</span></div>",
+      "text":"<div class='details'> <b> We will be revising requirements for VIP customers on Wednesday, 9th February 2022 at 00:00 AM UTC. Trading volume requirements, DETO requirements and Fee rebate structure are being revised. For more details please follow : <a target='_blank' href='https://www.delta.exchange/blog/support/vip-program'>VIP Program </a>  <span class='notif-time'>8th Feb, 8:00 AM UTC</span></div>",
       "type":"system"
    },
   
@@ -11,13 +18,6 @@
       "type":"announcement"
    },
   
-         {
-      "id":93,
-      "text":"<div class='details'> <b> We will be performing a short scheduled maintenance on Friday, 28th January 2022 from 5:30 pm UTC to 6:00 pm UTC. During this time, trading in all markets will be paused. <span class='notif-time'>28th Jan, 12:30 PM UTC</span></div>",
-      "type":"system"
-   },
-  
-
                       {
       "id":85,
       "text":"<div class='details'> 📢 Now trade $AVAX options across different strikes and expiries. <br> <br> 💰 Earn $DETO on your every trade. <a target='_blank' href='https://www.delta.exchange/app/options_chain/trade/AVAX/C-AVAX-105-070122?utm_source=bell_alert&utm_campaign=AVAX)Launch'>Start Earning </a>  <span class='notif-time'> 20th Dec, 5:00 PM UTC</span></div>",
