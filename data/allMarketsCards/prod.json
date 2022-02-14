@@ -12,6 +12,13 @@
       "type": "productDiscovery",
       "analyticsTag": "Product Discovery"
     },
+        {
+      "type": "First_Option",
+      "analyticsTag": "First_Option",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/02/Blog.png",
+      "redirectURL": "https://www.delta.exchange/blog/100-cashback-offer-on-1st-options-purchase/",
+      "openInNewTab": true
+    },
     {
       "type": "staking_pool",
       "analyticsTag": "Staking_Pool",
@@ -51,6 +58,13 @@
     {
       "type": "productDiscovery",
       "analyticsTag": "Product Discovery"
+    },
+            {
+      "type": "First_Option",
+      "analyticsTag": "First_Option",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/02/Blog.png",
+      "redirectURL": "https://www.delta.exchange/blog/100-cashback-offer-on-1st-options-purchase/",
+      "openInNewTab": true
     },
     {
       "type": "staking_pool",
