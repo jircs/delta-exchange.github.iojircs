@@ -4,7 +4,7 @@
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
     },
-     {
+    {
       "type": "raf",
       "analyticsTag": "RAF",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/02/Refer-A-Friend-100-Reward-Program-900-px.png",
@@ -19,7 +19,7 @@
       "type": "productDiscovery",
       "analyticsTag": "Product Discovery"
     },
-        {
+    {
       "type": "First_Option",
       "analyticsTag": "First_Option",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/02/IMG_20220215_143240_334.png",
@@ -58,7 +58,7 @@
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
     },
-        {
+    {
       "type": "raf",
       "analyticsTag": "RAF",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/02/Untitled-design-2.png",
@@ -73,7 +73,7 @@
       "type": "productDiscovery",
       "analyticsTag": "Product Discovery"
     },
-            {
+    {
       "type": "First_Option",
       "analyticsTag": "First_Option",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/02/IMG_20220215_191348_107.png",
