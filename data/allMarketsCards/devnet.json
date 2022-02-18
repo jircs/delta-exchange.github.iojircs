@@ -5,6 +5,13 @@
       "analyticsTag": "Offer Timeline"
     },
     {
+      "type": "raf",
+      "analyticsTag": "RAF",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/02/Website.png",
+      "redirectURL": "https://www.delta.exchange/blog/refer-a-friend/",
+      "openInNewTab": true
+    },
+    {
       "type": "topOptions",
       "analyticsTag": "Top Options"
     },
@@ -50,6 +57,13 @@
     {
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
+    },
+    {
+      "type": "raf",
+      "analyticsTag": "RAF",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/02/Untitled-design-2.png",
+      "redirectURL": "https://www.delta.exchange/blog/refer-a-friend/",
+      "openInNewTab": true
     },
     {
       "type": "topOptions",
