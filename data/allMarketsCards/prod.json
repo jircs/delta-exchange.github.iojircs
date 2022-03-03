@@ -15,16 +15,16 @@
       "type": "topOptions",
       "analyticsTag": "Top Options"
     },
-    {
-      "type": "productDiscovery",
-      "analyticsTag": "Product Discovery"
-    },
-    {
+        {
       "type": "First_Option",
       "analyticsTag": "First_Option",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/02/IMG_20220215_143240_334.png",
       "redirectURL": "https://www.delta.exchange/blog/100-cashback-offer-on-1st-options-purchase/",
       "openInNewTab": true
+    },
+    {
+      "type": "productDiscovery",
+      "analyticsTag": "Product Discovery"
     },
     {
       "type": "staking_pool",
@@ -69,16 +69,16 @@
       "type": "topOptions",
       "analyticsTag": "Top Options"
     },
-    {
-      "type": "productDiscovery",
-      "analyticsTag": "Product Discovery"
-    },
-    {
+        {
       "type": "First_Option",
       "analyticsTag": "First_Option",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/02/IMG_20220215_191348_107.png",
       "redirectURL": "https://www.delta.exchange/blog/100-cashback-offer-on-1st-options-purchase/",
       "openInNewTab": true
+    },
+    {
+      "type": "productDiscovery",
+      "analyticsTag": "Product Discovery"
     },
     {
       "type": "staking_pool",
