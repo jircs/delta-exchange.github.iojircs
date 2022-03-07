@@ -11,18 +11,18 @@
       "redirectURL": "https://www.delta.exchange/blog/refer-a-friend/",
       "openInNewTab": true
     },
-    {
-      "type": "topOptions",
-      "analyticsTag": "Top Options"
-    },
-    
-            {
+                {
       "type": "Options_Cashback",
       "analyticsTag": "Options_Cashback",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/IMG_20220225_152454_498.jpg",
       "redirectURL": "https://www.delta.exchange/blog/50-cashback/",
       "openInNewTab": true
     },
+    {
+      "type": "topOptions",
+      "analyticsTag": "Top Options"
+    },
+    
         {
       "type": "First_Option",
       "analyticsTag": "First_Option",
