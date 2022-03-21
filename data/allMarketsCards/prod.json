@@ -7,22 +7,22 @@
     {
       "type": "raf",
       "analyticsTag": "RAF",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/02/CashBackOffer-3.png",
-      "redirectURL": "https://www.delta.exchange/blog/refer-a-friend/",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6593.png",
+      "redirectURL": "https://www.delta.exchange/referral-program/",
       "openInNewTab": true
     },
                 {
       "type": "Options_Cashback",
       "analyticsTag": "Options_Cashback",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/IMG_20220225_152454_498.jpg",
-      "redirectURL": "https://www.delta.exchange/blog/50-cashback/",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6583.png",
+      "redirectURL": "https://www.delta.exchange/app/options_chain/trade/BTC/C-BTC-40000-250322",
       "openInNewTab": true
     },
             {
       "type": "First_Option",
       "analyticsTag": "First_Option",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/02/IMG_20220215_143240_334.png",
-      "redirectURL": "https://www.delta.exchange/blog/100-cashback-offer-on-1st-options-purchase/",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6587.png",
+      "redirectURL": "https://www.delta.exchange/app/options_chain/trade/BTC/C-BTC-40000-250322",
       "openInNewTab": true
     },
     {
@@ -69,28 +69,29 @@
     {
       "type": "raf",
       "analyticsTag": "RAF",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/02/CashBackOffer-1.png",
-      "redirectURL": "https://www.delta.exchange/blog/refer-a-friend/",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6596.png",
+      "redirectURL": "https://www.delta.exchange/referral-program/",
       "openInNewTab": true
     },
-    {
-      "type": "topOptions",
-      "analyticsTag": "Top Options"
-    },
+
     
             {
       "type": "Options_Cashback",
       "analyticsTag": "Options_Cashback",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/IMG_20220225_152457_071.jpg",
-      "redirectURL": "https://www.delta.exchange/blog/50-cashback/",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6586.png",
+      "redirectURL": "https://www.delta.exchange/app/options_chain/trade/BTC/C-BTC-40000-250322",
       "openInNewTab": true
     },
         {
       "type": "First_Option",
       "analyticsTag": "First_Option",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/02/IMG_20220215_191348_107.png",
-      "redirectURL": "https://www.delta.exchange/blog/100-cashback-offer-on-1st-options-purchase/",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6594.png",
+      "redirectURL": "https://www.delta.exchange/app/options_chain/trade/BTC/C-BTC-40000-250322",
       "openInNewTab": true
+    },
+        {
+      "type": "topOptions",
+      "analyticsTag": "Top Options"
     },
     {
       "type": "productDiscovery",
