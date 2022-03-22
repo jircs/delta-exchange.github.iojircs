@@ -1,6 +1,11 @@
 [
          
-                           {
+                       {
+      "id":100,
+      "text":"<div class='details'> We will be performing a short scheduled maintenance <b> today i.e Tuesday, 22nd March 2022 from 5:00 pm UTC to 5:45 pm UTC </b>. <br/><br/> During this time trading in all the markets will be paused. <span class='notif-time'>22nd Mar, 6:30 AM UTC</span></div>",
+      "type":"system"
+   },
+         {
       "id":99,
       "text":"<div class='details'> <b> 🎁 <span style= 'color : #55B987'> Trade Options & win $25 Delta cash daily, T&Cs :</span></b> <br/> <br/> &#10004;&#65039; Flat 50% cashback on option fee paid. <br/> &#10004;&#65039; Maximum cashback per user per day capped at $25. <br/> &#10004;&#65039; Cashback is valid on the actual trading fees paid by the user. <br/> <span class='notif-time'>11th Mar, 11:30 AM UTC</span></div>",
       "type":"announcement"
@@ -12,12 +17,6 @@
       "type":"announcement"
    },
          
-         
-                  {
-      "id":95,
-      "text":"<div class='details'> We will be performing a short scheduled maintenance <b> today i.e Wednesday, 2nd March 2022 from 5:00 pm UTC to 5:30 pm UTC </b>. <br/><br/> During this time trading in all the markets will be paused. <span class='notif-time'>2nd Mar, 9:30 AM UTC</span></div>",
-      "type":"system"
-   },
          
          {
       "id":98,
