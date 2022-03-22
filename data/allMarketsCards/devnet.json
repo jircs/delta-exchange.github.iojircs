@@ -46,11 +46,6 @@
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/07/hp_zero_wfee.jpg",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
       "openInNewTab": true
-    },
-    {
-      "type": "tradeFarming",
-      "analyticsTag": "Trade Farming",
-      "showWhenLogin": "postLogin"
     }
   ],
   "mobile": [
@@ -100,11 +95,6 @@
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/zero-fee-withdrawal-mobile.png",
       "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
       "openInNewTab": false
-    },
-    {
-      "type": "tradeFarming",
-      "analyticsTag": "Trade Farming",
-      "showWhenLogin": "postLogin"
     }
   ]
 }
