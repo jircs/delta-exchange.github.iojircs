@@ -1,5 +1,10 @@
 [
          
+                     {
+      "id":101,
+      "text":"<div class='details'> We will be performing a short scheduled maintenance <b> today i.e Thursday, 24th March 2022 from 7:30 pm UTC to 7:40 pm UTC </b>. <br/><br/> During this time trading in all the markets will be paused. <span class='notif-time'>24th Mar, 5:30 PM UTC</span></div>",
+      "type":"system"
+   },
                        {
       "id":100,
       "text":"<div class='details'> We will be performing a short scheduled maintenance <b> today i.e Tuesday, 22nd March 2022 from 5:00 pm UTC to 5:45 pm UTC </b>. <br/><br/> During this time trading in all the markets will be paused. <span class='notif-time'>22nd Mar, 6:30 AM UTC</span></div>",
