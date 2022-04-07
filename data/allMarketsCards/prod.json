@@ -19,13 +19,6 @@
       "openInNewTab": true
     },
     {
-      "type": "First_Option",
-      "analyticsTag": "First_Option",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6587.png",
-      "redirectURL": "https://www.delta.exchange/app/options_chain/trade/BTC/C-BTC-40000-250322",
-      "openInNewTab": true
-    },
-    {
       "type": "topOptions",
       "analyticsTag": "Top Options"
     },
@@ -71,13 +64,6 @@
       "type": "Options_Cashback",
       "analyticsTag": "Options_Cashback",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6586.png",
-      "redirectURL": "https://www.delta.exchange/app/options_chain/trade/BTC/C-BTC-40000-250322",
-      "openInNewTab": true
-    },
-    {
-      "type": "First_Option",
-      "analyticsTag": "First_Option",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6594.png",
       "redirectURL": "https://www.delta.exchange/app/options_chain/trade/BTC/C-BTC-40000-250322",
       "openInNewTab": true
     },
