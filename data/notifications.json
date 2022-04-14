@@ -1,9 +1,4 @@
 [
-           {
-      "id":103,
-      "text":"<div class='details'> <b> We will be doing short unscheduled maintenance. During this time trading will be halted. Please manage your positions accordingly. <span class='notif-time'>14th Mar, 9:10 AM UTC</span></div>",
-      "type":"system"
-   },
                                 {
       "id":102,
       "text":"<div class='details'> Portfolio margin launched for BTC and ETH (USDT settled contracts only). This risk based margining method <b> offsets the margin requirements of opposing positions </b> resulting in higher capital efficiency. Enable through preferences menu or margin selection pane to try portfolio margin. <br/>To know more <a target='_blank' href='https://guides.delta.exchange/delta-exchange-user-guide/trading-guide/portfolio-margin'> Click Here </a>   <span class='notif-time'>25th Mar, 12:20 PM UTC</span></div>",
