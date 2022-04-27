@@ -18,6 +18,13 @@
       "redirectURL": "https://www.delta.exchange/app/options_chain/trade/BTC/C-BTC-40000-250322",
       "openInNewTab": true
     },
+        {
+      "type": "Delta_Cash",
+      "analyticsTag": "Delta_Cash",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/04/1_desktop.jpg",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true
+    },
     {
       "type": "topOptions",
       "analyticsTag": "Top Options"
