@@ -4,13 +4,14 @@
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
     },
-    {
-      "type": "raf",
-      "analyticsTag": "RAF",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6593.png",
-      "redirectURL": "https://www.delta.exchange/referral-program/",
+        {
+      "type": "fgc",
+      "analyticsTag": "FGC",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/05/50k_4.jpg",
+      "redirectURL": "https://www.delta.exchange/app/futures_grand_challenge",
       "openInNewTab": true
     },
+
     {
       "type": "Options_Cashback",
       "analyticsTag": "Options_Cashback",
@@ -23,6 +24,13 @@
       "analyticsTag": "Delta_Cash",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/04/1_desktop.jpg",
       "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true
+    },
+        {
+      "type": "raf",
+      "analyticsTag": "RAF",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6593.png",
+      "redirectURL": "https://www.delta.exchange/referral-program/",
       "openInNewTab": true
     },
     {
@@ -59,6 +67,13 @@
     {
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
+    },
+            {
+      "type": "fgc",
+      "analyticsTag": "FGC",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/05/50k_1.jpg",
+      "redirectURL": "https://www.delta.exchange/app/futures_grand_challenge",
+      "openInNewTab": true
     },
     {
       "type": "raf",
