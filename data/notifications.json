@@ -1,5 +1,10 @@
 [
   
+           {
+      "id":115,
+      "text":"<div class='details'> <b> We will be performing short unscheduled maintenace in few minutes. Trading in all markets will be paused during the maintenance. Sorry for inconvinience caused. <span class='notif-time'>9th Feb, 5:00 PM UTC</span></div>",
+      "type":"system"
+   },
                                     {
       "id":111,
       "text":"<div class='details'> <b> 📢 Now place real trades using Strategy Builder and execute as many strategies as you want </b> <br/>Try here for free 👉 <a target='_blank' href='https://www.delta.exchange/optionsdesk?underlying=DELTA:.DEXBTUSDT'> Try Now </a>   <span class='notif-time'>5th May, 12:30 PM UTC</span></div>",
