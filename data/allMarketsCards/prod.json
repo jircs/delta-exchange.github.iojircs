@@ -76,13 +76,6 @@
       "openInNewTab": true
     },
     {
-      "type": "raf",
-      "analyticsTag": "RAF",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6596.png",
-      "redirectURL": "https://www.delta.exchange/referral-program/",
-      "openInNewTab": true
-    },
-    {
       "type": "Options_Cashback",
       "analyticsTag": "Options_Cashback",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6586.png",
@@ -99,6 +92,13 @@
     {
       "type": "topOptions",
       "analyticsTag": "Top Options"
+    },
+        {
+      "type": "raf",
+      "analyticsTag": "RAF",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6596.png",
+      "redirectURL": "https://www.delta.exchange/referral-program/",
+      "openInNewTab": true
     },
     {
       "type": "productDiscovery",
