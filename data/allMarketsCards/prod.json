@@ -4,13 +4,6 @@
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
     },
-                {
-      "type": "Zero_Fee_Options",
-      "analyticsTag": "Zero_Fee_Options",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/05/Frame-6673.png",
-      "redirectURL": "https://www.delta.exchange/app/options_chain/trade/BTC/C-BTC-33600-090522",
-      "openInNewTab": true
-    },
     
         {
       "type": "fgc",
@@ -20,13 +13,6 @@
       "openInNewTab": true
     },
 
-    {
-      "type": "Options_Cashback",
-      "analyticsTag": "Options_Cashback",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6583.png",
-      "redirectURL": "https://www.delta.exchange/app/options_chain/trade/BTC/C-BTC-40000-250322",
-      "openInNewTab": true
-    },
         {
       "type": "Delta_Cash",
       "analyticsTag": "Delta_Cash",
@@ -76,13 +62,6 @@
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
     },
-                        {
-      "type": "Zero_Fee_Options",
-      "analyticsTag": "Zero_Fee_Options",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/05/Frame-6674-1.png",
-      "redirectURL": "https://www.delta.exchange/app/options_chain/trade/BTC/C-BTC-33600-090522",
-      "openInNewTab": true
-    },
             {
       "type": "fgc",
       "analyticsTag": "FGC",
@@ -90,14 +69,7 @@
       "redirectURL": "https://www.delta.exchange/app/futures_grand_challenge",
       "openInNewTab": true
     },
-    {
-      "type": "Options_Cashback",
-      "analyticsTag": "Options_Cashback",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6586.png",
-      "redirectURL": "https://www.delta.exchange/app/options_chain/trade/BTC/C-BTC-40000-250322",
-      "openInNewTab": true
-    },
-            {
+             {
       "type": "Delta_Cash",
       "analyticsTag": "Delta_Cash",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/04/1_mobile.jpg",
