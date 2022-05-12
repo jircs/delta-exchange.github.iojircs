@@ -1,11 +1,6 @@
 [
   
-                                      {
-      "id":118,
-      "text":"<div class='details'> <b> 🚧 We'll be discontinuing trading in $LUNA-USDT Perp Swap at 8am UTC, 13th May. </b> <br/> $LUNA has deteriorated over 90% & is highly volatile.Till $LUNA spot stabilizes, we've decided to discontinue leveraged trading in it.<br/> <br/> Any open position will be closed at a price which is inline with the LUNA prep price on other major exchanges or fair mark price as determined by Delta Exchange. The decision will be final and binding. We encourage traders to exit their positions prior to delisting.  <span class='notif-time'>5th May, 12:30 PM UTC</span></div>",
-      "type":"announcement"
-   },
-  
+ 
              {
       "id":117,
       "text":"<div class='details'> <b> In light of the high volatility, max leverage for LUNA perpetual has been reduced to 3x. Please refresh your screens get this update. You may not be able to place orders in LUNA without updating your screens. <span class='notif-time'>12th May, 8:10 PM UTC</span></div>",
