@@ -8,7 +8,7 @@
         {
       "type": "fgc",
       "analyticsTag": "FGC",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/05/50k_4.jpg",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/05/50k_8.jpg",
       "redirectURL": "https://www.delta.exchange/app/futures_grand_challenge",
       "openInNewTab": true
     },
@@ -81,7 +81,7 @@
             {
       "type": "fgc",
       "analyticsTag": "FGC",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/05/50k_1.jpg",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/05/50k_7.jpg",
       "redirectURL": "https://www.delta.exchange/app/futures_grand_challenge",
       "openInNewTab": true
     },
