@@ -1,5 +1,11 @@
 [
   
+             {
+      "id":119,
+      "text":"<div class='details'> <b> 🛠️🚧 We will be performing a short scheduled maintenace today i.e <b> Thursday, 19th May 2022 </b> from 5:00 PM UTC to 5:30 PM UTC. Trading in all markets will be paused during the maintenance.<span class='notif-time'> 19th May, 11:40 AM UTC </span></div>",
+      "type":"system"
+   },
+        
            {
       "id":118,
       "text":"<div class='details'> <b> 🎁 <span style= 'color : #55B987'> Win $200 Delta Cash daily 💰💰</span></b> <br/> &#10004;&#65039; Flat 25% cashback on options fee paid. <br/> &#10004;&#65039; Maximum cashback per user per day capped at $200. <br/> &#10004;&#65039; Cashback is valid on the actual trading fees paid by the user. <br/> <span class='notif-time'>18th May, 7:20 AM UTC</span></div>",
@@ -12,12 +18,7 @@
       "type":"system"
    },
   
-           {
-      "id":115,
-      "text":"<div class='details'> <b> We will be performing short unscheduled maintenace in few minutes. Trading in all markets will be paused during the maintenance. Sorry for inconvinience caused. <span class='notif-time'>9th May, 5:00 PM UTC</span></div>",
-      "type":"system"
-   },
-                                    {
+                              {
       "id":111,
       "text":"<div class='details'> <b> 📢 Now place real trades using Strategy Builder and execute as many strategies as you want </b> <br/>Try here for free 👉 <a target='_blank' href='https://www.delta.exchange/optionsdesk?underlying=DELTA:.DEXBTUSDT'> Try Now </a>   <span class='notif-time'>5th May, 12:30 PM UTC</span></div>",
       "type":"announcement"
