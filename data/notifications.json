@@ -1,5 +1,11 @@
 [
   
+               {
+      "id":120,
+      "text":"<div class='details'> <b> 🚧  We'll be halting the trading in DEFI-USDT Perp Swap contract today (20th May) at 12pm UTC. i.e <br/> Traders are advised to close their positions as soon as possible, before the delisting of this contract.  <br/> The positions will be closed at a price which is inline with the underlying price on other major exchanges or fair mark price or 30min TWAP of spot, etc. as determined by Delta Exchange. This decision will be final and binding. <br/> We highly encourage traders to exit their positions prior to delisting.<span class='notif-time'> 20th May, 3:15 AM UTC </span></div>",
+      "type":"system"
+   },
+  
              {
       "id":119,
       "text":"<div class='details'> <b> 🛠️🚧 We will be performing a short scheduled maintenace today i.e <b> Thursday, 19th May 2022 </b> from 5:00 PM UTC to 5:30 PM UTC. Trading in all markets will be paused during the maintenance.<span class='notif-time'> 19th May, 11:40 AM UTC </span></div>",
