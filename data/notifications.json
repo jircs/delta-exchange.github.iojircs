@@ -1,8 +1,14 @@
 [
   
                {
+      "id":121,
+      "text":"<div class='details'> <b> 🚧  We'll be halting the trading in the following contracts contracts on Monday (23rd May) at 12pm UTC. <br/>&#10004;&#65039; Cel-USDT <br/>&#10004;&#65039; CAKE-USDT <br/>&#10004;&#65039; SPELL-USDT <br/>&#10004;&#65039; UNI-USDT_24JUN. <br/> Traders are advised to close their positions as soon as possible, before the delisting of this contract.  <br/> The positions will be closed at a price which is inline with the underlying price on other major exchanges or fair mark price or 30min TWAP of spot, etc. as determined by Delta Exchange. This decision will be final and binding. <br/> We highly encourage traders to exit their positions prior to delisting.<span class='notif-time'> 23rd May, 6:30 AM UTC </span></div>",
+      "type":"system"
+   },
+
+               {
       "id":120,
-      "text":"<div class='details'> <b> 🚧  We'll be halting the trading in DEFI-USDT Perp Swap contract today (20th May) at 12pm UTC. i.e <br/> Traders are advised to close their positions as soon as possible, before the delisting of this contract.  <br/> The positions will be closed at a price which is inline with the underlying price on other major exchanges or fair mark price or 30min TWAP of spot, etc. as determined by Delta Exchange. This decision will be final and binding. <br/> We highly encourage traders to exit their positions prior to delisting.<span class='notif-time'> 20th May, 3:15 AM UTC </span></div>",
+      "text":"<div class='details'> <b> 🚧  We'll be halting the trading in DEFI-USDT Perp Swap contract today (20th May) at 12pm UTC. <br/> Traders are advised to close their positions as soon as possible, before the delisting of this contract.  <br/> The positions will be closed at a price which is inline with the underlying price on other major exchanges or fair mark price or 30min TWAP of spot, etc. as determined by Delta Exchange. This decision will be final and binding. <br/> We highly encourage traders to exit their positions prior to delisting.<span class='notif-time'> 20th May, 3:15 AM UTC </span></div>",
       "type":"system"
    },
   
