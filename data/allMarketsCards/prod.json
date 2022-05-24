@@ -25,7 +25,7 @@
       "type": "Sprint_500",
       "analyticsTag": "Sprint_500",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/05/Sprint-to-500k_1.jpg",
-      "redirectURL": "https://www.delta.exchange/offers",
+      "redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSDT",
       "openInNewTab": true
     },
     
@@ -83,7 +83,7 @@
       "type": "Sprint_500",
       "analyticsTag": "Sprint_500",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/05/Sprint-to-500k_2.jpg",
-      "redirectURL": "https://www.delta.exchange/offers",
+      "redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSDT",
       "openInNewTab": true
     },
              {
