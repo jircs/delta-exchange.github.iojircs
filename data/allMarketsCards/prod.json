@@ -21,6 +21,14 @@
       "openInNewTab": true
     },
 
+            {
+      "type": "Sprint_500",
+      "analyticsTag": "Sprint_500",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/05/Sprint-to-500k_1.jpg",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true
+    },
+    
         {
       "type": "Delta_Cash",
       "analyticsTag": "Delta_Cash",
@@ -69,6 +77,13 @@
       "analyticsTag": "FGC",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/05/50k_7.jpg",
       "redirectURL": "https://www.delta.exchange/app/futures_grand_challenge",
+      "openInNewTab": true
+    },
+                {
+      "type": "Sprint_500",
+      "analyticsTag": "Sprint_500",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/05/Sprint-to-500k_2.jpg",
+      "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true
     },
              {
