@@ -1,7 +1,7 @@
 [
      
      {
-      "id":123,
+      "id":124,
       "text":"<div class='details'> Sizes in orderbook and depth charts will now be shown in underlying/quoting currency.For example in BTC books instead of seeing 1440 contracts, now you will see size as 1.44 BTC <br/> To know more  <a target='_blank' href='https://www.delta.exchange/blog/support/sizes-in-underlying-currency/'>Claim Offer Now </a> <span class='notif-time'>27th May, 11:50 AM UTC</span></div>",
       "type":"system"
    },
