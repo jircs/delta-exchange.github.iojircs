@@ -1,4 +1,10 @@
 [
+     
+     {
+      "id":123,
+      "text":"<div class='details'> Sizes in orderbook and depth charts will now be shown in underlying/quoting currency.For example in BTC books instead of seeing 1440 contracts, now you will see size as 1.44 BTC <br/> To know more  <a target='_blank' href='https://www.delta.exchange/blog/support/sizes-in-underlying-currency/'>Claim Offer Now </a> <span class='notif-time'>27th May, 11:50 AM UTC</span></div>",
+      "type":"system"
+   },
      {
       "id":122,
       "text":"<div class='details'> &#127881; Sprint to 500 - Trade & get <b>500 $DETO! </b><br/><br/>&#9989; Simply trade $500,000 in volume till 31st May and get rewards. The offer is applicable for both new and old users.<br/>&#128073;  <a target='_blank' href='https://www.delta.exchange/offers/'>Claim Offer Now </a> <span class='notif-time'>23rd May, 9:45 AM UTC</span></div>",
