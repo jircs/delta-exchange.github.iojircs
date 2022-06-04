@@ -1,4 +1,10 @@
 [
+  
+                    {
+      "id":126,
+      "text":"<div class='details'> <b> 📢 We have launched Account Analytics feature to make your trading experience even better. Now track your realized PNLs, DETO mined, Volumes and Fees paid by a single click i.e <br/> <br/> <a target='_blank' href='https://www.delta.exchange/app/account/account_analytics/account_pnl'> Click Here </a> to know more. <span class='notif-time'> 4th June, 9:45 AM UTC </span></div>",
+      "type":"announcement"
+   },
                   {
       "id":126,
       "text":"<div class='details'> <b> 🛠️🚧 We will be performing a short scheduled maintenace today i.e <b> Thursday, 2nd June 2022 </b> from 5:00 PM UTC to 5:30 PM UTC. Trading in all markets will be paused during the maintenance.<span class='notif-time'> 2nd June, 7:45 AM UTC </span></div>",
