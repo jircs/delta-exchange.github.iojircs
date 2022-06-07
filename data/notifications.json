@@ -1,5 +1,11 @@
 [
   
+                      {
+      "id":127,
+      "text":"<div class='details'> <b> 📢 Check out new positions page. <br/> 👉 <a target='_blank' href='https://www.delta.exchange/app/account/account_analytics/account_pnl'> Click Here </a> <span class='notif-time'> 7th June, 5:35 AM UTC </span></div>",
+      "type":"announcement"
+   },
+  
                     {
       "id":126,
       "text":"<div class='details'> <b> 📢 We have launched Account Analytics feature to make your trading experience even better. Now track your realized PNLs, DETO mined, Volumes and Fees paid by a single click. <br/> <br/> <a target='_blank' href='https://www.delta.exchange/app/account/account_analytics/account_pnl'> Click Here </a> to check it out. <span class='notif-time'> 4th June, 9:45 AM UTC </span></div>",
