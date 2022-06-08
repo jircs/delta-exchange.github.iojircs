@@ -95,11 +95,6 @@
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6596.png",
       "redirectURL": "https://www.delta.exchange/referral-program/",
       "openInNewTab": true
-    },
-    {
-      "type": "productDiscovery",
-      "analyticsTag": "Product Discovery"
-    },
-
+    }
   ]
 }
