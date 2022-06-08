@@ -44,10 +44,6 @@
     {
       "type": "topOptions",
       "analyticsTag": "Top Options"
-    },
-    {
-      "type": "productDiscovery",
-      "analyticsTag": "Product Discovery"
     }
   ],
   "mobile": [
