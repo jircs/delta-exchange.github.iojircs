@@ -41,13 +41,6 @@
       "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true
     },
-        {
-      "type": "raf",
-      "analyticsTag": "RAF",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/06/IMG_20220606_211026_810.jpg",
-      "redirectURL": "https://www.delta.exchange/referral-program/",
-      "openInNewTab": true
-    },
     {
       "type": "topOptions",
       "analyticsTag": "Top Options"
