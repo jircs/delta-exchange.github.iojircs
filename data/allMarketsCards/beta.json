@@ -4,34 +4,25 @@
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
     },
+  
+    {
+      "type": "raf",
+      "analyticsTag": "RAF",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/06/IMG_20220608_202415_723.jpg",
+      "redirectURL": "https://www.delta.exchange/referral-program/",
+      "openInNewTab": true
+    },  
+            {
+      "type": "fgc",
+      "analyticsTag": "FGC",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/05/50k_8.jpg",
+      "redirectURL": "https://www.delta.exchange/app/futures_grand_challenge",
+      "openInNewTab": true
+    },
+ 
     {
       "type": "topOptions",
       "analyticsTag": "Top Options"
-    },
-    {
-      "type": "productDiscovery",
-      "analyticsTag": "Product Discovery"
-    },
-    {
-      "type": "staking_pool",
-      "analyticsTag": "Staking_Pool",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/delta-staking-desktop.png",
-      "redirectURL": "https://www.delta.exchange/invest/staking-pools",
-      "openInNewTab": true
-    },
-    {
-      "type": "crypto_mania",
-      "analyticsTag": "crypto_mania",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/crypto-mania-desktop.png",
-      "redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSD",
-      "openInNewTab": false
-    },
-    {
-      "type": "zero_fee",
-      "analyticsTag": "0_withdrawal",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/07/hp_zero_wfee.jpg",
-      "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
-      "openInNewTab": true
     }
   ],
   "mobile": [
@@ -39,34 +30,24 @@
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
     },
+
+    {
+      "type": "fgc",
+      "analyticsTag": "FGC",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/05/50k_7.jpg",
+      "redirectURL": "https://www.delta.exchange/app/futures_grand_challenge",
+      "openInNewTab": true
+    },
     {
       "type": "topOptions",
       "analyticsTag": "Top Options"
     },
-    {
-      "type": "productDiscovery",
-      "analyticsTag": "Product Discovery"
-    },
-    {
-      "type": "staking_pool",
-      "analyticsTag": "Staking_Pool",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/delta-staking-mobile.png",
-      "redirectURL": "https://www.delta.exchange/invest/staking-pools",
-      "openInNewTab": false
-    },
-    {
-      "type": "crypto_mania",
-      "analyticsTag": "crypto_mania",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/crypto-mania-mobile.png",
-      "redirectURL": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSD",
-      "openInNewTab": false
-    },
-    {
-      "type": "zero_fee",
-      "analyticsTag": "0_withdrawal",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/01/zero-fee-withdrawal-mobile.png",
-      "redirectURL": "https://www.delta.exchange/blog/support/hold-deto-and-enjoy-free-withdrawals",
-      "openInNewTab": false
+        {
+      "type": "raf",
+      "analyticsTag": "RAF",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6596.png",
+      "redirectURL": "https://www.delta.exchange/referral-program/",
+      "openInNewTab": true
     }
   ]
 }
