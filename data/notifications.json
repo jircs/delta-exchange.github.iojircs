@@ -1,6 +1,10 @@
 [
   
-   
+                       {
+      "id":132,
+      "text":"<div class='details'> <b> 📢 In light of unprecedented market volatility, we have <b>temporarily</b> increased the initial margin requirements for short options trades. The new initial margin requirements are as follows: <br/> <br/> BTC: 5% (max leverage 20x) <br/> ETH : 10% (max leverage 10x) <br/> All other underlyings: 50% (max leverage: 2x) <br/><br/> This is a temporary change, implemented as a prudent risk management practice. Once markets stabilize, we will look to revert to higher leverages. <span class='notif-time'> 19th June, 5:30 PM UTC </span></div>",
+      "type":"system"
+   },
                     {
       "id":131,
       "text":"<div class='details'> <b> 🛠️🚧 We will be performing a long scheduled maintenace on <b> Sunday, 19th June 2022 </b> from 4:30 AM UTC to 12:30 PM UTC. Trading in all markets will be paused during the maintenance.<span class='notif-time'> 10th June, 7:25 AM UTC </span></div>",
