@@ -1,5 +1,11 @@
 [
   
+                         {
+      "id":133,
+      "text":"<div class='details'> 📢 We have reduced the initial margin requirement for short dated (D1 and D2) BTC options to 2%, i.e. max allowed leverage is now 50x <span class='notif-time'> 20th June, 7:10 PM UTC </span></div>",
+      "type":"system"
+   },
+  
                        {
       "id":132,
       "text":"<div class='details'> <b> 📢 In light of unprecedented market volatility, we have <b>temporarily</b> increased the initial margin requirements for short options trades. The new initial margin requirements are as follows: <br/> <br/> BTC: 5% (max leverage 20x) <br/> ETH : 10% (max leverage 10x) <br/> All other underlyings: 50% (max leverage: 2x) <br/><br/> This is a temporary change, implemented as a prudent risk management practice. Once markets stabilize, we will look to revert to higher leverages. <span class='notif-time'> 19th June, 5:30 PM UTC </span></div>",
