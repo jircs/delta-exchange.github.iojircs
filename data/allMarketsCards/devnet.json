@@ -7,7 +7,7 @@
     {
       "type": "kyc_complete",
       "analyticsTag": "kyc_complete_offer",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/06/complete_kyc_70_desktop.png",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/06/Frame-6668-1.png",
       "redirectURL": "https://devnet.delta.exchange/app/account/identityVerification",
       "openInNewTab": true,
       "showWhenLogin":"postLogin"
@@ -65,7 +65,7 @@
     {
       "type": "kyc_complete",
       "analyticsTag": "kyc_complete_offer",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/06/complete_kyc_70_mobile.png",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/06/Frame-6675-1.png",
       "redirectURL": "https://devnet.delta.exchange/app/account/identityVerification",
       "openInNewTab": true,
       "showWhenLogin":"postLogin"
