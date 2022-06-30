@@ -1,5 +1,11 @@
 [
   
+                    {
+      "id":135,
+      "text":"<div class='details'> <b> 🛠️🚧 We will be performing a scheduled maintenace on <b> Thursday, 30th June 2022 </b> from 5:00 PM UTC to 5:30 PM UTC. Trading in all markets will be paused during the maintenance.<span class='notif-time'> 30th June, 10:00 AM UTC </span></div>",
+      "type":"system"
+   },
+  
              {
       "id":134,
       "text":"<div class='details'> <b> 📢 <span style= 'color : #55B987'> Delta Welcomes Tron USDT to the Platform 😍 </span></b> <br/> You can use Tron USDT (TRC-20) to deposit USDT to Delta Exchange. <br/> <a target='_blank' href='https://www.delta.exchange/app/account/deposit/USDT'> Deposit Now </a>  <span class='notif-time'>30th Jund, 7:56 AM UTC</span></div>",
