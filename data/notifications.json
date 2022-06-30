@@ -1,5 +1,11 @@
 [
   
+             {
+      "id":134,
+      "text":"<div class='details'> <b> 📢 <span style= 'color : #55B987'> Delta Welcomes Tron USDT to the Platform 😍 </span></b> <br/> You can use Tron USDT (TRC-20) to deposit USDT to Delta Exchange. <a target='_blank' href='https://www.delta.exchange/app/account/deposit/USDT'> Deposit Now </a>  <span class='notif-time'>30th Jund, 7:56 AM UTC</span></div>",
+      "type":"announcement"
+   },    
+  
                          {
       "id":133,
       "text":"<div class='details'> 📢 We have reduced the initial margin requirement for short dated (D1 and D2) BTC options to 2%, i.e. max allowed leverage is now 50x <span class='notif-time'> 20th June, 7:10 PM UTC </span></div>",
