@@ -1,5 +1,11 @@
 [
   
+                      {
+      "id":136,
+      "text":"<div class='details'> <b> 📢 Today's scheduled maintenance has been cancelled. <br/>All markets will function normally and <b>trading will not be paused.</b> <span class='notif-time'> 30th June, 3:00 PM UTC </span></div>",
+      "type":"system"
+   },
+  
                     {
       "id":135,
       "text":"<div class='details'> <b> 🛠️🚧 We will be performing a scheduled maintenace on <b> Thursday, 30th June 2022 </b> from 5:00 PM UTC to 5:30 PM UTC. Trading in all markets will be paused during the maintenance.<span class='notif-time'> 30th June, 10:00 AM UTC </span></div>",
