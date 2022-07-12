@@ -1,16 +1,12 @@
 {
   "desktop": [
     {
-      "type": "offerTimeline",
-      "analyticsTag": "Offer Timeline"
-    },
-    {
       "type": "kyc_complete",
       "analyticsTag": "kyc_complete_offer",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/06/Frame-6668-1.png",
-      "redirectURL": "https://beta.delta.exchange/app/account/identityVerification",
+      "redirectURL": "https://www.beta.delta.exchange/app/account/identityVerification",
       "openInNewTab": true,
-      "showWhenLogin":"postLogin"
+      "showWhenLogin": "postLogin"
     },
     {
       "type": "raf",
@@ -18,15 +14,14 @@
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/06/IMG_20220608_202415_723.jpg",
       "redirectURL": "https://www.delta.exchange/referral-program/",
       "openInNewTab": true
-    },  
-            {
+    },
+    {
       "type": "fgc",
       "analyticsTag": "FGC",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/05/50k_8.jpg",
       "redirectURL": "https://www.delta.exchange/app/futures_grand_challenge",
       "openInNewTab": true
     },
- 
     {
       "type": "topOptions",
       "analyticsTag": "Top Options"
@@ -34,16 +29,12 @@
   ],
   "mobile": [
     {
-      "type": "offerTimeline",
-      "analyticsTag": "Offer Timeline"
-    },
-    {
       "type": "kyc_complete",
       "analyticsTag": "kyc_complete_offer",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/06/Frame-6675-1.png",
-      "redirectURL": "https://beta.delta.exchange/app/account/identityVerification",
+      "imageURL": "https://www.beta.delta.exchange/wp-content/uploads/2022/06/Frame-6675-1.png",
+      "redirectURL": "https://www.beta.delta.exchange/app/account/identityVerification",
       "openInNewTab": true,
-      "showWhenLogin":"postLogin"
+      "showWhenLogin": "postLogin"
     },
     {
       "type": "fgc",
@@ -56,7 +47,7 @@
       "type": "topOptions",
       "analyticsTag": "Top Options"
     },
-        {
+    {
       "type": "raf",
       "analyticsTag": "RAF",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6596.png",
