@@ -1,5 +1,12 @@
 {
   "desktop": [
+                {
+      "type": "Deposit_Fortune_Offer",
+      "analyticsTag": "DFO",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/08/IMG_20220728_190822_988.png",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true
+    },
         {
       "type": "Options",
       "analyticsTag": "Options_Fee",
@@ -20,19 +27,19 @@
       "openInNewTab": true,
       "showWhenLogin": "postLogin"
     },
-            {
-      "type": "raf",
-      "analyticsTag": "RAF",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/06/IMG_20220608_202415_723.jpg",
-      "redirectURL": "https://www.delta.exchange/referral-program/",
-      "openInNewTab": true
-    },
     {
       "type": "topOptions",
       "analyticsTag": "Top Options"
     }
   ],
   "mobile": [
+    {
+      "type": "Deposit_Fortune_Offer",
+      "analyticsTag": "DFO",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/08/Depositor-Fortune-offer-min.png",
+      "redirectURL": "https://www.delta.exchange/referral-program/",
+      "openInNewTab": true
+    },
         {
       "type": "Options",
       "analyticsTag": "Options_Fee",
@@ -55,13 +62,6 @@
     {
       "type": "topOptions",
       "analyticsTag": "Top Options"
-    },
-    {
-      "type": "raf",
-      "analyticsTag": "RAF",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/03/Frame-6596.png",
-      "redirectURL": "https://www.delta.exchange/referral-program/",
-      "openInNewTab": true
     }
   ]
 }
