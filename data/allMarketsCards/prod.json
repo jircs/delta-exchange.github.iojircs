@@ -1,5 +1,12 @@
 {
   "desktop": [
+                    {
+      "type": "Buy_Crypto",
+      "analyticsTag": "Buy Crypto",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/08/Frame-6697.png",
+      "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
+      "openInNewTab": true
+    },
                 {
       "type": "Deposit_Fortune_Offer",
       "analyticsTag": "DFO",
@@ -33,6 +40,14 @@
     }
   ],
   "mobile": [
+     
+    {
+      "type": "Buy_Crypto",
+      "analyticsTag": "Buy Crypto",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/08/Frame-6696.png",
+      "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
+      "openInNewTab": true
+    },
     {
       "type": "Deposit_Fortune_Offer",
       "analyticsTag": "DFO",
