@@ -1,5 +1,12 @@
 {
   "desktop": [
+                        {
+      "type": "Easy_Options",
+      "analyticsTag": "Easy Options",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/09/Frame-6702.png",
+      "redirectURL": "https://www.delta.exchange/app/easy_options/trade",
+      "openInNewTab": true
+    },
                     {
       "type": "Buy_Crypto",
       "analyticsTag": "Buy Crypto",
