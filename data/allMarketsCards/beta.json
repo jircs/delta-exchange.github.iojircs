@@ -1,27 +1,26 @@
 {
   "desktop": [
-                        {
+    {
       "type": "Easy_Options",
       "analyticsTag": "Easy Options",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/09/Frame-6702.png",
       "redirectURL": "https://www.delta.exchange/app/easy_options/trade",
       "openInNewTab": true
     },
-                    {
+    {
       "type": "Buy_Crypto",
       "analyticsTag": "Buy Crypto",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/08/Frame-6697.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
       "openInNewTab": true
     },
-        {
+    {
       "type": "Options",
       "analyticsTag": "Options_Fee",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/07/Frame-6689.png",
       "redirectURL": "https://www.delta.exchange/app/options_chain/trade/BTC/C-BTC-23800-290722",
       "openInNewTab": true
     },
-
     {
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
@@ -33,14 +32,9 @@
       "redirectURL": "https://www.delta.exchange/app/account/identityVerification",
       "openInNewTab": true,
       "showWhenLogin": "postLogin"
-    },
-    {
-      "type": "topOptions",
-      "analyticsTag": "Top Options"
     }
   ],
   "mobile": [
-     
     {
       "type": "Buy_Crypto",
       "analyticsTag": "Buy Crypto",
@@ -48,7 +42,7 @@
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
       "openInNewTab": true
     },
-        {
+    {
       "type": "Options",
       "analyticsTag": "Options_Fee",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/07/Frame-6694.png",
@@ -66,10 +60,6 @@
       "redirectURL": "https://www.delta.exchange/app/account/identityVerification",
       "openInNewTab": true,
       "showWhenLogin": "postLogin"
-    },
-    {
-      "type": "topOptions",
-      "analyticsTag": "Top Options"
     }
   ]
 }
