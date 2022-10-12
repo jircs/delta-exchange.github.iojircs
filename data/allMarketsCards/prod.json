@@ -1,5 +1,12 @@
 {
   "desktop": [
+        {
+      "type": "OTB",
+      "analyticsTag": "OTB",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/OTB_Desktop.jpg",
+      "redirectURL": "https://www.delta.exchange/blog/1000-options-trading-bonus",
+      "openInNewTab": true
+    },
     {
       "type": "Easy_Options",
       "analyticsTag": "Easy Options",
@@ -35,6 +42,13 @@
     }
   ],
   "mobile": [
+            {
+      "type": "OTB",
+      "analyticsTag": "OTB",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/OTB_Mobile.jpg",
+      "redirectURL": "https://www.delta.exchange/blog/1000-options-trading-bonus",
+      "openInNewTab": true
+    },
     {
       "type": "Buy_Crypto",
       "analyticsTag": "Buy Crypto",
