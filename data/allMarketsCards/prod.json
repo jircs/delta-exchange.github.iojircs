@@ -1,5 +1,12 @@
 {
   "desktop": [
+            {
+      "type": "30K",
+      "analyticsTag": "30K_Bonus",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/08/hp_30000_dbo.png",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true
+    },
         {
       "type": "OTB",
       "analyticsTag": "OTB",
