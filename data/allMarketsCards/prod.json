@@ -1,17 +1,10 @@
 {
   "desktop": [
-            {
+    {
       "type": "30K",
       "analyticsTag": "30K_Bonus",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/08/hp_30000_dbo.png",
       "redirectURL": "https://www.delta.exchange/offers",
-      "openInNewTab": true
-    },
-        {
-      "type": "OTB",
-      "analyticsTag": "OTB",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/OTB_Desktop.jpg",
-      "redirectURL": "https://www.delta.exchange/blog/1000-options-trading-bonus",
       "openInNewTab": true
     },
     {
@@ -49,18 +42,11 @@
     }
   ],
   "mobile": [
-           {
+    {
       "type": "30K",
       "analyticsTag": "30K_Bonus",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/08/hp_30000_dbo.png",
       "redirectURL": "https://www.delta.exchange/offers",
-      "openInNewTab": true
-    },
-            {
-      "type": "OTB",
-      "analyticsTag": "OTB",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/OTB_Mobile.jpg",
-      "redirectURL": "https://www.delta.exchange/blog/1000-options-trading-bonus",
       "openInNewTab": true
     },
     {
