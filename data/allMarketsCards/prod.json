@@ -7,6 +7,13 @@
       "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true
     },
+        {
+      "type": "RAF",
+      "analyticsTag": "RAF_Bonus",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/raf-Web-300x180-1.jpg",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true
+    },
     {
       "type": "Easy_Options",
       "analyticsTag": "Easy Options",
@@ -46,6 +53,13 @@
       "type": "30K",
       "analyticsTag": "30K_Bonus",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/08/hp_30000_dbo.png",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true
+    },
+            {
+      "type": "RAF",
+      "analyticsTag": "RAF_Bonus",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/raf-Mobile-600x200-1.jpg",
       "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true
     },
