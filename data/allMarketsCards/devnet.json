@@ -2,7 +2,7 @@
   "desktop": [
     {
       "type": "Buy_Crypto",
-      "analyticsTag": "Buy Crypto",
+      "analyticsTag": "Buy Crypto - Onmeta",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/11/image-14.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
       "openInNewTab": true
@@ -51,8 +51,8 @@
   "mobile": [
     {
       "type": "Buy_Crypto",
-      "analyticsTag": "Buy Crypto",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/11/mobile.png",
+      "analyticsTag": "Buy Crypto - Onmeta",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/11/buy-crypto-mobile.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
       "openInNewTab": true
     },
