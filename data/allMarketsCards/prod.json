@@ -1,6 +1,11 @@
 {
   "desktop": [
     {
+      "type": "offerTimeline",
+      "analyticsTag": "Offer Timeline",
+      "showWhenLogin": "preLogin"
+    },
+    {
       "type": "Buy_Crypto",
       "analyticsTag": "Buy Crypto - Onmeta",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/11/image-14.png",
@@ -37,7 +42,8 @@
     },
     {
       "type": "offerTimeline",
-      "analyticsTag": "Offer Timeline"
+      "analyticsTag": "Offer Timeline",
+      "showWhenLogin": "postLogin"
     },
     {
       "type": "kyc_complete",
@@ -49,6 +55,11 @@
     }
   ],
   "mobile": [
+    {
+      "type": "offerTimeline",
+      "analyticsTag": "Offer Timeline",
+      "showWhenLogin": "preLogin"
+    },
     {
       "type": "Buy_Crypto",
       "analyticsTag": "Buy Crypto - Onmeta",
@@ -79,7 +90,8 @@
     },
     {
       "type": "offerTimeline",
-      "analyticsTag": "Offer Timeline"
+      "analyticsTag": "Offer Timeline",
+      "showWhenLogin": "postLogin"
     },
     {
       "type": "kyc_complete",
