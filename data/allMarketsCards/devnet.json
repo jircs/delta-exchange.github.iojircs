@@ -6,7 +6,9 @@
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/11/image-14.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
       "openInNewTab": true,
-      "countries": ["India"]
+      "countries": [
+        "India"
+      ]
     },
     {
       "type": "30K",
@@ -14,7 +16,9 @@
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/08/hp_30000_dbo.png",
       "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true,
-      "countries": ["!India"]
+      "countries": [
+        "!India"
+      ]
     },
     {
       "type": "RAF",
@@ -22,7 +26,9 @@
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/raf-Web-300x180-1.jpg",
       "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true,
-      "countries": ["Bangladesh"]
+      "countries": [
+        "Bangladesh"
+      ]
     },
     {
       "type": "Easy_Options",
@@ -57,21 +63,30 @@
       "analyticsTag": "Buy Crypto - Onmeta",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/11/buy-crypto-mobile.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "countries": [
+        "India"
+      ]
     },
     {
       "type": "30K",
       "analyticsTag": "30K_Bonus",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/08/hp_30000_dbo.png",
       "redirectURL": "https://www.delta.exchange/offers",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "countries": [
+        "!India"
+      ]
     },
     {
       "type": "RAF",
       "analyticsTag": "RAF_Bonus",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/raf-Mobile-600x200-1.jpg",
       "redirectURL": "https://www.delta.exchange/offers",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "countries": [
+        "Bangladesh"
+      ]
     },
     {
       "type": "Options",
