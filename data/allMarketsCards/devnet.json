@@ -7,7 +7,7 @@
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
       "openInNewTab": true,
       "countries": [
-        "!India"
+        "!India","India"
       ]
     },
     {
