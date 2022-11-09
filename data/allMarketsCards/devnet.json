@@ -7,7 +7,7 @@
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
       "openInNewTab": true,
       "countries": [
-        "India"
+        "!India"
       ]
     },
     {
@@ -17,7 +17,7 @@
       "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true,
       "countries": [
-        "!India"
+        "India"
       ]
     },
     {
@@ -27,7 +27,7 @@
       "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true,
       "countries": [
-        "Bangladesh"
+        "India"
       ]
     },
     {
@@ -65,7 +65,7 @@
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
       "openInNewTab": true,
       "countries": [
-        "India"
+        "!India"
       ]
     },
     {
@@ -75,7 +75,7 @@
       "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true,
       "countries": [
-        "!India"
+        "India"
       ]
     },
     {
@@ -85,7 +85,7 @@
       "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true,
       "countries": [
-        "Bangladesh"
+        "India"
       ]
     },
     {
