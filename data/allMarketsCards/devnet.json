@@ -5,10 +5,7 @@
       "analyticsTag": "Buy Crypto - Onmeta",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/11/image-14.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
-      "openInNewTab": true,
-      "countries": [
-        "!India","India"
-      ]
+      "openInNewTab": true
     },
     {
       "type": "30K",
