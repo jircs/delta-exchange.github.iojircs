@@ -10,7 +10,10 @@
       "analyticsTag": "Buy Crypto - Onmeta",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/11/image-14.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "countries": [
+        "India"
+      ]
     },
     {
       "type": "30K",
@@ -65,7 +68,10 @@
       "analyticsTag": "Buy Crypto - Onmeta",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/11/buy-crypto-mobile.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "countries": [
+        "India"
+      ]
     },
     {
       "type": "30K",
