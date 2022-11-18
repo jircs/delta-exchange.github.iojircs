@@ -13,13 +13,6 @@
       "openInNewTab": true
     },
     {
-      "type": "30K",
-      "analyticsTag": "30K_Bonus",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/08/hp_30000_dbo.png",
-      "redirectURL": "https://www.delta.exchange/offers",
-      "openInNewTab": true
-    },
-    {
       "type": "RAF",
       "analyticsTag": "RAF_Bonus",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/raf-Web-300x180-1.jpg",
@@ -65,13 +58,6 @@
       "analyticsTag": "Buy Crypto - Onmeta",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/11/buy-crypto-mobile.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
-      "openInNewTab": true
-    },
-    {
-      "type": "30K",
-      "analyticsTag": "30K_Bonus",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/08/hp_30000_dbo.png",
-      "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true
     },
     {
