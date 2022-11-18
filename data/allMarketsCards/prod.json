@@ -10,16 +10,6 @@
       "analyticsTag": "Buy Crypto - Onmeta",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/11/image-14.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
-      "openInNewTab": true,
-      "countries": [
-        "India"
-      ]
-    },
-    {
-      "type": "30K",
-      "analyticsTag": "30K_Bonus",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/08/hp_30000_dbo.png",
-      "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true
     },
     {
@@ -68,16 +58,6 @@
       "analyticsTag": "Buy Crypto - Onmeta",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/11/buy-crypto-mobile.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
-      "openInNewTab": true,
-      "countries": [
-        "India"
-      ]
-    },
-    {
-      "type": "30K",
-      "analyticsTag": "30K_Bonus",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/08/hp_30000_dbo.png",
-      "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true
     },
     {
