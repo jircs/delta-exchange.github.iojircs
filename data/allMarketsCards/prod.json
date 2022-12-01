@@ -7,6 +7,13 @@
     },
     {
       "type": "Buy_Crypto",
+      "analyticsTag": "Buy Crypto - USDT",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/12/aplyne-web.png",
+      "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
+      "openInNewTab": true
+    },
+    {
+      "type": "Buy_Crypto",
       "analyticsTag": "Buy Crypto - Onmeta",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/11/image-14.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
@@ -52,6 +59,13 @@
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline",
       "showWhenLogin": "preLogin"
+    },
+    {
+      "type": "Buy_Crypto",
+      "analyticsTag": "Buy Crypto - USDT",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/12/alpyne-mobile.png",
+      "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
+      "openInNewTab": true
     },
     {
       "type": "Buy_Crypto",
