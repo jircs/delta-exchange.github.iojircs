@@ -2,10 +2,13 @@
   "desktop": [
     {
       "type": "Buy_Crypto",
-      "analyticsTag": "Buy Crypto - Onmeta",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/11/image-14.png",
-      "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
-      "openInNewTab": true
+      "analyticsTag": "Buy Crypto - Alpyne",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/12/aplyne-web.png",
+      "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
+      "openInNewTab": true,
+      "countries": [
+        "!India"
+      ]
     },
     {
       "type": "30K",
@@ -57,9 +60,9 @@
   "mobile": [
     {
       "type": "Buy_Crypto",
-      "analyticsTag": "Buy Crypto - Onmeta",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/11/buy-crypto-mobile.png",
-      "redirectURL": "https://www.delta.exchange/app/account/buy_crypto",
+      "analyticsTag": "Buy Crypto - Alpyne",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/12/alpyne-mobile.png",
+      "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
       "openInNewTab": true,
       "countries": [
         "!India"
