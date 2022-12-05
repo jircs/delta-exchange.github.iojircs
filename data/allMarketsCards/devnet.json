@@ -1,6 +1,10 @@
 {
   "desktop": [
     {
+      "type": "offerTimeline",
+      "analyticsTag": "Offer Timeline"
+    },
+    {
       "type": "Buy_Crypto",
       "analyticsTag": "Buy Crypto - Alpyne",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/12/aplyne-web.png",
@@ -43,10 +47,6 @@
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/07/Frame-6689.png",
       "redirectURL": "https://www.delta.exchange/app/options_chain/trade/BTC/C-BTC-23800-290722",
       "openInNewTab": true
-    },
-    {
-      "type": "offerTimeline",
-      "analyticsTag": "Offer Timeline"
     },
     {
       "type": "kyc_complete",
