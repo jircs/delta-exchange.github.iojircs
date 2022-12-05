@@ -2,7 +2,8 @@
   "desktop": [
     {
       "type": "offerTimeline",
-      "analyticsTag": "Offer Timeline"
+      "analyticsTag": "Offer Timeline",
+      "showWhenLogin": "preLogin"
     },
     {
       "type": "Buy_Crypto",
@@ -36,6 +37,11 @@
       "openInNewTab": true
     },
     {
+      "type": "offerTimeline",
+      "analyticsTag": "Offer Timeline",
+      "showWhenLogin": "postLogin"
+    },
+    {
       "type": "kyc_complete",
       "analyticsTag": "kyc_complete_offer",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/06/Frame-6668-1.png",
@@ -47,7 +53,8 @@
   "mobile": [
     {
       "type": "offerTimeline",
-      "analyticsTag": "Offer Timeline"
+      "analyticsTag": "Offer Timeline",
+      "showWhenLogin": "preLogin"
     },
     {
       "type": "Buy_Crypto",
@@ -72,6 +79,11 @@
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/07/Frame-6694.png",
       "redirectURL": "https://www.delta.exchange/app/options_chain/trade/BTC/C-BTC-23800-290722",
       "openInNewTab": true
+    },
+    {
+      "type": "offerTimeline",
+      "analyticsTag": "Offer Timeline",
+      "showWhenLogin": "postLogin"
     },
     {
       "type": "kyc_complete",
