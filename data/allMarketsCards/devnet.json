@@ -73,6 +73,13 @@
       ]
     },
     {
+      "type": "Options_Analytics",
+      "analyticsTag": "Options Analytics",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2023/01/options-analytics-dashboard-mobile.png",
+      "redirectURL": "https://www.delta.exchange/app/options_analytics",
+      "openInNewTab": true
+    },
+    {
       "type": "30K",
       "analyticsTag": "30K_Bonus",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/08/hp_30000_dbo.png",

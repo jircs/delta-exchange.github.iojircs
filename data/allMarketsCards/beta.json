@@ -60,6 +60,13 @@
       ]
     },
     {
+      "type": "Options_Analytics",
+      "analyticsTag": "Options Analytics",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2023/01/options-analytics-dashboard-mobile.png",
+      "redirectURL": "https://www.delta.exchange/app/options_analytics",
+      "openInNewTab": true
+    },
+    {
       "type": "RAF",
       "analyticsTag": "RAF_Bonus",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/raf-Mobile-600x200-1.jpg",
