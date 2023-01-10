@@ -5,6 +5,13 @@
       "analyticsTag": "Offer Timeline"
     },
     {
+      "type": "Options Leaderboard",
+      "analyticsTag": "Options Leaderboard",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2023/01/Web.png",
+      "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
+      "openInNewTab": true
+    },
+    {
       "type": "Buy_Crypto",
       "analyticsTag": "Buy Crypto - Alpyne",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/12/aplyne-web.png",
@@ -61,6 +68,13 @@
     {
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
+    },
+    {
+      "type": "Options Leaderboard",
+      "analyticsTag": "Options Leaderboard",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2023/01/Mobile.png",
+      "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
+      "openInNewTab": true
     },
     {
       "type": "Options_Analytics",
