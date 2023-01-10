@@ -24,9 +24,7 @@
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/12/aplyne-web.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
       "openInNewTab": true,
-      "countries": [
-        "India"
-      ]
+      "countries": ["India"]
     },
     {
       "type": "RAF",
@@ -76,9 +74,7 @@
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/12/alpyne-mobile.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
       "openInNewTab": true,
-      "countries": [
-        "India"
-      ]
+      "countries": ["India"]
     },
     {
       "type": "RAF",
