@@ -12,20 +12,17 @@
       "openInNewTab": true
     },
     {
+      "type": "Options_Analytics",
+      "analyticsTag": "Options Analytics",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2023/01/options-analytics-dashboard-desktop.png",
+      "redirectURL": "https://www.delta.exchange/app/options_analytics",
+      "openInNewTab": true
+    },
+    {
       "type": "Buy_Crypto",
       "analyticsTag": "Buy Crypto - Alpyne",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/12/aplyne-web.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
-      "openInNewTab": true,
-      "countries": [
-        "India"
-      ]
-    },
-    {
-      "type": "30K",
-      "analyticsTag": "30K_Bonus",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/08/hp_30000_dbo.png",
-      "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true,
       "countries": [
         "India"
@@ -42,11 +39,14 @@
       ]
     },
     {
-      "type": "Options_Analytics",
-      "analyticsTag": "Options Analytics",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2023/01/options-analytics-dashboard-desktop.png",
-      "redirectURL": "https://www.delta.exchange/app/options_analytics",
-      "openInNewTab": true
+      "type": "30K",
+      "analyticsTag": "30K_Bonus",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/08/hp_30000_dbo.png",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true,
+      "countries": [
+        "India"
+      ]
     },
     {
       "type": "Options",
@@ -94,9 +94,9 @@
       ]
     },
     {
-      "type": "30K",
-      "analyticsTag": "30K_Bonus",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/08/hp_30000_dbo.png",
+      "type": "RAF",
+      "analyticsTag": "RAF_Bonus",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/raf-Mobile-600x200-1.jpg",
       "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true,
       "countries": [
@@ -104,9 +104,9 @@
       ]
     },
     {
-      "type": "RAF",
-      "analyticsTag": "RAF_Bonus",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/raf-Mobile-600x200-1.jpg",
+      "type": "30K",
+      "analyticsTag": "30K_Bonus",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2021/08/hp_30000_dbo.png",
       "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true,
       "countries": [
