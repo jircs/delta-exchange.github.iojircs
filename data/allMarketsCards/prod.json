@@ -5,20 +5,10 @@
       "analyticsTag": "Offer Timeline"
     },
     {
-      "type": "Buy_Crypto",
-      "analyticsTag": "Buy Crypto - Alpyne",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/12/aplyne-web.png",
-      "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
-      "openInNewTab": true,
-      "countries": [
-        "India"
-      ]
-    },
-    {
-      "type": "RAF",
-      "analyticsTag": "RAF_Bonus",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/raf-Web-300x180-1.jpg",
-      "redirectURL": "https://www.delta.exchange/offers",
+      "type": "Options Leaderboard",
+      "analyticsTag": "Options Leaderboard",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2023/01/Mobile.png",
+      "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
       "openInNewTab": true
     },
     {
@@ -26,6 +16,21 @@
       "analyticsTag": "Options Analytics",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2023/01/options-analytics-dashboard-desktop.png",
       "redirectURL": "https://www.delta.exchange/app/options_analytics",
+      "openInNewTab": true
+    },
+    {
+      "type": "Buy_Crypto",
+      "analyticsTag": "Buy Crypto - Alpyne",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/12/aplyne-web.png",
+      "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
+      "openInNewTab": true,
+      "countries": ["India"]
+    },
+    {
+      "type": "RAF",
+      "analyticsTag": "RAF_Bonus",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/raf-Web-300x180-1.jpg",
+      "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true
     },
     {
@@ -50,6 +55,13 @@
       "analyticsTag": "Offer Timeline"
     },
     {
+      "type": "Options Leaderboard",
+      "analyticsTag": "Options Leaderboard",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2023/01/Mobile.png",
+      "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
+      "openInNewTab": true
+    },
+    {
       "type": "Options_Analytics",
       "analyticsTag": "Options Analytics",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2023/01/options-analytics-dashboard-mobile.png",
@@ -62,9 +74,7 @@
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/12/alpyne-mobile.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
       "openInNewTab": true,
-      "countries": [
-        "India"
-      ]
+      "countries": ["India"]
     },
     {
       "type": "RAF",
