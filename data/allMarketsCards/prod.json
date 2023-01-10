@@ -5,6 +5,20 @@
       "analyticsTag": "Offer Timeline"
     },
     {
+      "type": "Options Leaderboard",
+      "analyticsTag": "Options Leaderboard",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2023/01/Mobile.png",
+      "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
+      "openInNewTab": true
+    },
+    {
+      "type": "Options_Analytics",
+      "analyticsTag": "Options Analytics",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2023/01/options-analytics-dashboard-desktop.png",
+      "redirectURL": "https://www.delta.exchange/app/options_analytics",
+      "openInNewTab": true
+    },
+    {
       "type": "Buy_Crypto",
       "analyticsTag": "Buy Crypto - Alpyne",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/12/aplyne-web.png",
@@ -19,13 +33,6 @@
       "analyticsTag": "RAF_Bonus",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/raf-Web-300x180-1.jpg",
       "redirectURL": "https://www.delta.exchange/offers",
-      "openInNewTab": true
-    },
-    {
-      "type": "Options_Analytics",
-      "analyticsTag": "Options Analytics",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2023/01/options-analytics-dashboard-desktop.png",
-      "redirectURL": "https://www.delta.exchange/app/options_analytics",
       "openInNewTab": true
     },
     {
@@ -48,6 +55,13 @@
     {
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
+    },
+    {
+      "type": "Options Leaderboard",
+      "analyticsTag": "Options Leaderboard",
+      "imageURL": "https://www.delta.exchange/wp-content/uploads/2023/01/Mobile.png",
+      "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
+      "openInNewTab": true
     },
     {
       "type": "Options_Analytics",
