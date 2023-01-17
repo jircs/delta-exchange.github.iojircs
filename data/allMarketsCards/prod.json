@@ -34,13 +34,6 @@
       "openInNewTab": true
     },
     {
-      "type": "Options",
-      "analyticsTag": "Options_Fee",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/07/Frame-6689.png",
-      "redirectURL": "https://www.delta.exchange/app/options_chain/trade/BTC/C-BTC-23800-290722",
-      "openInNewTab": true
-    },
-    {
       "type": "kyc_complete",
       "analyticsTag": "kyc_complete_offer",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/06/Frame-6668-1.png",
@@ -81,13 +74,6 @@
       "analyticsTag": "RAF_Bonus",
       "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/raf-Mobile-600x200-1.jpg",
       "redirectURL": "https://www.delta.exchange/offers",
-      "openInNewTab": true
-    },
-    {
-      "type": "Options",
-      "analyticsTag": "Options_Fee",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/07/Frame-6694.png",
-      "redirectURL": "https://www.delta.exchange/app/options_chain/trade/BTC/C-BTC-23800-290722",
       "openInNewTab": true
     },
     {
