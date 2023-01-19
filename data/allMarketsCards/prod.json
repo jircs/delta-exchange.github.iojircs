@@ -21,7 +21,7 @@
     {
       "type": "Buy_Crypto",
       "analyticsTag": "Buy Crypto - Alpyne",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/Mobile.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/Web-2.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
       "openInNewTab": true,
       "countries": ["India"]
