@@ -21,7 +21,7 @@
     {
       "type": "Buy_Crypto",
       "analyticsTag": "Buy Crypto - Alpyne",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/12/aplyne-web.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/Mobile.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
       "openInNewTab": true,
       "countries": ["India"]
@@ -29,14 +29,14 @@
     {
       "type": "RAF",
       "analyticsTag": "RAF_Bonus",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/raf-Web-300x180-1.jpg",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2022/10/raf-Web-300x180-1.jpg",
       "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true
     },
     {
       "type": "kyc_complete",
       "analyticsTag": "kyc_complete_offer",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/06/Frame-6668-1.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2022/06/Frame-6668-1.png",
       "redirectURL": "https://www.delta.exchange/app/account/identityVerification",
       "openInNewTab": true,
       "showWhenLogin": "postLogin"
@@ -50,14 +50,14 @@
     {
       "type": "Options Leaderboard",
       "analyticsTag": "Options Leaderboard",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2023/01/Mobile.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/Web.png",
       "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
       "openInNewTab": true
     },
     {
       "type": "Options_Analytics",
       "analyticsTag": "Options Analytics",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2023/01/options-analytics-dashboard-mobile.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/Web-1.png",
       "redirectURL": "https://www.delta.exchange/app/options_analytics",
       "openInNewTab": true
     },
@@ -72,14 +72,14 @@
     {
       "type": "RAF",
       "analyticsTag": "RAF_Bonus",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/10/raf-Mobile-600x200-1.jpg",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2022/10/raf-Mobile-600x200-1.jpg",
       "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true
     },
     {
       "type": "kyc_complete",
       "analyticsTag": "kyc_complete_offer",
-      "imageURL": "https://www.delta.exchange/wp-content/uploads/2022/06/Frame-6675-1.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2022/06/Frame-6675-1.png",
       "redirectURL": "https://www.delta.exchange/app/account/identityVerification",
       "openInNewTab": true,
       "showWhenLogin": "postLogin"
