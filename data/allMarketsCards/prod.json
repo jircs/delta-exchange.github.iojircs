@@ -57,7 +57,7 @@
     {
       "type": "Options_Analytics",
       "analyticsTag": "Options Analytics",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/Web-1.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/Mobile-1.png",
       "redirectURL": "https://www.delta.exchange/app/options_analytics",
       "openInNewTab": true
     },
