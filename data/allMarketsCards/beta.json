@@ -4,6 +4,13 @@
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
     },
+     {
+      "type": "Flat 50 Cashback",
+      "analyticsTag": "50% cashback offer",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/50-Cashback-Web.png",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true
+    },
     {
       "type": "Options Leaderboard",
       "analyticsTag": "Options Leaderboard",
@@ -46,6 +53,13 @@
     {
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
+    },
+    {
+      "type": "Flat 50 Cashback",
+      "analyticsTag": "50% cashback offer",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/50-Cashback-Mobile.png",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true
     },
     {
       "type": "Options Leaderboard",
