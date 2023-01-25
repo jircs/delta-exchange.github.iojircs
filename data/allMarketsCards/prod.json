@@ -5,6 +5,13 @@
       "analyticsTag": "Offer Timeline"
     },
     {
+      "type": "Flat 50 Cashback",
+      "analyticsTag": "50% cashback offer",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/50-Cashback-Web.png",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true
+    },
+    {
       "type": "Options Leaderboard",
       "analyticsTag": "Options Leaderboard",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/Web.png",
@@ -24,7 +31,9 @@
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/Web-2.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
       "openInNewTab": true,
-      "countries": ["India"]
+      "countries": [
+        "India"
+      ]
     },
     {
       "type": "RAF",
@@ -48,6 +57,13 @@
       "analyticsTag": "Offer Timeline"
     },
     {
+      "type": "Flat 50 Cashback",
+      "analyticsTag": "50% cashback offer",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/50-Cashback-Mobile.png",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true
+    },
+    {
       "type": "Options Leaderboard",
       "analyticsTag": "Options Leaderboard",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/Mobile-1-1.png",
@@ -67,7 +83,9 @@
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/Mobile.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
       "openInNewTab": true,
-      "countries": ["India"]
+      "countries": [
+        "India"
+      ]
     },
     {
       "type": "RAF",
