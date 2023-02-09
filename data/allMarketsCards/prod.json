@@ -38,7 +38,7 @@
     {
       "type": "RAF",
       "analyticsTag": "RAF_Bonus",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2022/10/raf-Web-300x180-1.jpg",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/raf2_web.png",
       "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true
     },
@@ -90,7 +90,7 @@
     {
       "type": "RAF",
       "analyticsTag": "RAF_Bonus",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2022/10/raf-Mobile-600x200-1.jpg",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/raf2_mobile.png",
       "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true
     },
