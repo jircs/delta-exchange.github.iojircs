@@ -5,6 +5,13 @@
       "analyticsTag": "Offer Timeline"
     },
     {
+      "type": "Liquidation",
+      "analyticsTag": "Liquidation",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/Liquidation-Web.png",
+      "redirectURL": "https://www.delta.exchange/blog/liquidation-fee-reduced-by-33",
+      "openInNewTab": true
+    },
+    {
       "type": "Flat 50 Cashback",
       "analyticsTag": "50% cashback offer",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/50-Cashback-Web.png",
@@ -55,6 +62,13 @@
     {
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
+    },
+    {
+      "type": "Liquidation",
+      "analyticsTag": "Liquidation",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/Liquidation-Mobile.png",
+      "redirectURL": "https://www.delta.exchange/blog/liquidation-fee-reduced-by-33",
+      "openInNewTab": true
     },
     {
       "type": "Flat 50 Cashback",
