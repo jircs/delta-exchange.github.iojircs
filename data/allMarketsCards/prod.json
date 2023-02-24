@@ -7,7 +7,7 @@
     {
       "type": "Liquidation",
       "analyticsTag": "Liquidation",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/Liquidation-Web.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/Liq_Web1.png",
       "redirectURL": "https://www.delta.exchange/blog/liquidation-fee-reduced-by-33",
       "openInNewTab": true
     },
@@ -66,7 +66,7 @@
     {
       "type": "Liquidation",
       "analyticsTag": "Liquidation",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/Liquidation-Mobile.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/Liq_Mobile1.png",
       "redirectURL": "https://www.delta.exchange/blog/liquidation-fee-reduced-by-33",
       "openInNewTab": true
     },
