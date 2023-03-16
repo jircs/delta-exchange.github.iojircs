@@ -21,7 +21,7 @@
     {
       "type": "Options Leaderboard",
       "analyticsTag": "Options Leaderboard",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/Web.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/OptionLeaderBoardEvent_Desktop.png",
       "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
       "openInNewTab": true
     },
@@ -63,7 +63,7 @@
     {
       "type": "Options Leaderboard",
       "analyticsTag": "Options Leaderboard",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/Mobile-1-1.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/OptionLeaderBoardEvent_Mobile.png",
       "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
       "openInNewTab": true
     },
