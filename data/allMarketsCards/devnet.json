@@ -15,8 +15,6 @@
       "type": "Liquidation",
       "analyticsTag": "Liquidation",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/Liq_Web1.png",
-      "mediumImageURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dbitcoin%2Bbackground&psig=AOvVaw0sJlqPSg53c_6IaiQ8X9JJ&ust=1679043058403000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDdgvuI4P0CFQAAAAAdAAAAABAD",
-      "largeImageURL": "https://t4.ftcdn.net/jpg/04/37/63/29/360_F_437632901_kcjXoTRfkKcsjqNprRj8Nxo7671IfiDF.jpg",
       "redirectURL": "https://www.delta.exchange/blog/liquidation-fee-reduced-by-33",
       "openInNewTab": true
     },
@@ -59,6 +57,8 @@
       "type": "Liquidation",
       "analyticsTag": "Liquidation",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/Liq_Mobile1.png",
+      "mediumImageURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dbitcoin%2Bbackground&psig=AOvVaw0sJlqPSg53c_6IaiQ8X9JJ&ust=1679043058403000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDdgvuI4P0CFQAAAAAdAAAAABAD",
+      "largeImageURL": "https://t4.ftcdn.net/jpg/04/37/63/29/360_F_437632901_kcjXoTRfkKcsjqNprRj8Nxo7671IfiDF.jpg",
       "redirectURL": "https://www.delta.exchange/blog/liquidation-fee-reduced-by-33",
       "openInNewTab": true
     },
