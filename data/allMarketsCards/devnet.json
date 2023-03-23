@@ -5,7 +5,7 @@
       "analyticsTag": "Offer Timeline"
     },
     {
-      "type": "30DayMilestone",
+      "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone"
     },
     {
