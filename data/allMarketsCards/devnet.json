@@ -9,6 +9,13 @@
       "analyticsTag": "Offer Timeline"
     },
     {
+      "type": "7 Day Futures Challenge",
+      "analyticsTag": "7 Day Futures Challenge",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/7day_futures_Web.png",
+      "redirectURL": "ttps://www.delta.exchange/blog/7-day-futures-challenge",
+      "openInNewTab": true
+    },
+    {
       "type": "Scalper Carnival",
       "analyticsTag": "Scalper Carnival",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/Scalper-Carnival_Web.png",
@@ -53,6 +60,13 @@
     {
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
+    },
+    {
+      "type": "7 Day Futures Challenge",
+      "analyticsTag": "7 Day Futures Challenge",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/7day_futures_Mobile.png",
+      "redirectURL": "ttps://www.delta.exchange/blog/7-day-futures-challenge",
+      "openInNewTab": true
     },
     {
       "type": "Scalper Carnival",
