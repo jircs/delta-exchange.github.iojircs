@@ -23,16 +23,9 @@
       "openInNewTab": true
     },
     {
-      "type": "Liquidation",
-      "analyticsTag": "Liquidation",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/Liq_Web1.png",
-      "redirectURL": "https://www.delta.exchange/blog/liquidation-fee-reduced-by-33",
-      "openInNewTab": true
-    },
-    {
       "type": "Options Leaderboard",
       "analyticsTag": "Options Leaderboard",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/OptionLeaderBoardEvent_Desktop.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/LeaderBoardComingSoon_Desktop.png",
       "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
       "openInNewTab": true
     },
@@ -76,18 +69,9 @@
       "openInNewTab": true
     },
     {
-      "type": "Liquidation",
-      "analyticsTag": "Liquidation",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/Liq_Mobile1.png",
-      "mediumImageURL": "https://png.pngtree.com/thumb_back/fh260/background/20220523/pngtree-bitcoin-btc-crypto-currency-image_1400481.jpg",
-      "largeImageURL": "https://t4.ftcdn.net/jpg/04/37/63/29/360_F_437632901_kcjXoTRfkKcsjqNprRj8Nxo7671IfiDF.jpg",
-      "redirectURL": "https://www.delta.exchange/blog/liquidation-fee-reduced-by-33",
-      "openInNewTab": true
-    },
-    {
       "type": "Options Leaderboard",
       "analyticsTag": "Options Leaderboard",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/OptionLeaderBoardEvent_Mobile.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/LeadBoardComingSoon_Mobile.png",
       "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
       "openInNewTab": true
     },
