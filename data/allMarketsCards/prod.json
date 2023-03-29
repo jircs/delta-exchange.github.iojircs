@@ -1,6 +1,13 @@
 {
   "desktop": [
     {
+      "type": "Options Leaderboard",
+      "analyticsTag": "Options Leaderboard",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/OptionLeaderBoardEventUpdate_Desktop.png",
+      "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
+      "openInNewTab": true
+    },
+    {
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
     },
@@ -16,13 +23,6 @@
       "analyticsTag": "Scalper Carnival",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/Scalper-Carnival_Web.png",
       "redirectURL": "https://www.delta.exchange/blog/scalper-carnival",
-      "openInNewTab": true
-    },
-    {
-      "type": "Options Leaderboard",
-      "analyticsTag": "Options Leaderboard",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/OptionLeaderBoardEventUpdate_Desktop.png",
-      "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
       "openInNewTab": true
     },
     {
@@ -50,6 +50,13 @@
   ],
   "mobile": [
     {
+      "type": "Options Leaderboard",
+      "analyticsTag": "Options Leaderboard",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/OptionLeaderBoardEventUpdate_Mobile.png",
+      "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
+      "openInNewTab": true
+    },
+    {
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
     },
@@ -65,13 +72,6 @@
       "analyticsTag": "Scalper Carnival",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/Scalper-Carnival_mobile.png",
       "redirectURL": "https://www.delta.exchange/blog/scalper-carnival",
-      "openInNewTab": true
-    },
-    {
-      "type": "Options Leaderboard",
-      "analyticsTag": "Options Leaderboard",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/OptionLeaderBoardEventUpdate_Mobile.png",
-      "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
       "openInNewTab": true
     },
     {
