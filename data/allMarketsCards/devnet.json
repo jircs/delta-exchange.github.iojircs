@@ -64,7 +64,8 @@
       "analyticsTag": "Options Leaderboard",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/OptionLeaderBoardEventUpdate_Mobile.png",
       "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "theme": "light"
     },
     {
       "type": "offerTimeline",
@@ -75,7 +76,8 @@
       "analyticsTag": "7 Day Futures Challenge",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/7day_futures_Mobile.png",
       "redirectURL": "https://www.delta.exchange/blog/7-day-futures-challenge",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "theme": "dark"
     },
     {
       "type": "Scalper Carnival",
