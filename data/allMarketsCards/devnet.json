@@ -9,7 +9,8 @@
       "analyticsTag": "Options Leaderboard",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/OptionLeaderBoardEventUpdate_Desktop.png",
       "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "theme": "light"
     },
     {
       "type": "offerTimeline",
@@ -82,7 +83,6 @@
       "redirectURL": "https://www.delta.exchange/blog/scalper-carnival",
       "openInNewTab": true
     },
-
     {
       "type": "RAF",
       "analyticsTag": "RAF_Bonus",
