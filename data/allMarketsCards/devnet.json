@@ -21,7 +21,8 @@
       "analyticsTag": "7 Day Futures Challenge",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/7day_futures_Web.png",
       "redirectURL": "https://www.delta.exchange/blog/7-day-futures-challenge",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "theme": "dark"
     },
     {
       "type": "Scalper Carnival",
