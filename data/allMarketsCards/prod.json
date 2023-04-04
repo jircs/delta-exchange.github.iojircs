@@ -12,13 +12,6 @@
       "analyticsTag": "Offer Timeline"
     },
     {
-      "type": "7 Day Futures Challenge",
-      "analyticsTag": "7 Day Futures Challenge",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/7day_futures_Web.png",
-      "redirectURL": "https://www.delta.exchange/blog/7-day-futures-challenge",
-      "openInNewTab": true
-    },
-    {
       "type": "Scalper Carnival",
       "analyticsTag": "Scalper Carnival",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/Scalper-Carnival_Web.png",
@@ -30,13 +23,6 @@
       "analyticsTag": "RAF_Bonus",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/raf2_web_updated.png",
       "redirectURL": "https://www.delta.exchange/offers",
-      "openInNewTab": true
-    },
-    {
-      "type": "Liquidation",
-      "analyticsTag": "Liquidation",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/Liq_Web1.png",
-      "redirectURL": "https://www.delta.exchange/blog/liquidation-fee-reduced-by-33",
       "openInNewTab": true
     },
     {
@@ -61,13 +47,6 @@
       "analyticsTag": "Offer Timeline"
     },
     {
-      "type": "7 Day Futures Challenge",
-      "analyticsTag": "7 Day Futures Challenge",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/7day_futures_Mobile.png",
-      "redirectURL": "https://www.delta.exchange/blog/7-day-futures-challenge",
-      "openInNewTab": true
-    },
-    {
       "type": "Scalper Carnival",
       "analyticsTag": "Scalper Carnival",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/Scalper-Carnival_mobile.png",
@@ -79,13 +58,6 @@
       "analyticsTag": "RAF_Bonus",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/raf2_mobile_updated.png",
       "redirectURL": "https://www.delta.exchange/offers",
-      "openInNewTab": true
-    },
-    {
-      "type": "Liquidation",
-      "analyticsTag": "Liquidation",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/Liq_Mobile1.png",
-      "redirectURL": "https://www.delta.exchange/blog/liquidation-fee-reduced-by-33",
       "openInNewTab": true
     },
     {
