@@ -1,6 +1,10 @@
 {
   "desktop": [
     {
+      "type": "milestoneOffer",
+      "analyticsTag": "30 Day Milestone"
+    },
+    {
       "type": "Options Leaderboard",
       "analyticsTag": "Options Leaderboard",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/OptionLeaderBoardEventUpdate_Desktop.png",
@@ -35,6 +39,10 @@
     }
   ],
   "mobile": [
+    {
+      "type": "milestoneOffer",
+      "analyticsTag": "30 Day Milestone"
+    },
     {
       "type": "Options Leaderboard",
       "analyticsTag": "Options Leaderboard",

@@ -13,10 +13,6 @@
       "theme": "light"
     },
     {
-      "type": "offerTimeline",
-      "analyticsTag": "Offer Timeline"
-    },
-    {
       "type": "Scalper Carnival",
       "analyticsTag": "Scalper Carnival",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/Scalper-Carnival_Web.png",
@@ -51,10 +47,6 @@
       "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
       "openInNewTab": true,
       "theme": "light"
-    },
-    {
-      "type": "offerTimeline",
-      "analyticsTag": "Offer Timeline"
     },
     {
       "type": "Scalper Carnival",
