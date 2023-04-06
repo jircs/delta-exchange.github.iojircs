@@ -1,20 +1,20 @@
 {
   "desktop": [
     {
-      "type": "Options Leaderboard",
-      "analyticsTag": "Options Leaderboard",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/OptionLeaderBoardEventUpdate_Desktop.png",
-      "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
-      "openInNewTab": true
-    },
-    {
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
     },
     {
+      "type": "Scalper Carnival Futures",
+      "analyticsTag": "Scalper Futures",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper-Futures-CS.png",
+      "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
+      "openInNewTab": true
+    },
+    {
       "type": "Scalper Carnival",
       "analyticsTag": "Scalper Carnival",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/Scalper-Carnival_Web.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper-Options-Web.png",
       "redirectURL": "https://www.delta.exchange/blog/scalper-carnival",
       "openInNewTab": true
     },
@@ -43,20 +43,20 @@
   ],
   "mobile": [
     {
-      "type": "Options Leaderboard",
-      "analyticsTag": "Options Leaderboard",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/OptionLeaderBoardEventUpdate_Mobile.png",
-      "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
-      "openInNewTab": true
-    },
-    {
       "type": "offerTimeline",
       "analyticsTag": "Offer Timeline"
     },
     {
+      "type": "Scalper Carnival Futures",
+      "analyticsTag": "Scalper Futures",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper-Futures-CS.png",
+      "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
+      "openInNewTab": true
+    },
+    {
       "type": "Scalper Carnival",
       "analyticsTag": "Scalper Carnival",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/Scalper-Carnival_mobile.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper-Options-mobile-old.png",
       "redirectURL": "https://www.delta.exchange/blog/scalper-carnival",
       "openInNewTab": true
     },
