@@ -1,6 +1,6 @@
 {
   "desktop": [
-     {
+    {
       "type": "Leaderbord-Test",
       "analyticsTag": "Scalper Futures",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Leaderboard-Card.png",
@@ -25,7 +25,6 @@
       "redirectURL": "https://www.delta.exchange/blog/scalper-carnival",
       "openInNewTab": true
     },
-
     {
       "type": "RAF",
       "analyticsTag": "RAF_Bonus",
@@ -43,45 +42,53 @@
     }
   ],
   "mobile": [
-     {
-      "type": "Leaderbord-Test",
-      "analyticsTag": "Scalper Futures",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Leaderboard-Card.png",
-      "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
-      "openInNewTab": true
-    },
     {
-      "type": "milestoneOffer",
-      "analyticsTag": "30 Day Milestone"
-    },
-    {
-      "type": "Scalper Carnival Futures",
-      "analyticsTag": "Scalper Futures",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper-Futures-CS-Mobile.png",
-      "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
-      "openInNewTab": true
-    },
-    {
-      "type": "Scalper Carnival",
-      "analyticsTag": "Scalper Carnival",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper-Options-mobile-old.png",
-      "redirectURL": "https://www.delta.exchange/blog/scalper-carnival",
-      "openInNewTab": true
-    },
-    {
-      "type": "RAF",
+      "type": "RAF-Light",
       "analyticsTag": "RAF_Bonus",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/raf2_mobile_updated.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/RAF-Light.jpeg",
       "redirectURL": "https://www.delta.exchange/offers",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "theme": "light"
     },
     {
-      "type": "kyc_complete",
-      "analyticsTag": "kyc_complete_offer",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2022/06/Frame-6675-1.png",
-      "redirectURL": "https://www.delta.exchange/app/account/identityVerification",
+      "type": "RAF-Dark",
+      "analyticsTag": "RAF_Bonus",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/RAF-Dark-1.jpeg",
+      "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true,
-      "showWhenLogin": "postLogin"
+      "theme": "dark"
+    },
+    {
+      "type": "Scalper-Light",
+      "analyticsTag": "RAF_Bonus",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper-Green-Light.jpeg",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true,
+      "theme": "light"
+    },
+    {
+      "type": "Scalper-Dark",
+      "analyticsTag": "RAF_Bonus",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper-Green-Dark.jpeg",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true,
+      "theme": "dark"
+    },
+    {
+      "type": "Leaderboard-Light",
+      "analyticsTag": "RAF_Bonus",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Leaderboard-Light.jpeg",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true,
+      "theme": "light"
+    },
+    {
+      "type": "Leaderboard-Dark",
+      "analyticsTag": "RAF_Bonus",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Leaderboard-Dark.jpeg",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true,
+      "theme": "dark"
     }
   ]
 }
