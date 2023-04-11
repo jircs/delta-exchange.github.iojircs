@@ -43,6 +43,13 @@
     }
   ],
   "mobile": [
+     {
+      "type": "Leaderbord-Test",
+      "analyticsTag": "Scalper Futures",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Leaderboard-Card.png",
+      "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
+      "openInNewTab": true
+    },
     {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone"
