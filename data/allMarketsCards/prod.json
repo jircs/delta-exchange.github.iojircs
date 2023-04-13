@@ -1,10 +1,6 @@
 {
   "desktop": [
     {
-      "type": "offerTimeline",
-      "analyticsTag": "Offer Timeline"
-    },
-    {
       "type": "Scalper Carnival Futures",
       "analyticsTag": "Scalper Futures",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper-Futures-CS.png",
@@ -42,10 +38,6 @@
     }
   ],
   "mobile": [
-    {
-      "type": "offerTimeline",
-      "analyticsTag": "Offer Timeline"
-    },
     {
       "type": "Scalper Carnival Futures",
       "analyticsTag": "Scalper Futures",
