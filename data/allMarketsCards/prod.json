@@ -1,6 +1,17 @@
 {
   "desktop": [
     {
+      "type": "Off Ramp",
+      "analyticsTag": "Off Ramp",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/INR-Withdrawal-Desktop-1.png",
+      "redirectURL": "https://docs.google.com/forms/d/1lmGfU2m4Ddxw6l0jRYXra4PCOx0YL4u9dkXM86oE4WU/edit?ts=643a9d38",
+      "openInNewTab": true,
+      "showWhenLogin": "postLogin",
+      "countries": [
+        "India"
+      ]
+    },
+    {
       "type": "Scalper Carnival Futures",
       "analyticsTag": "Scalper Futures",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper_Futures_Web.png",
@@ -38,6 +49,17 @@
     }
   ],
   "mobile": [
+    {
+      "type": "Off Ramp",
+      "analyticsTag": "Off Ramp",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/INR-Withdrawal-Mobile-1.png",
+      "redirectURL": "https://docs.google.com/forms/d/1lmGfU2m4Ddxw6l0jRYXra4PCOx0YL4u9dkXM86oE4WU/edit?ts=643a9d38",
+      "openInNewTab": true,
+      "showWhenLogin": "postLogin",
+      "countries": [
+        "India"
+      ]
+    },
     {
       "type": "Scalper Carnival Futures",
       "analyticsTag": "Scalper Futures",
