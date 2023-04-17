@@ -26,6 +26,7 @@
 | openInNewTab | When card is clicked should that be opened in new tab or same tab. If the provided value is true then open in new tab else if false then open in same tab | true or false | "openInNewTab" : true | Only Image Card | Required |
 | showWhenLogin | Show the card only when user is logged in or logged out state or both. If not specified then card is shown in all the states. | "preLogin" or "postLogin" | "showWhenLogin" : "preLogin" | Both | Optional |
 | countries | Show cards only to users which are from specified country, or any country except specified countries. | string[] ( list of countries ) | Show to only specific country users.  **Eg. ["India"], ["Spain", "Germany"]** OR Show to other countries except these **Eg. ["!India"], ["!Spain", "!Germany"] (Note: "!" at start of country name)** | Both | Optional |
+| indianExchangeCard | Value to decide whether to show the card in Indian Exchange | boolean | "indianExchangeCard" : true | Both | Optional |
 
 
 
@@ -42,3 +43,4 @@
 | showWhenLogin | Show the card only when user is logged in or logged out state or both. If not specified then card is shown in all the states. | "preLogin" or "postLogin" | "showWhenLogin" : "preLogin" | Both | Optional |
 | showWhenMobile | Show the card only when user is in mobile browser or mobile app or both. If not specified then card is shown in all the states | "browser" or "app" | "showWhenMobile" : "app" | Only Image Card | Optional |
 | countries | Show cards only to users which are from specified country, or any country except specified countries. | string[] ( list of countries ) | Show to only specific country users.  **Eg. ["India"], ["Spain", "Germany"]** OR Show to other countries except these **Eg. ["!India"], ["!Spain", "!Germany"] (Note: "!" at start of country name)** | Both | Optional |
+| indianExchangeCard | Value to decide whether to show the card in Indian Exchange | boolean | "indianExchangeCard" : true | Both | Optional |
