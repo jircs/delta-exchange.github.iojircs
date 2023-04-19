@@ -71,9 +71,18 @@
     {
       "type": "Scalper Carnival Futures",
       "analyticsTag": "Scalper Futures",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper_Futures_MobileOld.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/FuturesScalperDark.png",
       "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "theme": "dark"
+    },
+     {
+      "type": "Scalper Carnival Futures",
+      "analyticsTag": "Scalper Futures",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/FuturesScalperLight.png",
+      "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
+      "openInNewTab": true,
+      "theme": "light"
     },
     {
       "type": "Scalper Carnival",
