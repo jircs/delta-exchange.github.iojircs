@@ -39,14 +39,6 @@
       "indianExchangeCard": false
     },
     {
-      "type": "Liquidation",
-      "analyticsTag": "Liquidation",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/Liq_Web1.png",
-      "redirectURL": "https://www.delta.exchange/blog/liquidation-fee-reduced-by-33",
-      "openInNewTab": true,
-      "indianExchangeCard": true
-    },
-    {
       "type": "kyc_complete",
       "analyticsTag": "kyc_complete_offer",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2022/06/Frame-6668-1.png",
@@ -94,14 +86,6 @@
       "redirectURL": "https://www.delta.exchange/offers",
       "openInNewTab": true,
       "indianExchangeCard": false
-    },
-    {
-      "type": "Liquidation",
-      "analyticsTag": "Liquidation",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/Liq_Mobile1.png",
-      "redirectURL": "https://www.delta.exchange/blog/liquidation-fee-reduced-by-33",
-      "openInNewTab": true,
-      "indianExchangeCard": true
     },
     {
       "type": "kyc_complete",
