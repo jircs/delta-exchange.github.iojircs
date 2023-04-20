@@ -1,8 +1,16 @@
 {
   "desktop": [
-     {
+    {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone"
+    },
+    {
+      "type": "April Rush",
+      "analyticsTag": "April Rush",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/AprilRush_Web.png",
+      "redirectURL": "https://www.delta.exchange/blog/april-rush-trade-win-250",
+      "openInNewTab": true,
+      "indianExchangeCard": false
     },
     {
       "type": "Off Ramp",
@@ -11,9 +19,7 @@
       "redirectURL": "https://docs.google.com/forms/d/1lmGfU2m4Ddxw6l0jRYXra4PCOx0YL4u9dkXM86oE4WU/edit?ts=643a9d38",
       "openInNewTab": true,
       "showWhenLogin": "postLogin",
-      "countries": [
-        "India"
-      ],
+      "countries": ["India"],
       "indianExchangeCard": true
     },
     {
@@ -51,9 +57,17 @@
     }
   ],
   "mobile": [
-     {
+    {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone"
+    },
+    {
+      "type": "April Rush",
+      "analyticsTag": "April Rush",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/AprilRush_Mobile.png",
+      "redirectURL": "https://www.delta.exchange/blog/april-rush-trade-win-250",
+      "openInNewTab": true,
+      "indianExchangeCard": false
     },
     {
       "type": "Off Ramp",
@@ -62,9 +76,7 @@
       "redirectURL": "https://docs.google.com/forms/d/1lmGfU2m4Ddxw6l0jRYXra4PCOx0YL4u9dkXM86oE4WU/edit?ts=643a9d38",
       "openInNewTab": true,
       "showWhenLogin": "postLogin",
-      "countries": [
-        "India"
-      ],
+      "countries": ["India"],
       "indianExchangeCard": true
     },
     {
