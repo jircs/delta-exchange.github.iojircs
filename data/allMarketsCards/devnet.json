@@ -5,14 +5,6 @@
       "analyticsTag": "30 Day Milestone"
     },
     {
-      "type": "April Rush",
-      "analyticsTag": "April Rush",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/AprilRush_Web.png",
-      "redirectURL": "https://www.delta.exchange/blog/april-rush-trade-win-250",
-      "openInNewTab": true,
-      "indianExchangeCard": false
-    },
-    {
       "type": "Scalper Carnival Futures",
       "analyticsTag": "Scalper Futures",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper_Futures_Web.png",
@@ -50,14 +42,6 @@
     {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone"
-    },
-    {
-      "type": "April Rush",
-      "analyticsTag": "April Rush",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/AprilRush_Mobile.png",
-      "redirectURL": "https://www.delta.exchange/blog/april-rush-trade-win-250",
-      "openInNewTab": true,
-      "indianExchangeCard": false
     },
     {
       "type": "Scalper Carnival Futures",
