@@ -40,7 +40,7 @@
       "analyticsTag": "30 Day Milestone"
     },
     {
-      "type": "Scalper Carnival Futures Dark",
+      "type": "Scalper Carnival Futures",
       "analyticsTag": "Scalper Futures",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/futures_scalper_dark.png",
       "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
@@ -48,7 +48,7 @@
       "theme": "dark"
     },
     {
-      "type": "Scalper Carnival Futures light",
+      "type": "Scalper Carnival Futures",
       "analyticsTag": "Scalper Futures",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/futures_scalper_light.png",
       "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
@@ -56,7 +56,7 @@
       "theme": "light"
     },
     {
-      "type": "Decode_Delta_Cash_dark",
+      "type": "Decode_Delta_Cash",
       "analyticsTag": "Decode_Delta_Cash",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/decode_delta_cash_dark.png",
       "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
@@ -64,7 +64,7 @@
       "theme": "dark"
     },
     {
-      "type": "Decode_Delta_Cash_light",
+      "type": "Decode_Delta_Cash",
       "analyticsTag": "Decode_Delta_Cash",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/decode_delta_cash_light.png",
       "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
@@ -72,7 +72,7 @@
       "theme": "light"
     },
     {
-      "type": "RAF_dark",
+      "type": "RAF",
       "analyticsTag": "RAF_Bonus",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/RAF_dark.png",
       "redirectURL": "https://www.delta.exchange/offers",
@@ -80,7 +80,7 @@
       "theme": "dark"
     },
     {
-      "type": "RAF_light",
+      "type": "RAF",
       "analyticsTag": "RAF_Bonus",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/RAF_light.png",
       "redirectURL": "https://www.delta.exchange/offers",
