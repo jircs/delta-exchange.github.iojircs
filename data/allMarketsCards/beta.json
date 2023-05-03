@@ -5,29 +5,17 @@
       "analyticsTag": "30 Day Milestone"
     },
     {
-      "type": "April Rush",
-      "analyticsTag": "April Rush",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/AprilRush_Web.png",
-      "redirectURL": "https://www.delta.exchange/blog/april-rush-trade-win-250",
-      "openInNewTab": true,
-      "indianExchangeCard": false
-    },
-    {
-      "type": "Off Ramp",
-      "analyticsTag": "Off Ramp",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/INR-Withdrawal-Desktop-1.png",
-      "redirectURL": "https://docs.google.com/forms/d/1lmGfU2m4Ddxw6l0jRYXra4PCOx0YL4u9dkXM86oE4WU/edit?ts=643a9d38",
-      "openInNewTab": true,
-      "showWhenLogin": "postLogin",
-      "countries": [
-        "India"
-      ]
-    },
-    {
       "type": "Scalper Carnival Futures",
       "analyticsTag": "Scalper Futures",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper_Futures_Web.png",
       "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
+      "openInNewTab": true
+    },
+    {
+      "type": "Decode_Delta_Cash",
+      "analyticsTag": "Decode_Delta_Cash",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Decode_Delta_Cash_Web.png",
+      "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
       "openInNewTab": true
     },
     {
@@ -52,39 +40,18 @@
       "analyticsTag": "30 Day Milestone"
     },
     {
-      "type": "April Rush",
-      "analyticsTag": "April Rush",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/AprilRush_Mobile.png",
-      "redirectURL": "https://www.delta.exchange/blog/april-rush-trade-win-250",
-      "openInNewTab": true,
-      "indianExchangeCard": false
-    },
-    {
-      "type": "Off Ramp",
-      "analyticsTag": "Off Ramp",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/INR-Withdrawal-Mobile-1.png",
-      "redirectURL": "https://docs.google.com/forms/d/1lmGfU2m4Ddxw6l0jRYXra4PCOx0YL4u9dkXM86oE4WU/edit?ts=643a9d38",
-      "openInNewTab": true,
-      "showWhenLogin": "postLogin",
-      "countries": [
-        "India"
-      ]
-    },
-    {
       "type": "Scalper Carnival Futures",
       "analyticsTag": "Scalper Futures",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/FuturesScalperDark2.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper_Futures_MobileOld.png",
       "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
-      "openInNewTab": true,
-      "theme": "dark"
+      "openInNewTab": true
     },
-     {
-      "type": "Scalper Carnival Futures",
-      "analyticsTag": "Scalper Futures",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/FuturesScalperLight2.png",
-      "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
-      "openInNewTab": true,
-      "theme": "light"
+    {
+      "type": "Decode_Delta_Cash",
+      "analyticsTag": "Decode_Delta_Cash",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Decode_Delta_Cash_Mobile.png",
+      "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
+      "openInNewTab": true
     },
     {
       "type": "RAF",
