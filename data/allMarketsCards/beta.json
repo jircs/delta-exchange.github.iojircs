@@ -40,25 +40,52 @@
       "analyticsTag": "30 Day Milestone"
     },
     {
-      "type": "Scalper Carnival Futures",
+      "type": "Scalper Carnival Futures Dark",
       "analyticsTag": "Scalper Futures",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper_Futures_MobileOld.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/futures_scalper_dark.png",
       "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "theme": "dark"
     },
     {
-      "type": "Decode_Delta_Cash",
+      "type": "Scalper Carnival Futures light",
+      "analyticsTag": "Scalper Futures",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/futures_scalper_light.png",
+      "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
+      "openInNewTab": true,
+      "theme": "light"
+    },
+    {
+      "type": "Decode_Delta_Cash_dark",
       "analyticsTag": "Decode_Delta_Cash",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Decode_Delta_Cash_Mobile.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/decode_delta_cash_dark.png",
       "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "theme": "dark"
     },
     {
-      "type": "RAF",
+      "type": "Decode_Delta_Cash_light",
+      "analyticsTag": "Decode_Delta_Cash",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/decode_delta_cash_light.png",
+      "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
+      "openInNewTab": true,
+      "theme": "light"
+    },
+    {
+      "type": "RAF_dark",
       "analyticsTag": "RAF_Bonus",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/raf2_mobile_updated.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/RAF_dark.png",
       "redirectURL": "https://www.delta.exchange/offers",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "theme": "dark"
+    },
+    {
+      "type": "RAF_light",
+      "analyticsTag": "RAF_Bonus",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/RAF_light.png",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true,
+      "theme": "light"
     },
     {
       "type": "kyc_complete",
