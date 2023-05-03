@@ -18,6 +18,13 @@
       "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
       "openInNewTab": true
     },
+      {
+      "type": "Decode_Delta_Cash-1",
+      "analyticsTag": "Decode_Delta_Cash",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Decode_Delta_Cash_Web.png",
+      "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
+      "openInNewTab": true
+    },
     {
       "type": "RAF",
       "analyticsTag": "RAF_Bonus",
