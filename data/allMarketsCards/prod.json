@@ -5,13 +5,6 @@
       "analyticsTag": "30 Day Milestone"
     },
     {
-      "type": "Scalper Carnival Futures",
-      "analyticsTag": "Scalper Futures",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper_Futures_Web.png",
-      "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
-      "openInNewTab": true
-    },
-    {
       "type": "Decode_Delta_Cash",
       "analyticsTag": "Decode_Delta_Cash",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Decode_Delta_Cash_Web.png",
@@ -45,13 +38,6 @@
     {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone"
-    },
-    {
-      "type": "Scalper Carnival Futures",
-      "analyticsTag": "Scalper Futures",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper_Futures_MobileOld.png",
-      "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
-      "openInNewTab": true
     },
     {
       "type": "Decode_Delta_Cash",
