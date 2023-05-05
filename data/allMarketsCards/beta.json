@@ -2,32 +2,32 @@
   "desktop": [
     {
       "type": "milestoneOffer",
-      "analyticsTag": "30 Day Milestone"
+      "analyticsTag": "30 Day Milestone",
+      "indianExchangeCard": false
     },
     {
       "type": "Scalper Carnival Futures",
       "analyticsTag": "Scalper Futures",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper_Futures_Web.png",
       "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "indianExchangeCard": false
     },
     {
-      "type": "offerTimeline",
-      "analyticsTag": "Offer Timeline"
-    },
-    {
-      "type": "Scalper Carnival",
-      "analyticsTag": "Scalper Carnival",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper_Options_Web.png",
-      "redirectURL": "https://www.delta.exchange/blog/scalper-carnival",
-      "openInNewTab": true
+      "type": "Decode_Delta_Cash",
+      "analyticsTag": "Decode_Delta_Cash",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Decode_Delta_Cash_Web.png",
+      "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
+      "openInNewTab": true,
+      "indianExchangeCard": false
     },
     {
       "type": "RAF",
       "analyticsTag": "RAF_Bonus",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/raf2_web_updated.png",
       "redirectURL": "https://www.delta.exchange/offers",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "indianExchangeCard": false
     },
     {
       "type": "kyc_complete",
@@ -35,38 +35,69 @@
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2022/06/Frame-6668-1.png",
       "redirectURL": "https://www.delta.exchange/app/account/identityVerification",
       "openInNewTab": true,
-      "showWhenLogin": "postLogin"
+      "showWhenLogin": "postLogin",
+      "indianExchangeCard": false
     }
   ],
   "mobile": [
     {
       "type": "milestoneOffer",
-      "analyticsTag": "30 Day Milestone"
+      "analyticsTag": "30 Day Milestone",
+      "indianExchangeCard": false
     },
     {
       "type": "Scalper Carnival Futures",
       "analyticsTag": "Scalper Futures",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper_Futures_MobileOld.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/futures_scalper_dark.png",
       "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "theme": "dark",
+      "indianExchangeCard": false
     },
     {
-      "type": "offerTimeline",
-      "analyticsTag": "Offer Timeline"
+      "type": "Scalper Carnival Futures",
+      "analyticsTag": "Scalper Futures",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/futures_scalper_light.png",
+      "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
+      "openInNewTab": true,
+      "theme": "light",
+      "indianExchangeCard": false
     },
     {
-      "type": "Scalper Carnival",
-      "analyticsTag": "Scalper Carnival",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Scalper_Options_MobileOld.png",
-      "redirectURL": "https://www.delta.exchange/blog/scalper-carnival",
-      "openInNewTab": true
+      "type": "Decode_Delta_Cash",
+      "analyticsTag": "Decode_Delta_Cash",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/decode_delta_cash_dark.png",
+      "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
+      "openInNewTab": true,
+      "theme": "dark",
+      "indianExchangeCard": false
+    },
+    {
+      "type": "Decode_Delta_Cash",
+      "analyticsTag": "Decode_Delta_Cash",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/decode_delta_cash_light.png",
+      "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
+      "openInNewTab": true,
+      "theme": "light",
+      "indianExchangeCard": false
     },
     {
       "type": "RAF",
       "analyticsTag": "RAF_Bonus",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/raf2_mobile_updated.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/RAF_dark.png",
       "redirectURL": "https://www.delta.exchange/offers",
-      "openInNewTab": true
+      "openInNewTab": true,
+      "theme": "dark",
+      "indianExchangeCard": false
+    },
+    {
+      "type": "RAF",
+      "analyticsTag": "RAF_Bonus",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/RAF_light.png",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true,
+      "theme": "light",
+      "indianExchangeCard": false
     },
     {
       "type": "kyc_complete",
@@ -74,7 +105,8 @@
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2022/06/Frame-6675-1.png",
       "redirectURL": "https://www.delta.exchange/app/account/identityVerification",
       "openInNewTab": true,
-      "showWhenLogin": "postLogin"
+      "showWhenLogin": "postLogin",
+      "indianExchangeCard": false
     }
   ]
 }
