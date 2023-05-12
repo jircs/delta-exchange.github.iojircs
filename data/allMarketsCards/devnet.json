@@ -1,10 +1,6 @@
 {
   "desktop": [
     {
-      "type": "personalizedFeeCard",
-      "analyticsTag": "personalized Fee Card"
-    },
-    {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone"
     },
