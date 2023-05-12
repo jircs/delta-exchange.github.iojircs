@@ -1,6 +1,10 @@
 {
   "desktop": [
     {
+      "type": "personalizedFeeCard",
+      "analyticsTag": "personalized Fee Card"
+    },
+    {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone",
       "indianExchangeCard": false
@@ -40,6 +44,10 @@
     }
   ],
   "mobile": [
+    {
+      "type": "personalizedFeeCard",
+      "analyticsTag": "personalized Fee Card"
+    },
     {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone",
