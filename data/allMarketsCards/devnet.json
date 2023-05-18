@@ -1,12 +1,20 @@
 {
   "desktop": [
-     {
-      "type": "personalizedFeeCard",
-      "analyticsTag": "personalized Fee Card"
-    },
     {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone"
+    },
+    {
+      "type": "personalizedFeeCard",
+      "analyticsTag": "personalized Fee Card",
+      "bannerLinks": {
+        "feesUnreached": {
+          "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Personalised_banner_web3.png"
+        },
+        "feesReached": {
+          "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Congratulations_web2.png"
+        }
+      }
     },
     {
       "type": "Decode_Delta_Cash",
