@@ -9,12 +9,21 @@
       "analyticsTag": "personalized Fee Card",
       "bannerLinks": {
         "feesUnreached": {
-          "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Personalised_banner_web3.png"
+          "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Personalised_banner_web3.png",
+          "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Personalised_banner_web3.png"
         },
         "feesReached": {
-          "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Congratulations_web2.png"
+          "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Congratulations_web2.png",
+          "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Congratulations_web2.png"
         }
-      }
+      },
+      "bannerDates": {
+        "targetFeeStartDate": "2023-03-11T00:00:00+00:00",
+        "targetFeeEndDate": "2023-05-10",
+        "offerStartDate": "2023-05-12",
+        "offerEndDate": "2023-05-31T23:59:59+00:00"
+      },
+      "redirectURL": "https://devnet.delta.exchange/blog/may-cashathon/"
     },
     {
       "type": "Decode_Delta_Cash",
@@ -62,7 +71,14 @@
           "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Congratulations_Litemobile2.png",
           "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/2023/05/Congratulations_darkmobile2.png"
         }
-      }
+      },
+      "bannerDates": {
+        "targetFeeStartDate": "2023-03-11T00:00:00+00:00",
+        "targetFeeEndDate": "2023-05-10",
+        "offerStartDate": "2023-05-12",
+        "offerEndDate": "2023-05-31T23:59:59+00:00"
+      },
+      "redirectURL": "https://devnet.delta.exchange/blog/may-cashathon/"
     },
     {
       "type": "milestoneOffer",
