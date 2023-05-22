@@ -2,7 +2,22 @@
   "desktop": [
     {
       "type": "milestoneOffer",
-      "analyticsTag": "30 Day Milestone"
+      "analyticsTag": "30 Day Milestone",
+      "meta": {
+        "bannerLinks": {
+          "dark": {
+            "signUpToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/Signup_Web.png",
+            "kycToBeDoneLessThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/30day_KYC_Web.png",
+            "kycToBeDoneMoreThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/KYC_Web.png",
+            "depositToBeDoneLessThan48Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/Deposit_Web.png",
+            "depositToBeDoneMoreThan48Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/30day_1deposit_Web.png",
+            "firstTradeFeePaidDeposited10kDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/30day_pay300_Web.png",
+            "firstTradeFeePaidDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/30day_deposit10k_Web.png",
+            "firstTradeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/30day_pay25_Web.png",
+            "firstTradeToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/30day_Trade_Web.png"
+          }
+        }
+      }
     },
     {
       "type": "personalizedFeeCard",
