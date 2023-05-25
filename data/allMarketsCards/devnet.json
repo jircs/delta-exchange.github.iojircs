@@ -17,7 +17,7 @@
             "firstTradeToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/30day_Trade_Web.png"
           },
           "light": {
-            "signUpToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/Signup_Web3.png",
+            "signUpToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Signup_Web3.png",
             "kycToBeDoneLessThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/30day_KYC_Web.png",
             "kycToBeDoneMoreThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/KYC_Web.png",
             "depositToBeDoneLessThan48Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/03/Deposit_Web.png",
