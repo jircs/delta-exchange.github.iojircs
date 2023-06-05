@@ -32,6 +32,14 @@
       "indianExchangeCard": false
     },
     {
+      "type": "Automated_Trading",
+      "analyticsTag": "apisurvey",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Survery-Checks.png",
+      "redirectURL": "https://docs.google.com/forms/d/e/1FAIpQLSfen-T2usJDZVyMhgd54YYrULKERLP89Blrx7TOg0adWCvbGQ/viewform",
+      "openInNewTab": true,
+      "indianExchangeCard": false
+    },
+    {
       "type": "Decode_Delta_Cash",
       "analyticsTag": "Decode_Delta_Cash",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Decode_Delta_Cash_Web.png",
@@ -86,6 +94,24 @@
           }
         }
       },
+      "indianExchangeCard": false
+    },
+    {
+      "type": "Automated_Trading",
+      "analyticsTag": "apisurvey",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Survey-Mobile-Dark1.png",
+      "redirectURL": "https://docs.google.com/forms/d/e/1FAIpQLSfen-T2usJDZVyMhgd54YYrULKERLP89Blrx7TOg0adWCvbGQ/viewform",
+      "openInNewTab": true,
+      "theme": "dark",
+      "indianExchangeCard": false
+    },
+    {
+      "type": "Automated_Trading",
+      "analyticsTag": "apisurvey",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Survey-Mobile-Light.png",
+      "redirectURL": "https://docs.google.com/forms/d/e/1FAIpQLSfen-T2usJDZVyMhgd54YYrULKERLP89Blrx7TOg0adWCvbGQ/viewform",
+      "openInNewTab": true,
+      "theme": "light",
       "indianExchangeCard": false
     },
     {
