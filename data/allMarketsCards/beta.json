@@ -1,30 +1,6 @@
 {
   "desktop": [
     {
-      "type": "personalizedFeeCard",
-      "analyticsTag": "personalized Fee Card",
-      "meta": {
-        "bannerLinks": {
-          "feesUnreached": {
-            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Cashathon-Web5.png",
-            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Cashathon-Web5.png"
-          },
-          "feesReached": {
-            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Congratulations_web2.png",
-            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Congratulations_web2.png"
-          }
-        },
-        "bannerDates": {
-          "targetFeeStartDate": "2023-03-11T00:00:00+00:00",
-          "targetFeeEndDate": "2023-05-10",
-          "offerStartDate": "2023-05-12",
-          "offerEndDate": "2023-05-31T23:59:59+00:00"
-        }
-      },
-      "redirectURL": "https://devnet.delta.exchange/blog/may-cashathon/",
-      "indianExchangeCard": false
-    },
-    {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone",
       "meta": {
@@ -78,42 +54,9 @@
       "redirectURL": "https://www.delta.exchange/blog/liquidation-fee-reduced-by-33",
       "openInNewTab": true,
       "indianExchangeCard": true
-    },
-    {
-      "type": "kyc_complete",
-      "analyticsTag": "kyc_complete_offer",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2022/06/Frame-6668-1.png",
-      "redirectURL": "https://www.delta.exchange/app/account/identityVerification",
-      "openInNewTab": true,
-      "showWhenLogin": "postLogin",
-      "indianExchangeCard": false
     }
   ],
   "mobile": [
-    {
-      "type": "personalizedFeeCard",
-      "analyticsTag": "personalized Fee Card",
-      "meta": {
-        "bannerLinks": {
-          "feesUnreached": {
-            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Cashathon-Mobile_Light5.png",
-            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Cashathon-Mobile_Dark5.png"
-          },
-          "feesReached": {
-            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Congratulations_Litemobile2.png",
-            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Congratulations_darkmobile2.png"
-          }
-        },
-        "bannerDates": {
-          "targetFeeStartDate": "2023-03-11T00:00:00+00:00",
-          "targetFeeEndDate": "2023-05-10",
-          "offerStartDate": "2023-05-12",
-          "offerEndDate": "2023-05-31T23:59:59+00:00"
-        }
-      },
-      "redirectURL": "https://devnet.delta.exchange/blog/may-cashathon/",
-      "indianExchangeCard": false
-    },
     {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone",
@@ -161,15 +104,6 @@
       "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
       "openInNewTab": true,
       "theme": "light",
-      "indianExchangeCard": false
-    },
-    {
-      "type": "kyc_complete",
-      "analyticsTag": "kyc_complete_offer",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2022/06/Frame-6675-1.png",
-      "redirectURL": "https://www.delta.exchange/app/account/identityVerification",
-      "openInNewTab": true,
-      "showWhenLogin": "postLogin",
       "indianExchangeCard": false
     }
   ]
