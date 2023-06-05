@@ -99,7 +99,7 @@
     {
       "type": "Automated_Trading",
       "analyticsTag": "apisurvey",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Survey-Mobile.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Survey-Mobile-Dark1.png",
       "redirectURL": "https://docs.google.com/forms/d/e/1FAIpQLSfen-T2usJDZVyMhgd54YYrULKERLP89Blrx7TOg0adWCvbGQ/viewform",
       "openInNewTab": true,
       "theme": "dark",
@@ -108,7 +108,7 @@
     {
       "type": "Automated_Trading",
       "analyticsTag": "apisurvey",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/decode_delta_cash_light.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Survey-Mobile-Light.png",
       "redirectURL": "https://docs.google.com/forms/d/e/1FAIpQLSfen-T2usJDZVyMhgd54YYrULKERLP89Blrx7TOg0adWCvbGQ/viewform",
       "openInNewTab": true,
       "theme": "light",
