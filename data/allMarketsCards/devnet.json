@@ -51,28 +51,19 @@
       "indianExchangeCard": false
     },
     {
+      "type": "Automated_Trading",
+      "analyticsTag": "apisurvey",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Survery-Checks.png",
+      "redirectURL": "https://docs.google.com/forms/d/e/1FAIpQLSfen-T2usJDZVyMhgd54YYrULKERLP89Blrx7TOg0adWCvbGQ/viewform",
+      "openInNewTab": true,
+      "indianExchangeCard": false
+    },
+    {
       "type": "Options Leaderboard",
       "analyticsTag": "Options Leaderboard",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/01/Web.png",
       "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
       "openInNewTab": true
-    },
-    {
-      "type": "Liquidation",
-      "analyticsTag": "Liquidation",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/02/Liq_Web1.png",
-      "redirectURL": "https://www.delta.exchange/blog/liquidation-fee-reduced-by-33",
-      "openInNewTab": true,
-      "indianExchangeCard": true
-    },
-    {
-      "type": "kyc_complete",
-      "analyticsTag": "kyc_complete_offer",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2022/06/Frame-6668-1.png",
-      "redirectURL": "https://www.delta.exchange/app/account/identityVerification",
-      "openInNewTab": true,
-      "showWhenLogin": "postLogin",
-      "indianExchangeCard": false
     }
   ],
   "mobile": [
@@ -127,12 +118,12 @@
       "indianExchangeCard": false
     },
     {
-      "type": "kyc_complete",
-      "analyticsTag": "kyc_complete_offer",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2022/06/Frame-6675-1.png",
-      "redirectURL": "https://www.delta.exchange/app/account/identityVerification",
+      "type": "Automated_Trading",
+      "analyticsTag": "apisurvey",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Survey-Mobile-Dark1.png",
+      "redirectURL": "https://docs.google.com/forms/d/e/1FAIpQLSfen-T2usJDZVyMhgd54YYrULKERLP89Blrx7TOg0adWCvbGQ/viewform",
       "openInNewTab": true,
-      "showWhenLogin": "postLogin",
+      "theme": "dark",
       "indianExchangeCard": false
     }
   ]
