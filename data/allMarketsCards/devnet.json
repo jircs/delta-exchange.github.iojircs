@@ -112,9 +112,19 @@
     {
       "type": "Decode_Delta_Cash",
       "analyticsTag": "Decode_Delta_Cash",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Decode_Delta_Cash_Mobile.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/decode_delta_cash_dark.png",
       "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
       "openInNewTab": true,
+      "theme": "dark",
+      "indianExchangeCard": false
+    },
+    {
+      "type": "Decode_Delta_Cash",
+      "analyticsTag": "Decode_Delta_Cash",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/decode_delta_cash_light.png",
+      "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
+      "openInNewTab": true,
+      "theme": "light",
       "indianExchangeCard": false
     },
     {
