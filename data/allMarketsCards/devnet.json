@@ -37,10 +37,8 @@
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
       "openInNewTab": true,
       "indianExchangeCard": false,
-      "meta": {
-        "darkBannerLink": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Alpyne-UPI_Web.png",
-        "lightBannerLink": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Alpyne-UPI_Web.png"
-      }
+      "showWhenLogin": "postLogin",
+      "countries": "['India']"
     },
     {
       "type": "Decode_Delta_Cash",
@@ -100,14 +98,24 @@
     {
       "type": "alpyneUpi",
       "analyticsTag": "Alpyne UPI",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Alpyne-UPI_Web.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Alpyne-UPI_Dark.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
       "openInNewTab": true,
       "indianExchangeCard": false,
-      "meta": {
-        "darkBannerLink": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Alpyne-UPI_Dark.png",
-        "lightBannerLink": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Alpyne-UPI_Lite.png"
-      }
+      "theme": "dark",
+      "showWhenLogin": "postLogin",
+      "countries": "['India']"
+    },
+    {
+      "type": "alpyneUpi",
+      "analyticsTag": "Alpyne UPI",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Alpyne-UPI_Lite.png",
+      "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "theme": "light",
+      "showWhenLogin": "postLogin",
+      "countries": "['India']"
     },
     {
       "type": "Decode_Delta_Cash",
