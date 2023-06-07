@@ -38,7 +38,7 @@
       "openInNewTab": true,
       "indianExchangeCard": false,
       "showWhenLogin": "postLogin",
-      "countries": "['India']"
+      "countries": ["India"]
     },
     {
       "type": "Decode_Delta_Cash",
@@ -104,7 +104,7 @@
       "indianExchangeCard": false,
       "theme": "dark",
       "showWhenLogin": "postLogin",
-      "countries": "['India']"
+      "countries": ["India"]
     },
     {
       "type": "alpyneUpi",
@@ -115,7 +115,7 @@
       "indianExchangeCard": false,
       "theme": "light",
       "showWhenLogin": "postLogin",
-      "countries": "['India']"
+      "countries": ["India"]
     },
     {
       "type": "Decode_Delta_Cash",
