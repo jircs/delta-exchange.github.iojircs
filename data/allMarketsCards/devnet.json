@@ -6,26 +6,26 @@
       "meta": {
         "bannerLinks": {
           "dark": {
-            "signUpToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_Signup_Web1.png",
-            "kycToBeDoneLessThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_KYC_Web1.png",
-            "kycToBeDoneMoreThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_KYC_Web1.png",
-            "depositToBeDoneMoreThan48Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_Deposit_Web1.png",
-            "depositToBeDoneLessThan48Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_KYC_Web1.png",
-            "firstTradeFeePaidDeposited10kDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_300fee_Web1.png",
-            "firstTradeFeePaidDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_Deposit10k_Web1.png",
-            "firstTradeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_25fee_Web1.png",
-            "firstTradeToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_Trade_Web1.png"
+            "signUpToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_Signup_Web2.png",
+            "kycToBeDoneLessThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_KYC_Web2.png",
+            "kycToBeDoneMoreThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_KYC_Web2.png",
+            "depositToBeDoneMoreThan48Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_Deposit_Web2.png",
+            "depositToBeDoneLessThan48Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_KYC_Web2.png",
+            "firstTradeFeePaidDeposited10kDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_300fee_Web2.png",
+            "firstTradeFeePaidDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_Deposit10k_Web2.png",
+            "firstTradeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_25fee_Web2.png",
+            "firstTradeToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_Trade_Web2.png"
           },
           "light": {
-            "signUpToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_Signup_Web1.png",
-            "kycToBeDoneLessThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_KYC_Web1.png",
-            "kycToBeDoneMoreThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_KYC_Web1.png",
-            "depositToBeDoneMoreThan48Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_Deposit_Web1.png",
-            "depositToBeDonLessThan48Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_KYC_Web1.png",
-            "firstTradeFeePaidDeposited10kDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_300fee_Web1.png",
-            "firstTradeFeePaidDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_Deposit10k_Web1.png",
-            "firstTradeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_25fee_Web1.png",
-            "firstTradeToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_Trade_Web1.png"
+            "signUpToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_Signup_Web2.png",
+            "kycToBeDoneLessThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_KYC_Web2.png",
+            "kycToBeDoneMoreThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_KYC_Web2.png",
+            "depositToBeDoneMoreThan48Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_Deposit_Web2.png",
+            "depositToBeDonLessThan48Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_KYC_Web2.png",
+            "firstTradeFeePaidDeposited10kDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_300fee_Web2.png",
+            "firstTradeFeePaidDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_Deposit10k_Web2.png",
+            "firstTradeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_25fee_Web2.png",
+            "firstTradeToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_Trade_Web2.png"
           }
         }
       }
@@ -33,7 +33,7 @@
     {
       "type": "alpyneUpi",
       "analyticsTag": "Alpyne UPI",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Alpyne-UPI_Web1.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Alpyne-UPI_Web2.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
       "openInNewTab": true,
       "indianExchangeCard": false,
@@ -43,7 +43,7 @@
     {
       "type": "Decode_Delta_Cash",
       "analyticsTag": "Decode_Delta_Cash",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Decode-DC_Web1.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Decode-DC_Web2.png",
       "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
       "openInNewTab": true,
       "indianExchangeCard": false
@@ -51,7 +51,7 @@
     {
       "type": "Automated_Trading",
       "analyticsTag": "apisurvey",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/ATS_Web1.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/ATS_Web2.png",
       "redirectURL": "https://docs.google.com/forms/d/e/1FAIpQLSfen-T2usJDZVyMhgd54YYrULKERLP89Blrx7TOg0adWCvbGQ/viewform",
       "openInNewTab": true,
       "indianExchangeCard": false
@@ -59,7 +59,7 @@
     {
       "type": "Options Leaderboard",
       "analyticsTag": "Options Leaderboard",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Option-Leaderboard_Web1.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Option-Leaderboard_Web2.png",
       "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
       "openInNewTab": true
     }
