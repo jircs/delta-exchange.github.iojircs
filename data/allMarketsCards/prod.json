@@ -1,6 +1,27 @@
 {
   "desktop": [
     {
+      "type": "personalizedFeeCard",
+      "analyticsTag": "personalized Fee Card-June",
+      "meta": {
+        "bannerLinks": {
+          "feesUnreached": {
+            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Cashathon-Web5.png",
+            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Cashathon-Web5.png"
+          },
+          "feesReached": {
+            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Congratulations_web2.png",
+            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Congratulations_web2.png"
+          }
+        },
+        "bannerDates": {
+          "offerStartDate": "2023-06-21T00:00:00+00:00",
+          "offerEndDate": "2023-07-01T05:30:00+00:00"
+        }
+      },
+      "redirectURL": "https://devnet.delta.exchange/blog/may-cashathon/"
+    },
+    {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone",
       "meta": {
@@ -69,6 +90,27 @@
     }
   ],
   "mobile": [
+    {
+      "type": "personalizedFeeCard",
+      "analyticsTag": "personalized Fee Card-June",
+      "meta": {
+        "bannerLinks": {
+          "feesUnreached": {
+            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Cashathon-Mobile_Light5.png",
+            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Cashathon-Mobile_Dark5.png"
+          },
+          "feesReached": {
+            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Congratulations_Litemobile2.png",
+            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Congratulations_darkmobile2.png"
+          }
+        },
+        "bannerDates": {
+          "offerStartDate": "2023-06-21T00:00:00+00:00",
+          "offerEndDate": "2023-07-01T05:30:00+00:00"
+        }
+      },
+      "redirectURL": "https://devnet.delta.exchange/blog/may-cashathon/"
+    },
     {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone",
