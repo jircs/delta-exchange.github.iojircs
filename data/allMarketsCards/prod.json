@@ -55,7 +55,7 @@
     {
       "type": "alpyneUpi",
       "analyticsTag": "Alpyne UPI",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Alpyne-UPI_Web2.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Alpyne-Offer_Web2.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
       "openInNewTab": true,
       "indianExchangeCard": false,
@@ -163,7 +163,7 @@
     {
       "type": "alpyneUpi",
       "analyticsTag": "Alpyne UPI",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Alpyne-UPI_Dark.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Alpyne-Offer_Lite2.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
       "openInNewTab": true,
       "indianExchangeCard": false,
@@ -176,7 +176,7 @@
     {
       "type": "alpyneUpi",
       "analyticsTag": "Alpyne UPI",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Alpyne-UPI_Lite.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Alpyne-Offer_Dark2.png",
       "redirectURL": "https://www.delta.exchange/app/account/buy_crypto/alpyne",
       "openInNewTab": true,
       "indianExchangeCard": false,
