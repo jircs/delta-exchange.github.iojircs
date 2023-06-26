@@ -62,18 +62,18 @@
       "countries": ["India"]
     },
     {
-      "type": "Decode_Delta_Cash",
-      "analyticsTag": "Decode_Delta_Cash",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Decode-DC_Web2.png",
-      "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
+      "type": "automatedTradingGuide",
+      "analyticsTag":"Automated Trading Guide",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Guide_Web.png",
+      "redirectURL":"https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
       "openInNewTab": true,
       "indianExchangeCard": false
     },
     {
-      "type": "Automated_Trading",
-      "analyticsTag": "apisurvey",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/ATS_Web2.png",
-      "redirectURL": "https://docs.google.com/forms/d/e/1FAIpQLSfen-T2usJDZVyMhgd54YYrULKERLP89Blrx7TOg0adWCvbGQ/viewform",
+      "type": "Decode_Delta_Cash",
+      "analyticsTag": "Decode_Delta_Cash",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Decode-DC_Web2.png",
+      "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
       "openInNewTab": true,
       "indianExchangeCard": false
     },
@@ -160,6 +160,24 @@
       "countries": ["India"]
     },
     {
+      "type": "automatedTradingGuide",
+      "analyticsTag":"Automated Trading Guide",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Guide_Lite.png",
+      "redirectURL":"https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "theme": "light"
+    },
+    {
+      "type": "automatedTradingGuide",
+      "analyticsTag":"Automated Trading Guide",
+      "redirectURL":"https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Guide_Dark.png",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "theme": "dark"
+    },
+    {
       "type": "Decode_Delta_Cash",
       "analyticsTag": "Decode_Delta_Cash",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/decode_delta_cash_dark.png",
@@ -175,15 +193,6 @@
       "redirectURL": "https://www.delta.exchange/blog/support/decode-delta-cash",
       "openInNewTab": true,
       "theme": "light",
-      "indianExchangeCard": false
-    },
-    {
-      "type": "Automated_Trading",
-      "analyticsTag": "apisurvey",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Survey-Mobile-Dark1.png",
-      "redirectURL": "https://docs.google.com/forms/d/e/1FAIpQLSfen-T2usJDZVyMhgd54YYrULKERLP89Blrx7TOg0adWCvbGQ/viewform",
-      "openInNewTab": true,
-      "theme": "dark",
       "indianExchangeCard": false
     }
   ]
