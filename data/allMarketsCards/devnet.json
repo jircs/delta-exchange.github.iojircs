@@ -52,6 +52,14 @@
       }
     },
     {
+      "type": "automatedTradingGuide",
+      "analyticsTag":"Automated Trading Guide",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Guide_Web.png",
+      "redirectURL":"https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
+      "openInNewTab": true,
+      "indianExchangeCard": false
+    },
+    {
       "type": "alpyneUpi",
       "analyticsTag": "Alpyne UPI",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Alpyne-Offer_Web2.png",
@@ -60,14 +68,6 @@
       "indianExchangeCard": false,
       "showWhenLogin": "postLogin",
       "countries": ["India"]
-    },
-    {
-      "type": "automatedTradingGuide",
-      "analyticsTag":"Automated Trading Guide",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Guide_Web.png",
-      "redirectURL":"https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
-      "openInNewTab": true,
-      "indianExchangeCard": false
     },
     {
       "type": "Decode_Delta_Cash",
@@ -138,6 +138,24 @@
       }
     },
     {
+      "type": "automatedTradingGuide",
+      "analyticsTag":"Automated Trading Guide",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Guide_Lite.png",
+      "redirectURL":"https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "theme": "light"
+    },
+    {
+      "type": "automatedTradingGuide",
+      "analyticsTag":"Automated Trading Guide",
+      "redirectURL":"https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Guide_Dark.png",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "theme": "dark"
+    },
+    {
       "type": "alpyneUpi",
       "analyticsTag": "Alpyne UPI",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Alpyne-Offer_Lite2.png",
@@ -158,24 +176,6 @@
       "theme": "light",
       "showWhenLogin": "postLogin",
       "countries": ["India"]
-    },
-    {
-      "type": "automatedTradingGuide",
-      "analyticsTag":"Automated Trading Guide",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Guide_Lite.png",
-      "redirectURL":"https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
-      "openInNewTab": true,
-      "indianExchangeCard": false,
-      "theme": "light"
-    },
-    {
-      "type": "automatedTradingGuide",
-      "analyticsTag":"Automated Trading Guide",
-      "redirectURL":"https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Guide_Dark.png",
-      "openInNewTab": true,
-      "indianExchangeCard": false,
-      "theme": "dark"
     },
     {
       "type": "Decode_Delta_Cash",
