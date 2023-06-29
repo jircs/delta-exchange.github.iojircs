@@ -54,7 +54,7 @@
     {
       "type": "automatedTradingGuide",
       "analyticsTag":"Automated Trading Guide",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Guide_Web.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Guide_Web3.png",
       "redirectURL":"https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
       "openInNewTab": true,
       "indianExchangeCard": false
@@ -80,7 +80,7 @@
     {
       "type": "Options Leaderboard",
       "analyticsTag": "Options Leaderboard",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Option-Leaderboard_Web2.png",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Options_Leaderboard_Web3.png",
       "redirectURL": "https://www.delta.exchange/app/options/leaderboard",
       "openInNewTab": true
     }
