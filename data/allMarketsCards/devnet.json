@@ -27,7 +27,7 @@
       "meta": {
         "bannerLinks": {
           "dark": {
-            "signUpToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_Signup_Web2.png",
+            "signUpToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Signup_Web5.png",
             "kycToBeDoneLessThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_KYC_Web2.png",
             "kycToBeDoneMoreThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_KYC_Web2.png",
             "depositToBeDoneMoreThan48Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_Deposit_Web2.png",
@@ -38,7 +38,7 @@
             "firstTradeToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_Trade_Web2.png"
           },
           "light": {
-            "signUpToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_Signup_Web2.png",
+            "signUpToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Signup_Web5.png",
             "kycToBeDoneLessThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/30day_KYC_Web2.png",
             "kycToBeDoneMoreThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_KYC_Web2.png",
             "depositToBeDoneMoreThan48Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Onboarding_Deposit_Web2.png",
@@ -113,7 +113,7 @@
       "meta": {
         "bannerLinks": {
           "dark": {
-            "signUpToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Signup_milestone_mobile_dark.png",
+            "signUpToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Signup_mobile_dark5.png",
             "kycToBeDoneLessThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/30day_KYC_milestone_mobile_dark.png",
             "kycToBeDoneMoreThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/KYC_milestone_mobile_dark.png",
             "depositToBeDoneMoreThan48Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Deposit_milestone_mobile_dark.png",
@@ -124,7 +124,7 @@
             "firstTradeToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/30day_Trade_milestone_mobile_dark.png"
           },
           "light": {
-            "signUpToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Signup_milestone_mobile_light.png",
+            "signUpToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Signup_mobile_lite5.png",
             "kycToBeDoneLessThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/30day_KYC_milestone_mobile_light.png",
             "kycToBeDoneMoreThan24Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/KYC_milestone_mobile_light.png",
             "depositToBeDoneMoreThan48Hours": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/Deposit_milestone_mobile_light.png",
