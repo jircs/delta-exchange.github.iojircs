@@ -27,7 +27,9 @@
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Withdraw-to-Bank_Web.png",
       "redirectURL":"https://www.delta.exchange/app/account/withdrawal_bank",
       "openInNewTab": true,
-      "indianExchangeCard": false
+      "indianExchangeCard": false,
+      "showWhenLogin": "postLogin",
+      "countries": ["India"]
     },
     {
       "type": "milestoneOffer",
