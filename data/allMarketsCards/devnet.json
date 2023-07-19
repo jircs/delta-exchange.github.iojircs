@@ -23,9 +23,9 @@
     },
     {
       "type": "Withdrawal to bank",
-      "analyticsTag":"Withdrawal to bank",
+      "analyticsTag": "Withdrawal to bank",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Withdraw-to-Bank_Web.png",
-      "redirectURL":"https://www.delta.exchange/app/account/withdrawal_bank",
+      "redirectURL": "https://www.delta.exchange/app/account/withdrawal_bank",
       "openInNewTab": true,
       "indianExchangeCard": false,
       "showWhenLogin": "postLogin",
@@ -62,10 +62,18 @@
       }
     },
     {
+      "type": "optionsSpreads",
+      "analyticsTag": "Options Spreads",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Options-Spreads-web2.png",
+      "redirectURL": "https://www.delta.exchange/blog/options-spreads",
+      "openInNewTab": true,
+      "indianExchangeCard": false
+    },
+    {
       "type": "automatedTradingGuide",
-      "analyticsTag":"Automated Trading Guide",
+      "analyticsTag": "Automated Trading Guide",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Guide_Web3.png",
-      "redirectURL":"https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
+      "redirectURL": "https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
       "openInNewTab": true,
       "indianExchangeCard": false,
       "showWhenLogin": "postLogin",
@@ -141,9 +149,9 @@
     },
     {
       "type": "Withdrawal to bank",
-      "analyticsTag":"Withdrawal to bank",
+      "analyticsTag": "Withdrawal to bank",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Withdraw-to-Bank_Lite.png",
-      "redirectURL":"https://www.delta.exchange/app/account/withdrawal_bank",
+      "redirectURL": "https://www.delta.exchange/app/account/withdrawal_bank",
       "openInNewTab": true,
       "indianExchangeCard": false,
       "showWhenLogin": "postLogin",
@@ -152,9 +160,9 @@
     },
     {
       "type": "Withdrawal to bank",
-      "analyticsTag":"Withdrawal to bank",
+      "analyticsTag": "Withdrawal to bank",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Withdraw-to-Bank_Dark.png",
-      "redirectURL":"https://www.delta.exchange/app/account/withdrawal_bank",
+      "redirectURL": "https://www.delta.exchange/app/account/withdrawal_bank",
       "openInNewTab": true,
       "indianExchangeCard": false,
       "showWhenLogin": "postLogin",
@@ -162,18 +170,36 @@
       "theme": "dark"
     },
     {
+      "type": "optionsSpreads",
+      "analyticsTag": "Options Spreads",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Options-Spreads-Mobile-lite.png",
+      "redirectURL": "https://www.delta.exchange/blog/options-spreads",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "theme": "light"
+    },
+    {
+      "type": "optionsSpreads",
+      "analyticsTag": "Options Spreads",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Options-Spreads-Mobile-dark.png",
+      "redirectURL": "https://www.delta.exchange/blog/options-spreads",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "theme": "dark"
+    },
+    {
       "type": "automatedTradingGuide",
-      "analyticsTag":"Automated Trading Guide",
+      "analyticsTag": "Automated Trading Guide",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Guide_Lite.png",
-      "redirectURL":"https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
+      "redirectURL": "https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
       "openInNewTab": true,
       "indianExchangeCard": false,
       "theme": "light"
     },
     {
       "type": "automatedTradingGuide",
-      "analyticsTag":"Automated Trading Guide",
-      "redirectURL":"https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
+      "analyticsTag": "Automated Trading Guide",
+      "redirectURL": "https://www.delta.exchange/blog/automated-trading-guide-no-coding-required",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Guide_Dark.png",
       "openInNewTab": true,
       "indianExchangeCard": false,
