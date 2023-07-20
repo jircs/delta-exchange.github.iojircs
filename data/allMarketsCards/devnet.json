@@ -32,6 +32,14 @@
       "countries": ["India"]
     },
     {
+      "type": "nlbCard",
+      "analyticsTag": "NLB Card",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/NLB-Fee-Web.png",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true,
+      "indianExchangeCard": false
+    },
+    {
       "type": "milestoneOffer",
       "analyticsTag": "30 Day Milestone",
       "meta": {
@@ -116,6 +124,24 @@
         }
       },
       "redirectURL": "https://devnet.delta.exchange/blog/may-cashathon/"
+    },
+    {
+      "type": "nlbCard",
+      "analyticsTag": "NLB Card",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/NLB-Fee-Dark.png",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "theme": "dark"
+    },
+    {
+      "type": "nlbCard",
+      "analyticsTag": "NLB Card",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/NLB-Fee-Light.png",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "theme": "light"
     },
     {
       "type": "milestoneOffer",
