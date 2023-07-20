@@ -32,7 +32,7 @@
       "indianExchangeCard": false
     },
     {
-      "type": "nlb_card",
+      "type": "nlbCard",
       "analyticsTag": "NLB Card",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/NLB-Fee-Web.png",
       "redirectURL": "https://www.delta.exchange/offers",
@@ -107,7 +107,7 @@
       "indianExchangeCard": false
     },
     {
-      "type": "nlb_card",
+      "type": "nlbCard",
       "analyticsTag": "NLB Card",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/NLB-Fee-Dark.png",
       "redirectURL": "https://www.delta.exchange/offers",
@@ -116,7 +116,7 @@
       "theme": "dark"
     },
     {
-      "type": "nlb_card",
+      "type": "nlbCard",
       "analyticsTag": "NLB Card",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/NLB-Fee-Light.png",
       "redirectURL": "https://www.delta.exchange/offers",
