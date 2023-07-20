@@ -32,6 +32,14 @@
       "indianExchangeCard": false
     },
     {
+      "type": "nlb_card",
+      "analyticsTag": "NLB Card",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/NLB-Fee-Web.png",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true,
+      "indianExchangeCard": false
+    },
+    {
       "type": "Decode_Delta_Cash",
       "analyticsTag": "Decode_Delta_Cash",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/04/Decode_Delta_Cash_Web.png",
@@ -97,6 +105,24 @@
         }
       },
       "indianExchangeCard": false
+    },
+    {
+      "type": "nlb_card",
+      "analyticsTag": "NLB Card",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/NLB-Fee-Dark.png",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "theme": "dark"
+    },
+    {
+      "type": "nlb_card",
+      "analyticsTag": "NLB Card",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/NLB-Fee-Light.png",
+      "redirectURL": "https://www.delta.exchange/offers",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "theme": "light"
     },
     {
       "type": "Decode_Delta_Cash",
