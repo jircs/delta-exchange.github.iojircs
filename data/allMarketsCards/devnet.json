@@ -22,16 +22,6 @@
       "redirectURL": "https://devnet.delta.exchange/blog/may-cashathon/"
     },
     {
-      "type": "Withdrawal to bank",
-      "analyticsTag": "Withdrawal to bank",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Withdraw-to-Bank_Web.png",
-      "redirectURL": "https://www.delta.exchange/app/account/withdrawal_bank",
-      "openInNewTab": true,
-      "indianExchangeCard": false,
-      "showWhenLogin": "postLogin",
-      "countries": ["India"]
-    },
-    {
       "type": "nlbCard",
       "analyticsTag": "NLB Card",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/NLB-Fee-Web.png",
@@ -168,6 +158,16 @@
       },
       "openInNewTab": true,
       "indianExchangeCard": false
+    },
+    {
+      "type": "Withdrawal to bank",
+      "analyticsTag": "Withdrawal to bank",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Withdraw-to-Bank_Web.png",
+      "redirectURL": "https://www.delta.exchange/app/account/withdrawal_bank",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "showWhenLogin": "postLogin",
+      "countries": ["India"]
     },
     {
       "type": "milestoneOffer",
