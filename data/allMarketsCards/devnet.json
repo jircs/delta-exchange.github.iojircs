@@ -202,6 +202,17 @@
       }
     },
     {
+      "type": "nlbWhiteListCard",
+      "redirectURL":"https://docs.google.com/forms/d/1iFk_3bu4MqDt3a_FOG-RyTgEMunSJd-9UnAAzgvC_Kc",
+      "analyticsTag": "nlb_whitelisters",
+      "openInNewTab": true,
+      "imageURL":"https://prod-wp.delta.exchange/wp-content/uploads/2023/07/NLB_Whiltelist_Web.png",
+      "indianExchangeCard": false,
+      "meta": {
+        "ids": [70061634]
+      }
+    },
+    {
       "type": "optionsSpreads",
       "analyticsTag": "Options Spreads",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Options-Spreads-web2.png",
@@ -565,6 +576,30 @@
             "firstTradeToBeDone": "https://prod-wp.delta.exchange/wp-content/uploads/2023/05/30day_Trade_milestone_mobile_light.png"
           }
         }
+      }
+    },
+    {
+      "type": "nlbWhiteListCard",
+      "redirectURL":"https://docs.google.com/forms/d/1iFk_3bu4MqDt3a_FOG-RyTgEMunSJd-9UnAAzgvC_Kc",
+      "analyticsTag": "nlb_whitelisters",
+      "openInNewTab": true,
+      "theme":"dark",
+      "imageURL":"https://prod-wp.delta.exchange/wp-content/uploads/2023/07/NLB_Whiltelist_Mobile-dark.png",
+      "indianExchangeCard": false,
+      "meta": {
+        "ids": [70061634]
+      }
+    },
+    {
+      "type": "nlbWhiteListCard",
+      "redirectURL":"https://docs.google.com/forms/d/1iFk_3bu4MqDt3a_FOG-RyTgEMunSJd-9UnAAzgvC_Kc",
+      "analyticsTag": "nlb_whitelisters",
+      "openInNewTab": true,
+      "theme":"light",
+      "imageURL":"https://prod-wp.delta.exchange/wp-content/uploads/2023/07/NLB_Whiltelist_Mobile-light.png",
+      "indianExchangeCard": false,
+      "meta": {
+        "ids": [70061634]
       }
     },
     {
