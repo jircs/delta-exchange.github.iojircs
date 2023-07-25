@@ -193,7 +193,7 @@
     },
     {
       "type": "nlbWhiteListCard",
-      "redirectURL":"https://docs.google.com/forms/d/1iFk_3bu4MqDt3a_FOG-RyTgEMunSJd-9UnAAzgvC_Kc",
+      "redirectURL":"https://docs.google.com/forms/d/e/1FAIpQLSdRlNNHj0RWWddkYmlHBNTnSWoSMG1WcVvQGsJWs2CVXRL6JQ/viewform",
       "analyticsTag": "nlb_whitelisters",
       "openInNewTab": true,
       "imageURL":"https://prod-wp.delta.exchange/wp-content/uploads/2023/07/NLB_Whiltelist_Web-2.png",
@@ -580,7 +580,7 @@
     },
     {
       "type": "nlbWhiteListCard",
-      "redirectURL":"https://docs.google.com/forms/d/1iFk_3bu4MqDt3a_FOG-RyTgEMunSJd-9UnAAzgvC_Kc",
+      "redirectURL":"https://docs.google.com/forms/d/e/1FAIpQLSdRlNNHj0RWWddkYmlHBNTnSWoSMG1WcVvQGsJWs2CVXRL6JQ/viewform",
       "analyticsTag": "nlb_whitelisters",
       "openInNewTab": true,
       "theme":"dark",
@@ -592,7 +592,7 @@
     },
     {
       "type": "nlbWhiteListCard",
-      "redirectURL":"https://docs.google.com/forms/d/1iFk_3bu4MqDt3a_FOG-RyTgEMunSJd-9UnAAzgvC_Kc",
+      "redirectURL":"https://docs.google.com/forms/d/e/1FAIpQLSdRlNNHj0RWWddkYmlHBNTnSWoSMG1WcVvQGsJWs2CVXRL6JQ/viewform",
       "analyticsTag": "nlb_whitelisters",
       "openInNewTab": true,
       "theme":"light",
