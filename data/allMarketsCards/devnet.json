@@ -251,8 +251,10 @@
           }
         },
         "bannerDates": {
-          "offerStartDate": "2023-06-15T00:00:00+00:00",
-          "offerEndDate": "2023-07-01T05:30:00+00:00"
+          "offerStartDate": "2023-07-25T18:30:00+00:00",
+          "offerEndDate": "2023-08-09T18:30:00+00:00",
+          "targetFeesStartDate": "2023-07-0T18:30:00+00:00",
+          "targetFeesEndDate": "2023-08-09T18:30:00+00:00"
         }
       },
       "redirectURL": "https://devnet.delta.exchange/blog/may-cashathon/"
