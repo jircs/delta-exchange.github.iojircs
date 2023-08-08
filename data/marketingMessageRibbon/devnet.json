@@ -3,10 +3,6 @@
   "type": "error",
   "countries": ["India"],
   "heading": "Error Strip",
-  "visibilityPathnames": [
-    { "path": "/app/options_chain/markets" },
-    { "path": "/" }
-  ],
   "message": "Uh Oh! Our data fetching minions ran into an error. Please try again after few minutes.",
   "redirectionLink": "https://devnet.delta.exchange/",
   "remainVisible": true,
