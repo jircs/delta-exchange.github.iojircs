@@ -1,6 +1,12 @@
 {
   "desktop": [
     {
+      "type": "deposit bonus card",
+      "analyticsTag": "deposit bonus card",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/08/DepBonusAug_Web.png",
+      "redirectURL": "https://www.delta.exchange"
+    },
+    {
       "type": "personalizedFeeCard",
       "analyticsTag": "personalized Fee Card-June",
       "meta": {
@@ -247,6 +253,24 @@
     }
   ],
   "mobile": [
+    {
+      "type": "deposit bonus card",
+      "analyticsTag": "deposit bonus card",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/08/DepBonusAug_Dark.png",
+      "redirectURL": "https://www.delta.exchange",
+      "theme": "dark",
+      "openInNewTab": true,
+      "indianExchangeCard": false
+    },
+    {
+      "type": "deposit bonus card",
+      "analyticsTag": "deposit bonus card",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/08/DepBonusAug_Lite.png",
+      "redirectURL": "https://www.delta.exchange",
+      "theme": "light",
+      "openInNewTab": true,
+      "indianExchangeCard": false
+    },
     {
       "type": "personalizedFeeCard",
       "analyticsTag": "personalized Fee Card",
