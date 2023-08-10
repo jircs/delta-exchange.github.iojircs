@@ -1,7 +1,7 @@
 {
   "desktop": [
     {
-      "type": "deposit bonus card",
+      "type": "depositBonusCard",
       "analyticsTag": "deposit bonus card",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/08/DepBonusAug_Web.png",
       "redirectURL": "https://www.delta.exchange"
@@ -254,7 +254,7 @@
   ],
   "mobile": [
     {
-      "type": "deposit bonus card",
+      "type": "depositBonusCard",
       "analyticsTag": "deposit bonus card",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/08/DepBonusAug_Dark.png",
       "redirectURL": "https://www.delta.exchange",
@@ -263,7 +263,7 @@
       "indianExchangeCard": false
     },
     {
-      "type": "deposit bonus card",
+      "type": "depositBonusCard",
       "analyticsTag": "deposit bonus card",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/08/DepBonusAug_Lite.png",
       "redirectURL": "https://www.delta.exchange",
