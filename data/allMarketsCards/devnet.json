@@ -4,7 +4,9 @@
       "type": "depositBonusCard",
       "analyticsTag": "deposit bonus card",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/08/DepBonusAug_Web.png",
-      "redirectURL": "https://www.delta.exchange"
+      "redirectURL": "https://www.delta.exchange/blog/august-deposit-bonus",
+      "openInNewTab": true,
+      "indianExchangeCard": false
     },
     {
       "type": "personalizedFeeCard",
@@ -257,7 +259,7 @@
       "type": "depositBonusCard",
       "analyticsTag": "deposit bonus card",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/08/DepBonusAug_Dark.png",
-      "redirectURL": "https://www.delta.exchange",
+      "redirectURL": "https://www.delta.exchange/blog/august-deposit-bonus",
       "theme": "dark",
       "openInNewTab": true,
       "indianExchangeCard": false
@@ -266,7 +268,7 @@
       "type": "depositBonusCard",
       "analyticsTag": "deposit bonus card",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/08/DepBonusAug_Lite.png",
-      "redirectURL": "https://www.delta.exchange",
+      "redirectURL": "https://www.delta.exchange/blog/august-deposit-bonus",
       "theme": "light",
       "openInNewTab": true,
       "indianExchangeCard": false
