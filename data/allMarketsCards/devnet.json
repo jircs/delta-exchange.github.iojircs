@@ -1,14 +1,6 @@
 {
   "desktop": [
     {
-      "type": "depositBonusCard",
-      "analyticsTag": "deposit bonus card",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/08/DepBonusAug_Web.png",
-      "redirectURL": "https://www.delta.exchange/blog/august-deposit-bonus",
-      "openInNewTab": true,
-      "indianExchangeCard": false
-    },
-    {
       "type": "personalizedFeeCard",
       "analyticsTag": "personalized Fee Card-June",
       "meta": {
