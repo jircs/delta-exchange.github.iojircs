@@ -1,7 +1,7 @@
 {
   "name": "test",
   "type": "information",
-  "countriesValue": "NON_INDIA",
+  "countriesValue": ["India"],
   "heading": "Error Strip",
   "message": "Uh Oh! Our data fetching minions ran into an error. Please try again after few minutes.",
   "redirectionLink": "https://devnet.delta.exchange/",
