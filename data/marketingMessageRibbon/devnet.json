@@ -1,9 +1,10 @@
 {
   "name": "test",
   "type": "information",
-  "countriesValue": ["!China","!Singapore"],
+  "countriesValue": ["!China", "!Singapore"],
   "heading": "Error Strip",
   "landingPathnames": ["/", "/invest/robo-strategies"],
+  "webAppPathnames": ["/app/options/leaderboard", "/app/account/withdrawal"],
   "message": "Uh Oh! Our data fetching minions ran into an error. Please try again after few minutes.",
   "redirectionLink": "https://devnet.delta.exchange/",
   "showWhenLogin": "postLogin",
