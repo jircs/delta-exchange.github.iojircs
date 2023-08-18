@@ -3,6 +3,7 @@
   "type": "information",
   "countriesValue": ["India"],
   "heading": "Error Strip",
+  "landingPathnames": ["/", "/invest/robo-strategies"],
   "message": "Uh Oh! Our data fetching minions ran into an error. Please try again after few minutes.",
   "redirectionLink": "https://devnet.delta.exchange/",
   "showWhenLogin": "postLogin",
