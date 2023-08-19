@@ -431,16 +431,6 @@
       "indianExchangeCard": false
     },
     {
-      "type": "Withdrawal to bank",
-      "analyticsTag": "Withdrawal to bank",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Withdraw-to-Bank_Web.png",
-      "redirectURL": "https://www.delta.exchange/app/account/withdrawal_bank",
-      "openInNewTab": true,
-      "indianExchangeCard": false,
-      "showWhenLogin": "postLogin",
-      "countries": ["India"]
-    },
-    {
       "type": "Decode_Delta_Cash",
       "analyticsTag": "Decode_Delta_Cash",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Decode-DC_Web2.png",
@@ -1270,28 +1260,6 @@
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/06/Automated-Trading-Guide_Dark.png",
       "openInNewTab": true,
       "indianExchangeCard": false,
-      "theme": "dark"
-    },
-    {
-      "type": "Withdrawal to bank",
-      "analyticsTag": "Withdrawal to bank",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Withdraw-to-Bank_Lite2.png",
-      "redirectURL": "https://www.delta.exchange/app/account/withdrawal_bank",
-      "openInNewTab": true,
-      "indianExchangeCard": false,
-      "showWhenLogin": "postLogin",
-      "countries": ["India"],
-      "theme": "light"
-    },
-    {
-      "type": "Withdrawal to bank",
-      "analyticsTag": "Withdrawal to bank",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Withdraw-to-Bank_Dark2.png",
-      "redirectURL": "https://www.delta.exchange/app/account/withdrawal_bank",
-      "openInNewTab": true,
-      "indianExchangeCard": false,
-      "showWhenLogin": "postLogin",
-      "countries": ["India"],
       "theme": "dark"
     },
     {
