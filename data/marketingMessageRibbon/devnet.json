@@ -2,10 +2,9 @@
   "name": "test",
   "type": "information",
   "countriesValue": ["!China", "!Singapore"],
-  "heading": "Error Strip",
+  "heading": "Info Strip",
   "landingPathnames": ["/", "/invest/robo-strategies"],
-  "webAppPathnames": ["/app/options/leaderboard", "/app/account/withdrawal"],
-  "message": "Uh Oh! Our data fetching minions ran into an error. Please try again after few minutes.",
+  "message": "Hi! Delta exchange Information Strip .General information for users is displayed here.",
   "redirectionLink": "https://devnet.delta.exchange/",
   "showWhenLogin": "postLogin",
   "openInNewTab": true
