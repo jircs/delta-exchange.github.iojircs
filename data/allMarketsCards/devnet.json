@@ -202,28 +202,6 @@
       "countries": ["India"]
     },
     {
-      "type": "Withdrawal to bank",
-      "analyticsTag": "Withdrawal to bank",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Withdraw-to-Bank_Lite2.png",
-      "redirectURL": "https://www.delta.exchange/app/account/withdrawal_bank",
-      "openInNewTab": true,
-      "indianExchangeCard": false,
-      "showWhenLogin": "postLogin",
-      "countries": ["India"],
-      "theme": "light"
-    },
-    {
-      "type": "Withdrawal to bank",
-      "analyticsTag": "Withdrawal to bank",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Withdraw-to-Bank_Dark2.png",
-      "redirectURL": "https://www.delta.exchange/app/account/withdrawal_bank",
-      "openInNewTab": true,
-      "indianExchangeCard": false,
-      "showWhenLogin": "postLogin",
-      "countries": ["India"],
-      "theme": "dark"
-    },
-    {
       "type": "optionsSpreads",
       "analyticsTag": "Options Spreads",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/08/Options-Spreads-Web2.png",
@@ -328,6 +306,28 @@
           }
         }
       }
+    },
+    {
+      "type": "Withdrawal to bank",
+      "analyticsTag": "Withdrawal to bank",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Withdraw-to-Bank_Lite2.png",
+      "redirectURL": "https://www.delta.exchange/app/account/withdrawal_bank",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "showWhenLogin": "postLogin",
+      "countries": ["India"],
+      "theme": "light"
+    },
+    {
+      "type": "Withdrawal to bank",
+      "analyticsTag": "Withdrawal to bank",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/07/Withdraw-to-Bank_Dark2.png",
+      "redirectURL": "https://www.delta.exchange/app/account/withdrawal_bank",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "showWhenLogin": "postLogin",
+      "countries": ["India"],
+      "theme": "dark"
     },
     {
       "type": "optionsSpreads",
