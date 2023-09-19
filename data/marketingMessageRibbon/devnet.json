@@ -1,11 +1,10 @@
 {
-  "name": "test",
-  "type": "information",
-  "countriesValue": ["!China", "!Singapore"],
-  "heading": "Info Strip",
-  "landingPathnames": ["/", "/invest/robo-strategies"],
-  "message": "Hi! Delta exchange Information Strip .General information for users is displayed here.",
-  "redirectionLink": "https://devnet.delta.exchange/",
+  "name": "withdrawal_bank_error",
+  "type": "error",
+  "countriesValue": ["India"],
+  "webAppPathnames": ["/account/withdrawal_bank"],
+  "message": "Due to technical issues at Onmeta's end, INR withdrawals are temporarily suspended. We are working with a partner to resume services. ETA: 72 hrs.",
   "showWhenLogin": "postLogin",
+  "remainVisible": true,
   "openInNewTab": true
 }
