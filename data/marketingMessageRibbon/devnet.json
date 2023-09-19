@@ -2,7 +2,7 @@
   "name": "withdrawal_bank_error",
   "type": "error",
   "countriesValue": ["India"],
-  "webAppPathnames": ["/account/withdrawal_bank"],
+  "webAppPathnames": ["/app/account/withdrawal_bank"],
   "message": "Due to technical issues at Onmeta's end, INR withdrawals are temporarily suspended. We are working with a partner to resume services. ETA: 72 hrs.",
   "showWhenLogin": "postLogin",
   "remainVisible": true,
