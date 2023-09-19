@@ -1,8 +1,11 @@
 {
-  "headingText": "Prod JSON",
-  "mainText": "This is from Prod JSON",
-  "externalLinkText": "Prod LANDING",
-  "externalLinkURL": "https://delta.exchange/",
-  "openInNewTab": true,
-  "id": "Prod"
+  "name": "withdrawal_bank_error",
+  "type": "error",
+  "countriesValue": ["India"],
+  "webAppPathnames": ["/app/account/withdrawal_bank"],
+  "landingPathnames":null,
+  "message": "Due to technical issues at Onmeta's end, INR withdrawals are temporarily suspended. We are working with a partner to resume services. ETA: 72 hrs.",
+  "showWhenLogin": "postLogin",
+  "remainVisible": true,
+  "openInNewTab": true
 }
