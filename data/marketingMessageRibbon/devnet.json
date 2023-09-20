@@ -1,11 +1,21 @@
-{
-  "name": "withdrawal_bank_error",
-  "type": "error",
-  "countriesValue": ["India"],
-  "webAppPathnames": ["/app/account/withdrawal_bank"],
-  "landingPathnames":null,
-  "message": "Due to technical issues at Onmeta's end, INR withdrawals are temporarily suspended. We are working with a partner to resume services. ETA: 72 hrs.",
-  "showWhenLogin": "postLogin",
-  "remainVisible": true,
-  "openInNewTab": true
-}
+[
+  {
+    "name": "restricted_country",
+    "type": "error",
+    "ipCountries": ["Canada"],
+    "landingPathnames": [{ "path": "/" }],
+    "message": "We've observed that you've logged-in from a country where we currently don't serve.",
+    "remainVisible": true
+  },
+  {
+    "name": "withdrawal_bank_error",
+    "type": "error",
+    "countriesValue": ["India"],
+    "webAppPathnames": ["/app/account/withdrawal_bank"],
+    "landingPathnames": null,
+    "message": "Due to technical issues at Onmeta's end, INR withdrawals are temporarily suspended. We are working with a partner to resume services. ETA: 72 hrs.",
+    "showWhenLogin": "postLogin",
+    "remainVisible": true,
+    "openInNewTab": true
+  }
+]
