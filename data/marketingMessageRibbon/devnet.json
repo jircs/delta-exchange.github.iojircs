@@ -2,7 +2,25 @@
   {
     "name": "restricted_country",
     "type": "error",
-    "ipCountries": ["Canada"],
+    "ipCountries": [
+      "Canada",
+      "United States",
+      "Puerto Rico",
+      "Saint Vincent and the Grenadines",
+      "Iran",
+      "Democratic People's Republic of Korea",
+      "Syria",
+      "Cuba",
+      "Afghanistan",
+      "Pakistan",
+      "Sudan",
+      "Libya",
+      "Iraq",
+      "Canada",
+      "American Samoa",
+      "Yugoslavia",
+      "Northern Mariana Islands"
+    ],
     "landingPathnames": [{ "path": "/" }],
     "message": "We've observed that you've logged-in from a country where we currently don't serve.",
     "remainVisible": true
