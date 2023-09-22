@@ -19,7 +19,8 @@
       "Canada",
       "American Samoa",
       "Yugoslavia",
-      "Northern Mariana Islands"
+      "Northern Mariana Islands",
+      "India"
     ],
     "landingPathnames": [{ "path": "/" }],
     "message": "We've observed that you've logged-in from a country where we currently don't serve.",
