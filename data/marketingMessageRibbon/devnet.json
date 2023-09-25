@@ -23,7 +23,8 @@
       "India"
     ],
     "landingPathnames": [{ "path": "/" }],
-    "message": "We've observed that you've logged-in from a country where we currently don't serve.",
+    "message": "You are accessing Delta Exchange from a restricted country where Delta Exchange does not serve customers. Learn more.",
+    "redirectionLink":"https://www.delta.exchange/terms-of-use",
     "remainVisible": true
   },
   {
