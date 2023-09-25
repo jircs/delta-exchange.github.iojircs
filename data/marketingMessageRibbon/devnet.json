@@ -24,7 +24,8 @@
     ],
     "landingPathnames": [{ "path": "/" }],
     "message": "You are accessing Delta Exchange from a restricted country where Delta Exchange does not serve customers. Learn more.",
-    "redirectionLink":"https://www.delta.exchange/terms-of-use",
+    "redirectionLink": "https://www.delta.exchange/terms-of-use",
+    "openInNewTab": true,
     "remainVisible": true
   },
   {
