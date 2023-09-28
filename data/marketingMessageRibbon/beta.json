@@ -33,6 +33,7 @@
     "type": "information",
     "redirectionLink": "https://www.delta.exchange/app/options_chain/markets",
     "showWhenLogin": "postLogin",
-    "message": "Liquidity on ETH Options has improved multifold. Trade Now."
+    "message": "Liquidity on ETH Options has improved multifold. Trade Now.",
+    "landingPathnames": null
   }
 ]
