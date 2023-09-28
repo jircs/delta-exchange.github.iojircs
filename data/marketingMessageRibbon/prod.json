@@ -1,32 +1,38 @@
 [
-    {
-      "name": "restricted_country",
-      "type": "error",
-      "ipCountries": [
-        "Canada",
-        "United States",
-        "Puerto Rico",
-        "Saint Vincent and the Grenadines",
-        "Iran",
-        "Democratic People's Republic of Korea",
-        "Syria",
-        "Cuba",
-        "Afghanistan",
-        "Pakistan",
-        "Sudan",
-        "Libya",
-        "Iraq",
-        "Canada",
-        "American Samoa",
-        "Yugoslavia",
-        "Northern Mariana Islands",
-        "United Kingdom"
-      ],
-      "landingPathnames": [{ "path": "/" }],
-      "message": "You are accessing Delta Exchange from a restricted country where Delta Exchange does not serve customers. Learn more.",
-      "redirectionLink": "https://www.delta.exchange/terms-of-use",
-      "openInNewTab": true,
-      "remainVisible": true
-    }
-  ]
-  
+  {
+    "name": "restricted_country",
+    "type": "error",
+    "ipCountries": [
+      "Canada",
+      "United States",
+      "Puerto Rico",
+      "Saint Vincent and the Grenadines",
+      "Iran",
+      "Democratic People's Republic of Korea",
+      "Syria",
+      "Cuba",
+      "Afghanistan",
+      "Pakistan",
+      "Sudan",
+      "Libya",
+      "Iraq",
+      "Canada",
+      "American Samoa",
+      "Yugoslavia",
+      "Northern Mariana Islands",
+      "United Kingdom"
+    ],
+    "landingPathnames": [{ "path": "/" }],
+    "message": "You are accessing Delta Exchange from a restricted country where Delta Exchange does not serve customers. Learn more.",
+    "redirectionLink": "https://www.delta.exchange/terms-of-use",
+    "openInNewTab": true,
+    "remainVisible": true
+  },
+  {
+    "name": "ETH Options Liquidity",
+    "type": "information",
+    "redirectionLink": "https://www.delta.exchange/app/options_chain/markets",
+    "showWhenLogin": "postLogin",
+    "message": "Liquidity on ETH Options has improved multifold. Trade Now."
+  }
+]
