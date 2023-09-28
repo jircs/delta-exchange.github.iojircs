@@ -32,6 +32,7 @@
     "name": "ETH Options Liquidity",
     "type": "information",
     "redirectionLink": "https://www.delta.exchange/app/options_chain/markets",
-    "showWhenLogin": "postLogin"
+    "showWhenLogin": "postLogin",
+    "message": "Liquidity on ETH Options has improved multifold. Trade Now."
   }
 ]
