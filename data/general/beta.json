@@ -4,7 +4,8 @@
         "tradingLightMobile": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/TradingLightMobile.png",
         "tradingDarkMobile": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/TradingDarkMobile.png",
         "tradingLightWeb": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/TradingLightWeb.png",
-        "tradingDarkWeb": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/TradingDarkWeb.png"
+        "tradingDarkWeb": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/TradingDarkWeb.png",
+        "mixpanelEvent": "reduce_fees"
       }
     }
   }
