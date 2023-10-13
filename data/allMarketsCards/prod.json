@@ -13,7 +13,7 @@
           "offerEndDate": "2023-10-16T18:30:00+00:00"
         }
       },
-      "redirectURL": "https://beta.delta.exchange/app/options_chain/markets",
+      "redirectURL": "https://www.delta.exchange/app/options_chain/markets",
       "openInNewTab": true,
       "indianExchangeCard": false
     },
@@ -118,7 +118,7 @@
           "offerEndDate": "2023-10-16T18:30:00+00:00"
         }
       },
-      "redirectURL": "https://beta.delta.exchange/app/options_chain/markets",
+      "redirectURL": "https://www.delta.exchange/app/options_chain/markets",
       "openInNewTab": true,
       "indianExchangeCard": false
     },
