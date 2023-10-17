@@ -1,6 +1,29 @@
 {
   "desktop": [
     {
+      "type": "optionsNotFuturesCard",
+      "analyticsTag": "Opt Not Fut Card",
+      "meta": {
+        "bannerLinks": {
+          "deltaCash": {
+            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/FutOpt-DC_Web.png",
+            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/FutOpt-DC_Web.png"
+          },
+          "usdt": {
+            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/FutOpt-USDT_Web.png",
+            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/FutOpt-USDT_Web.png"
+          }
+        },
+        "bannerDates": {
+          "offerStartDate": "2023-10-17T14:30:00+00:00",
+          "offerEndDate": "2023-10-31T18:30:00+00:00"
+        }
+      },
+      "redirectURL": "https://www.delta.exchange/app/futures/markets",
+      "openInNewTab": true,
+      "indianExchangeCard": false
+    },
+    {
       "type": "personalizedAssetCard",
       "analyticsTag": "personalized Asset Card-Oct",
       "meta": {
@@ -222,6 +245,29 @@
     }
   ],
   "mobile": [
+    {
+      "type": "optionsNotFuturesCard",
+      "analyticsTag": "Opt Not Fut Card",
+      "meta": {
+        "bannerLinks": {
+          "deltaCash": {
+            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/FutOpt-DC_mobiledark.png",
+            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/FutOpt-DC_mobilelite.png"
+          },
+          "usdt": {
+            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/FutOpt-USDT_mobiledark.png",
+            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/FutOpt-USDT_mobilelite.png"
+          }
+        },
+        "bannerDates": {
+          "offerStartDate": "2023-10-17T14:30:00+00:00",
+          "offerEndDate": "2023-10-31T18:30:00+00:00"
+        }
+      },
+      "redirectURL": "https://www.delta.exchange/app/futures/markets",
+      "openInNewTab": true,
+      "indianExchangeCard": false
+    },
     {
       "type": "personalizedAssetCard",
       "analyticsTag": "personalized Asset Card-Oct",
