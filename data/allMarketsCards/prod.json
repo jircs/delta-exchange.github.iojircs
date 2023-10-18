@@ -22,7 +22,7 @@
       "redirectURL": "https://www.delta.exchange/app/futures/markets",
       "openInNewTab": true,
       "indianExchangeCard": false,
-      "showWhenLogin": true
+      "showWhenLogin": "postLogin"
     },
     {
       "type": "personalizedFeeCard",
@@ -134,7 +134,7 @@
       "redirectURL": "https://www.delta.exchange/app/futures/markets",
       "openInNewTab": true,
       "indianExchangeCard": false,
-      "showWhenLogin": true
+      "showWhenLogin": "postLogin"
     },
     {
       "type": "personalizedFeeCard",
