@@ -44,7 +44,8 @@
       },
       "redirectURL": "https://devnet.delta.exchange/app/futures/markets",
       "openInNewTab": true,
-      "indianExchangeCard": false
+      "indianExchangeCard": false,
+      "showWhenLogin": "postLogin"
     },
     {
       "type": "nlbCard",
@@ -278,7 +279,8 @@
       },
       "redirectURL": "https://devnet.delta.exchange/app/futures/markets",
       "openInNewTab": true,
-      "indianExchangeCard": false
+      "indianExchangeCard": false,
+      "showWhenLogin": "postLogin"
     },
     {
       "type": "depositBonusCard",
