@@ -79,6 +79,14 @@
       "indianExchangeCard": false
     },
     {
+      "type": "thousandOffer",
+      "analyticsTag": "1000 Offer_cs",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offerCS_Web.png",
+      "redirectURL": "https://www.delta.exchange/blog/win-1000-reward?category=all",
+      "openInNewTab": true,
+      "indianExchangeCard": false
+    },
+    {
       "type": "optionsSpreads",
       "analyticsTag": "Options Spreads",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/09/OptionsSpreads_Web3.png",
@@ -189,6 +197,24 @@
         }
       },
       "indianExchangeCard": false
+    },
+    {
+      "type": "thousandOffer",
+      "analyticsTag": "1000 Offer_cs",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offerCS_lite.png",
+      "redirectURL": "https://www.delta.exchange/blog/win-1000-reward?category=all",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "theme": "light"
+    },
+    {
+      "type": "thousandOffer",
+      "analyticsTag": "1000 Offer_cs",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offerCS_Dark2.png",
+      "redirectURL": "https://www.delta.exchange/blog/win-1000-reward?category=all",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "theme": "dark"
     },
     {
       "type": "optionsSpreads",

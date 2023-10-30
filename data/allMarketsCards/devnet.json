@@ -215,7 +215,7 @@
     },
     {
       "type": "thousandOffer",
-      "analyticsTag": "1000 Offer",
+      "analyticsTag": "1000 Offer_cs",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offerCS_Web.png",
       "redirectURL": "https://devnet.delta.exchange/blog/win-1000-reward?category=all",
       "openInNewTab": true,
@@ -363,7 +363,7 @@
     },
     {
       "type": "thousandOffer",
-      "analyticsTag": "1000 Offer",
+      "analyticsTag": "1000 Offer_cs",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offerCS_lite.png",
       "redirectURL": "https://devnet.delta.exchange/blog/win-1000-reward?category=all",
       "openInNewTab": true,
@@ -372,7 +372,7 @@
     },
     {
       "type": "thousandOffer",
-      "analyticsTag": "1000 Offer",
+      "analyticsTag": "1000 Offer_cs",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offerCS_Dark2.png",
       "redirectURL": "https://devnet.delta.exchange/blog/win-1000-reward?category=all",
       "openInNewTab": true,
