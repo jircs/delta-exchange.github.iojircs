@@ -214,6 +214,14 @@
       }
     },
     {
+      "type": "thousandOffer",
+      "analyticsTag": "1000 Offer",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offerCS_Web.png",
+      "redirectURL": "https://devnet.delta.exchange/blog/win-1000-reward?category=all",
+      "openInNewTab": true,
+      "indianExchangeCard": false
+    },
+    {
       "type": "optionsSpreads",
       "analyticsTag": "Options Spreads",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/09/OptionsSpreads_Web3.png",
@@ -352,6 +360,24 @@
           }
         }
       }
+    },
+    {
+      "type": "thousandOffer",
+      "analyticsTag": "1000 Offer",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offerCS_lite.png",
+      "redirectURL": "https://devnet.delta.exchange/blog/win-1000-reward?category=all",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "theme": "light"
+    },
+    {
+      "type": "thousandOffer",
+      "analyticsTag": "1000 Offer",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offerCS_dark.png",
+      "redirectURL": "https://devnet.delta.exchange/blog/win-1000-reward?category=all",
+      "openInNewTab": true,
+      "indianExchangeCard": false,
+      "theme": "dark"
     },
     {
       "type": "optionsSpreads",
