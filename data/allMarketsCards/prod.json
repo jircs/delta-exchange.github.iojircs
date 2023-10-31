@@ -1,30 +1,6 @@
 {
   "desktop": [
     {
-      "type": "optionsNotFuturesCard",
-      "analyticsTag": "Opt Not Fut Card",
-      "meta": {
-        "bannerLinks": {
-          "deltaCash": {
-            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/FutOpt-DC_Web.png",
-            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/FutOpt-DC_Web.png"
-          },
-          "usdt": {
-            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/FutOpt-USDT_Web.png",
-            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/FutOpt-USDT_Web.png"
-          }
-        },
-        "bannerDates": {
-          "offerStartDate": "2023-10-17T13:30:00+00:00",
-          "offerEndDate": "2023-10-31T18:30:00+00:00"
-        }
-      },
-      "redirectURL": "https://www.delta.exchange/app/futures/markets",
-      "openInNewTab": true,
-      "indianExchangeCard": false,
-      "showWhenLogin": "postLogin"
-    },
-    {
       "type": "personalizedFeeCard",
       "analyticsTag": "personalized Fee Card-June",
       "meta": {
@@ -79,12 +55,12 @@
       "indianExchangeCard": false
     },
     {
-      "type": "thousandOffer",
-      "analyticsTag": "1000 Offer_cs",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offerCS_Web.png",
+      "type": "Scalper Carnival Futures",
+      "analyticsTag": "1000 Offer",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offer2_Web.png",
       "redirectURL": "https://www.delta.exchange/blog/win-1000-reward?category=all",
       "openInNewTab": true,
-      "indianExchangeCard": false
+      "indianExchangeCard": true
     },
     {
       "type": "optionsSpreads",
@@ -120,30 +96,6 @@
     }
   ],
   "mobile": [
-    {
-      "type": "optionsNotFuturesCard",
-      "analyticsTag": "Opt Not Fut Card",
-      "meta": {
-        "bannerLinks": {
-          "deltaCash": {
-            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/FutOpt-DC_mobiledark.png",
-            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/FutOpt-DC_mobilelite.png"
-          },
-          "usdt": {
-            "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/FutOpt-USDT_mobiledark.png",
-            "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/FutOpt-USDT_mobilelite.png"
-          }
-        },
-        "bannerDates": {
-          "offerStartDate": "2023-10-17T13:30:00+00:00",
-          "offerEndDate": "2023-10-31T18:30:00+00:00"
-        }
-      },
-      "redirectURL": "https://www.delta.exchange/app/futures/markets",
-      "openInNewTab": true,
-      "indianExchangeCard": false,
-      "showWhenLogin": "postLogin"
-    },
     {
       "type": "personalizedFeeCard",
       "analyticsTag": "personalized Fee Card",
@@ -199,22 +151,22 @@
       "indianExchangeCard": false
     },
     {
-      "type": "thousandOffer",
-      "analyticsTag": "1000 Offer_cs",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offerCS_lite.png",
+      "type": "Scalper Carnival Futures",
+      "analyticsTag": "1000 Offer",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offer2_dark.png",
       "redirectURL": "https://www.delta.exchange/blog/win-1000-reward?category=all",
       "openInNewTab": true,
-      "indianExchangeCard": false,
-      "theme": "light"
+      "indianExchangeCard": true,
+      "theme": "dark"
     },
     {
-      "type": "thousandOffer",
-      "analyticsTag": "1000 Offer_cs",
-      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offerCS_Dark2.png",
+      "type": "Scalper Carnival Futures",
+      "analyticsTag": "1000 Offer",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offer2_lite.png",
       "redirectURL": "https://www.delta.exchange/blog/win-1000-reward?category=all",
       "openInNewTab": true,
-      "indianExchangeCard": false,
-      "theme": "dark"
+      "indianExchangeCard": true,
+      "theme": "light"
     },
     {
       "type": "optionsSpreads",
