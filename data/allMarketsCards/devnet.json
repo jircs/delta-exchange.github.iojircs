@@ -25,9 +25,9 @@
     },
     {
       "type": "Scalper Carnival Futures",
-      "analyticsTag": "Scalper Futures",
+      "analyticsTag": "1000 Offer",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offer2_Web.png",
-      "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
+      "redirectURL": "https://www.delta.exchange/blog/win-1000-reward?category=all",
       "openInNewTab": true,
       "indianExchangeCard": true
     },
@@ -300,18 +300,18 @@
     },
     {
       "type": "Scalper Carnival Futures",
-      "analyticsTag": "Scalper Futures",
+      "analyticsTag": "1000 Offer",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offer2_dark.png",
-      "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
+      "redirectURL": "https://www.delta.exchange/blog/win-1000-reward?category=all",
       "openInNewTab": true,
       "indianExchangeCard": true,
       "theme": "dark"
     },
     {
       "type": "Scalper Carnival Futures",
-      "analyticsTag": "Scalper Futures",
+      "analyticsTag": "1000 Offer",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offer2_lite.png",
-      "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
+      "redirectURL": "https://www.delta.exchange/blog/win-1000-reward?category=all",
       "openInNewTab": true,
       "indianExchangeCard": true,
       "theme": "light"
