@@ -24,6 +24,23 @@
       "redirectURL": "https://www.delta.exchange/blog/cashback-offer"
     },
     {
+      "type": "personalizedAssetCard",
+      "analyticsTag": "personalized Asset Card-Oct",
+      "meta": {
+        "bannerLinks": {
+         "dark": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offer_Web.png",
+         "light": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offer_Web.png"
+        },
+        "bannerDates": {
+          "offerStartDate": "2023-10-13T14:30:00+00:00",
+          "offerEndDate": "2023-11-28T18:30:00+00:00"
+        }
+      },
+      "redirectURL": "https://www.delta.exchange/app/options_chain/markets",
+      "openInNewTab": true,
+      "indianExchangeCard": false
+    },
+    {
       "type": "optionsNotFuturesCard",
       "analyticsTag": "Opt Not Fut Card",
       "meta": {
