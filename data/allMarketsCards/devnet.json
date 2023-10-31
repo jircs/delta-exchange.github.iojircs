@@ -299,6 +299,24 @@
       "showWhenLogin": "postLogin"
     },
     {
+      "type": "Scalper Carnival Futures",
+      "analyticsTag": "Scalper Futures",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offerCS_dark.png",
+      "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
+      "openInNewTab": true,
+      "indianExchangeCard": true,
+      "theme": "dark"
+    },
+    {
+      "type": "Scalper Carnival Futures",
+      "analyticsTag": "Scalper Futures",
+      "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/10/1000offer_Lite.png",
+      "redirectURL": "https://www.delta.exchange/blog/futures-scalper-carnival",
+      "openInNewTab": true,
+      "indianExchangeCard": true,
+      "theme": "dark"
+    },
+    {
       "type": "depositBonusCard",
       "analyticsTag": "deposit bonus card",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/08/DepBonusAug_Dark.png",
