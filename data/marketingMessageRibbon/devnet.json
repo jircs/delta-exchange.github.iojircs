@@ -29,11 +29,11 @@
     "remainVisible": true
   },
   {
-    "name": "ETH Options Liquidity",
+    "name": "1000 Offer",
     "type": "information",
-    "redirectionLink": "https://www.delta.exchange/app/options_chain/markets",
+    "redirectionLink": "https://www.delta.exchange/app/futures/trade/BTC/BTCUSDT",
     "showWhenLogin": "postLogin",
-    "message": "Liquidity on ETH Options has improved multifold. Trade Now.",
+    "message": "Win $1000 reward this month. Trade and get upto 50% Fee cashback every week",
     "landingPathnames": null
   }
 ]
