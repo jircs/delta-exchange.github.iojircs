@@ -233,7 +233,7 @@
       "type": "optionsSpreads",
       "analyticsTag": "Options Spreads",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/09/OptionsSpreads_Web3.png",
-      "redirectURL": "http://localhost:3000/app/options_combos/markets",
+      "redirectURL": "https://devnet.delta.exchange/app/options_combos/markets",
       "openInNewTab": false,
       "indianExchangeCard": false
     },
@@ -409,7 +409,7 @@
       "type": "optionsSpreads",
       "analyticsTag": "Options Spreads",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/09/OptionsSpreads_Lite3.png",
-      "redirectURL": "http://localhost:3000/app/options_combos/markets",
+      "redirectURL": "https://devnet.delta.exchange/app/options_combos/markets",
       "openInNewTab": false,
       "indianExchangeCard": false,
       "theme": "light"
@@ -418,7 +418,7 @@
       "type": "optionsSpreads",
       "analyticsTag": "Options Spreads",
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/09/OptionsSpreads_Dark3.png",
-      "redirectURL": "http://localhost:3000/app/options_combos/markets",
+      "redirectURL": "https://devnet.delta.exchange/app/options_combos/markets",
       "openInNewTab": false,
       "indianExchangeCard": false,
       "theme": "dark"
