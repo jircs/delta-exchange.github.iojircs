@@ -235,7 +235,8 @@
       "imageURL": "https://prod-wp.delta.exchange/wp-content/uploads/2023/09/OptionsSpreads_Web3.png",
       "redirectURL": "https://devnet.delta.exchange/app/options_combos/markets",
       "openInNewTab": false,
-      "indianExchangeCard": false
+      "indianExchangeCard": false,
+      "useLinkTag": true
     },
     {
       "type": "Withdrawal to bank",
@@ -412,7 +413,8 @@
       "redirectURL": "https://devnet.delta.exchange/app/options_combos/markets",
       "openInNewTab": false,
       "indianExchangeCard": false,
-      "theme": "light"
+      "theme": "light",
+      "useLinkTag": true
     },
     {
       "type": "optionsSpreads",
@@ -421,7 +423,8 @@
       "redirectURL": "https://devnet.delta.exchange/app/options_combos/markets",
       "openInNewTab": false,
       "indianExchangeCard": false,
-      "theme": "dark"
+      "theme": "dark",
+      "useLinkTag": true
     },
     {
       "type": "Withdrawal to bank",
